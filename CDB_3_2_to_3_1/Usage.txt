@@ -1,0 +1,6 @@
+These xslts are used by SAPI to transform CDB XML 3.2 to CDB XML 3.1
+They should be run in the following order :
+Map_3_2_F_to_3_1_F_fix_ns
+MapCDBXSD_3_2_ToCDB_XSD_3_1_02 (or the latest version)
+
+

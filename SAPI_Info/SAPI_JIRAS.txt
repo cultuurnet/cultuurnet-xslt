@@ -1,6 +1,6 @@
 Jiras for sapi transpormations :
 --------------------------------
-PWK-438 Outputkanalen na exit sapi 1PWK-479 TicketURL op build.uitdatabank listview? (21/Sep/16)
+PWK-438 Outputkanalen na exit sapi 1PWK-479 TicketURL op build.uitdatabank listview? (19/Oct/16 )
 	Refers to CULTSAPI-289 Nieuwe xslt voor transformatie naar 3.1
 
 

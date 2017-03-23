@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+This xslt is to be used on the subscriber side of IIS3.
+It copies the xml with no modifications so it can be used at the output.
+It copies media files from their href to a directory specified in a variable or in the code
+or, if the file name does not start with http, from the local directory to a directory specified in a variable or in the cod.
+-->
+<xsl:stylesheet version="1.0" xmlns="http://www.cultuurdatabank.com/XMLSchema/CdbXSD/3.1/DRAFT" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:n1="http://www.cultuurdatabank.com/XMLSchema/CdbXSD/3.1/DRAFT" xmlns:java="http://xml.apache.org/xalan/java" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:extfun="external_functions" xmlns:file="java.io.File" xmlns:xalan="http://xml.apache.org/xalan" exclude-result-prefixes="n1  xalan java extfun file">
+	<!--   xmlns="http://www.cultuurdatabank.com/XMLSchema/CdbXSD/3.0/FINAL"  -->
+	
+	<xsl:output method="xml" version="1.0" encoding="ISO-8859-1" indent="yes"/>
+	<xalan:component prefix="extfun">
+		<xalan:script lang="javascript"><![CDATA[ 
+		
+		function filetofile(file_in,file_out)
+		 {
+		 
+		var output_file = java.io.FileOutputStream(file_out)
+		var input_file = java.io.FileInputStream(file_in)
+			
+		while ((read = input_file.read()) != -1) {
+			var write = output_file.write(read)	
+		}
+		
+		//var close_1 = output_file.close()
+		//var close_2 = input_file.close()
+
+		 return true
+		 
+		 }
+		//------------------------------------------------------------ 
+		function writeLoopjpg(url_in,file_out)
+		 {
+		 
+		// This works but is very slow.
+		
+		
+		var url_1 = new java.net.URL(url_in)
+		
+		//make sure the url can be accessed 
+		try 	{
+				var open_stream = java.io.InputStream(url_1.openStream())
+				}
+		catch(err)
+				{
+				return false
+				}
+				
+		var file = java.io.FileOutputStream(file_out)
+			
+		while ((read = open_stream.read()) != -1) {
+			var write = file.write(read)	
+		}
+		
+		var close_1 = file.close()
+		var close_2 = open_stream.close()
+
+		 return true
+		 
+		 }
+		
+		function testURL(url_in)
+		 {
+		 	
+		var url_1 = new java.net.URL(url_in)
+		
+		//make sure the url can be accessed 
+		try 	{
+				var open_stream = java.io.InputStream(url_1.openStream())
+				}
+				catch(err)
+				{
+				return false
+				}
+		return true
+		}
+		
+		
+			function writeLoop(url_in)
+		 {
+		 	
+		var url_1 = new java.net.URL(url_in)
+		
+		
+		//make sure the url can be accessed (again)
+		try 	{
+				var open_stream = java.io.InputStream(url_1.openStream())
+				}
+				catch(err)
+				{
+				return false
+				}
+		
+		var chars = 0
+		var str = "";
+		var all_text = new java.lang.String
+		var read = new java.lang.String  
+		
+		while ((read = open_stream.read()) != -1)
+		{
+		chars = chars + 1
+		str += ';' + read + ';'
+		all_text +=  ';' +  read + ';'
+		}
+		
+		// return  str
+		
+		var close_2 = open_stream.close()
+		
+		// use ; before and after each hexpair to revent 33 replacing part of 233
+		//  _ represents unused chatacters
+		
+		if (chars > 0)
+		
+		{
+		
+		all_text_1 = all_text.replace(/;32;/g,' ')
+		all_text_2 = all_text_1.replace(/;33;/g,'!')
+		all_text_3 = all_text_2.replace(/;34;/g,'"')
+		all_text_4 = all_text_3.replace(/;35;/g,'#')
+		all_text_5 = all_text_4.replace(/;36;/g,'$')
+		all_text_6 = all_text_5.replace(/;37;/g,'%')
+		all_text_7 = all_text_6.replace(/;38;/g,'&')
+		
+		// use double quites round the single quote 
+		all_text_8 = all_text_7.replace(/;39;/g,"'")
+		all_text_9 = all_text_8.replace(/;40;/g,'(')
+		all_text_10 = all_text_9.replace(/;41;/g,')')
+		
+		all_text_11 = all_text_10.replace(/;42;/g,'*')
+		all_text_12 = all_text_11.replace(/;43;/g,'+')
+		all_text_13 = all_text_12.replace(/;44;/g,',')
+		all_text_14 = all_text_13.replace(/;45;/g,'-')
+		all_text_15 = all_text_14.replace(/;46;/g,'.')
+		all_text_16 = all_text_15.replace(/;47;/g,'/')
+		all_text_17 = all_text_16.replace(/;48;/g,'0')
+		all_text_18 = all_text_17.replace(/;49;/g,'1')
+		all_text_19 = all_text_18.replace(/;50;/g,'2')
+		all_text_20 = all_text_19.replace(/;51;/g,'3')
+		
+		all_text_21 = all_text_20.replace(/;52;/g,'4')
+		all_text_22 = all_text_21.replace(/;53;/g,'5')
+		all_text_23 = all_text_22.replace(/;54;/g,'6')
+		all_text_24 = all_text_23.replace(/;55;/g,'7')
+		all_text_25 = all_text_24.replace(/;56;/g,'8')
+		all_text_26 = all_text_25.replace(/;57;/g,'9')
+		all_text_27 = all_text_26.replace(/;58;/g,':')
+		all_text_28 = all_text_27.replace(/;59;/g,';')
+		all_text_29 = all_text_28.replace(/;60;/g,'&lt;')
+		all_text_30 = all_text_29.replace(/;61;/g,'=')
+		
+		all_text_31 = all_text_30.replace(/;62;/g,'&gt;')
+		all_text_32 = all_text_31.replace(/;63;/g,'?')
+		all_text_33 = all_text_32.replace(/;64;/g,'@')
+		all_text_34 = all_text_33.replace(/;65;/g,'A')
+		all_text_35 = all_text_34.replace(/;66;/g,'B')
+		all_text_36 = all_text_35.replace(/;67;/g,'C')
+		all_text_37 = all_text_36.replace(/;68;/g,'D')
+		all_text_38 = all_text_37.replace(/;69;/g,'E')
+		all_text_39 = all_text_38.replace(/;70;/g,'F')
+		all_text_40 = all_text_39.replace(/;71;/g,'G')
+		
+		all_text_41 = all_text_40.replace(/;72;/g,'H')
+		all_text_42 = all_text_41.replace(/;73;/g,'I')
+		all_text_43 = all_text_42.replace(/;74;/g,'J')
+		all_text_44 = all_text_43.replace(/;75;/g,'K')
+		all_text_45 = all_text_44.replace(/;76;/g,'L')
+		all_text_46 = all_text_45.replace(/;77;/g,'M')
+		all_text_47 = all_text_46.replace(/;78;/g,'N')
+		all_text_48 = all_text_47.replace(/;79;/g,'O')
+		all_text_49 = all_text_48.replace(/;80;/g,'P')
+		all_text_50 = all_text_49.replace(/;81;/g,'Q')
+		
+		all_text_51 = all_text_50.replace(/;82;/g,'R')
+		all_text_52 = all_text_51.replace(/;83;/g,'S')
+		all_text_53 = all_text_52.replace(/;84;/g,'T')
+		all_text_54 = all_text_53.replace(/;85;/g,'U')
+		all_text_55 = all_text_54.replace(/;86;/g,'V')
+		all_text_56 = all_text_55.replace(/;87;/g,'W')
+		all_text_57 = all_text_56.replace(/;88;/g,'X')
+		all_text_58 = all_text_57.replace(/;89;/g,'Y')
+		all_text_59 = all_text_58.replace(/;90;/g,'Z')
+		all_text_60 = all_text_59.replace(/;91;/g,'[')
+		
+		// all_text_61 = all_text_60.replace(/;92;/g,'\')
+		all_text_62 = all_text_60.replace(/;93;/g,']')
+		all_text_63 = all_text_62.replace(/;94;/g,'^')
+		all_text_64 = all_text_62.replace(/;95;/g,'_')
+		all_text_65 = all_text_64.replace(/;96;/g,'`')
+		all_text_66 = all_text_65.replace(/;97;/g,'a')
+		all_text_67 = all_text_66.replace(/;98;/g,'b')
+		all_text_68 = all_text_67.replace(/;99;/g,'c')
+		all_text_69 = all_text_68.replace(/;100;/g,'d')
+		all_text_70 = all_text_69.replace(/;101;/g,'e')
+
+		all_text_71 = all_text_70.replace(/;102;/g,'f')
+		all_text_72 = all_text_71.replace(/;103;/g,'g')
+		all_text_73 = all_text_72.replace(/;104;/g,'h')
+		all_text_74 = all_text_73.replace(/;105;/g,'i')
+		all_text_75 = all_text_74.replace(/;106;/g,'j')
+		all_text_76 = all_text_75.replace(/;107;/g,'k')
+		all_text_77 = all_text_76.replace(/;108;/g,'l')
+		all_text_78 = all_text_77.replace(/;109;/g,'m')
+		all_text_79 = all_text_78.replace(/;110;/g,'n')
+		all_text_80 = all_text_79.replace(/;111;/g,'o')
+		
+		all_text_81 = all_text_80.replace(/;112;/g,'p')
+		all_text_82 = all_text_81.replace(/;113;/g,'q')
+		all_text_83 = all_text_82.replace(/;114;/g,'r')
+		all_text_84 = all_text_83.replace(/;115;/g,'s')
+		all_text_85 = all_text_84.replace(/;116;/g,'t')
+		all_text_86 = all_text_85.replace(/;117;/g,'u')
+		all_text_87 = all_text_86.replace(/;118;/g,'v')
+		all_text_88 = all_text_87.replace(/;119;/g,'w')
+		all_text_89 = all_text_88.replace(/;120;/g,'x')
+		all_text_90 = all_text_89.replace(/;121;/g,'y')
+
+		all_text_91 = all_text_90.replace(/;122;/g,'z')
+		all_text_92 = all_text_91.replace(/;123;/g,'{')
+		all_text_93 = all_text_92.replace(/;124;/g,'|')
+		all_text_94 = all_text_93.replace(/;125;/g,'}')
+		all_text_95 = all_text_94.replace(/;126;/g,'~')
+		all_text_96 = all_text_95.replace(/;127;/g,'')  // square
+		all_text_97 = all_text_96.replace(/;128;/g,'euro') // euro
+		all_text_98 = all_text_97.replace(/;129;/g,'') // square
+		all_text_99 = all_text_98.replace(/;130;/g,',')
+		all_text_100 = all_text_99.replace(/;131;/g,'_') 
+		
+		all_text_101 = all_text_100.replace(/;132;/g,'_')
+		all_text_102 = all_text_101.replace(/;133;/g,'...')
+		all_text_103 = all_text_102.replace(/;134;/g,'_')
+		all_text_104 = all_text_103.replace(/;135;/g,'_')
+		all_text_105 = all_text_104.replace(/;136;/g,'_')
+		all_text_106 = all_text_105.replace(/;137;/g,' _') 
+		all_text_107 = all_text_106.replace(/;138;/g,'_')
+		all_text_108 = all_text_107.replace(/;139;/g,'_') 
+		all_text_109 = all_text_108.replace(/;140;/g,'_')
+		all_text_110 = all_text_109.replace(/;141;/g,'') // square
+		
+		all_text_111 = all_text_110.replace(/;142;/g,'_')
+		all_text_112 = all_text_111.replace(/;143;/g,'') // square
+		all_text_113 = all_text_112.replace(/;144;/g,'') // square
+		// substitute the special quotes for normal ones
+		all_text_114 = all_text_113.replace(/;145;/g,"'")
+		all_text_115 = all_text_114.replace(/;146;/g,"'")
+		all_text_116 = all_text_115.replace(/;147;/g,'"') 
+		all_text_117 = all_text_116.replace(/;148;/g,'"')
+		// use a hyphen and spaces instead of the bullet mark
+		all_text_118 = all_text_117.replace(/;149;/g,'-   ') 
+		all_text_119 = all_text_118.replace(/;150;/g,'-')
+		all_text_120 = all_text_119.replace(/;151;/g,'_') 
+		
+		all_text_121 = all_text_120.replace(/;152;/g,'_')
+		all_text_122 = all_text_121.replace(/;153;/g,'_')
+		// this should be an s with a v on top of it, but it's not recognised by xslt.
+		all_text_123 = all_text_122.replace(/;154;/g,'s')
+		all_text_124 = all_text_123.replace(/;155;/g,'_')
+		all_text_125 = all_text_124.replace(/;156;/g,'_')
+		all_text_126 = all_text_125.replace(/;157;/g,'') // square
+		all_text_127 = all_text_126.replace(/;158;/g,'_')
+		all_text_128 = all_text_127.replace(/;159;/g,'_') 
+		all_text_129 = all_text_128.replace(/;160;/g,'&nbsp;')
+		all_text_130 = all_text_129.replace(/;161;/g,'¡') 
+		
+		all_text_131 = all_text_130.replace(/;162;/g,'¢')
+		all_text_132 = all_text_131.replace(/;163;/g,'£')
+		all_text_133 = all_text_132.replace(/;164;/g,'¤')
+		all_text_134 = all_text_133.replace(/;165;/g,'¥')
+		all_text_135 = all_text_134.replace(/;166;/g,'¦')
+		all_text_136 = all_text_135.replace(/;167;/g,'§') 
+		all_text_137 = all_text_136.replace(/;168;/g,'¨')
+		all_text_138 = all_text_137.replace(/;169;/g,'©') 
+		all_text_139 = all_text_138.replace(/;170;/g,'ª')
+		all_text_140 = all_text_139.replace(/;171;/g,'«') 
+		
+		
+		all_text_141 = all_text_140.replace(/;172;/g,'Euro') // euro
+		all_text_142 = all_text_141.replace(/;173;/g,'') // nothing
+		all_text_143 = all_text_142.replace(/;174;/g,'®')
+		all_text_144 = all_text_143.replace(/;175;/g,'¯')
+		all_text_145 = all_text_144.replace(/;176;/g,'°')
+		all_text_146 = all_text_145.replace(/;177;/g,'±') 
+		all_text_147 = all_text_146.replace(/;178;/g,'²')
+		all_text_148 = all_text_147.replace(/;179;/g,'³') 
+		all_text_149 = all_text_148.replace(/;180;/g,'´')
+		all_text_150 = all_text_149.replace(/;181;/g,'µ') 
+		
+		all_text_151 = all_text_150.replace(/;182;/g,'¶')
+		all_text_152 = all_text_151.replace(/;183;/g,'·')
+		all_text_153 = all_text_152.replace(/;184;/g,'¸')
+		all_text_154 = all_text_153.replace(/;185;/g,'¹')
+		all_text_155 = all_text_154.replace(/;186;/g,'º')
+		all_text_156 = all_text_155.replace(/;187;/g,'»') 
+		all_text_157 = all_text_156.replace(/;188;/g,'¼')
+		all_text_158 = all_text_157.replace(/;189;/g,'½') 
+		all_text_159 = all_text_158.replace(/;190;/g,'¾')
+		all_text_160 = all_text_159.replace(/;191;/g,'¿') 
+		
+		all_text_161 = all_text_160.replace(/;192;/g,'À')
+		all_text_162 = all_text_161.replace(/;193;/g,'Á')
+		all_text_163 = all_text_162.replace(/;194;/g,'Â')
+		all_text_164 = all_text_163.replace(/;195;/g,'Ã')
+		all_text_165 = all_text_164.replace(/;196;/g,'Ä')
+		all_text_166 = all_text_165.replace(/;197;/g,'Å') 
+		all_text_167 = all_text_166.replace(/;198;/g,'Æ')
+		all_text_168 = all_text_167.replace(/;199;/g,'Ç') 
+		all_text_169 = all_text_168.replace(/;200;/g,'È')
+		all_text_170 = all_text_169.replace(/;201;/g,'É') 
+		
+		all_text_171 = all_text_170.replace(/;202;/g,'Ê')
+		all_text_172 = all_text_171.replace(/;203;/g,'Ë')
+		all_text_173 = all_text_172.replace(/;204;/g,'Ì')
+		all_text_174 = all_text_173.replace(/;205;/g,'Í')
+		all_text_175 = all_text_174.replace(/;206;/g,'Î')
+		all_text_176 = all_text_175.replace(/;207;/g,'Ï') 
+		all_text_177 = all_text_176.replace(/;208;/g,'Ð')
+		all_text_178 = all_text_177.replace(/;209;/g,'Ñ') 
+		all_text_179 = all_text_178.replace(/;210;/g,'Ò')
+		all_text_180 = all_text_179.replace(/;211;/g,'Ó') 
+		
+		all_text_181 = all_text_180.replace(/;212;/g,'Ô')
+		all_text_182 = all_text_181.replace(/;213;/g,'Õ')
+		all_text_183 = all_text_182.replace(/;214;/g,'Ö')
+		all_text_184 = all_text_183.replace(/;215;/g,'×')
+		all_text_185 = all_text_184.replace(/;216;/g,'Ø')
+		all_text_186 = all_text_185.replace(/;217;/g,'Ù') 
+		all_text_187 = all_text_186.replace(/;218;/g,'Ú')
+		all_text_188 = all_text_187.replace(/;219;/g,'Û') 
+		all_text_189 = all_text_188.replace(/;220;/g,'Ü')
+		all_text_190 = all_text_189.replace(/;221;/g,'Ý') 
+		
+		all_text_191 = all_text_190.replace(/;222;/g,'Þ')
+		all_text_192 = all_text_191.replace(/;223;/g,'ß')
+		all_text_193 = all_text_192.replace(/;224;/g,'à')
+		all_text_194 = all_text_193.replace(/;225;/g,'á')
+		all_text_195 = all_text_194.replace(/;226;/g,'â')
+		all_text_196 = all_text_195.replace(/;227;/g,'ã') 
+		all_text_197 = all_text_196.replace(/;228;/g,'ä')
+		all_text_198 = all_text_197.replace(/;229;/g,'å') 
+		all_text_199 = all_text_198.replace(/;230;/g,'æ')
+		all_text_200 = all_text_199.replace(/;231;/g,'ç') 
+		
+		all_text_201 = all_text_200.replace(/;232;/g,'è')
+		all_text_202 = all_text_201.replace(/;233;/g,'é')
+		all_text_203 = all_text_202.replace(/;234;/g,'ê')
+		all_text_204 = all_text_203.replace(/;235;/g,'ë')
+		all_text_205 = all_text_204.replace(/;236;/g,'ì')
+		all_text_206 = all_text_205.replace(/;237;/g,'í') 
+		all_text_207 = all_text_206.replace(/;238;/g,'î')
+		all_text_208 = all_text_207.replace(/;239;/g,'ï') 
+		all_text_209 = all_text_208.replace(/;240;/g,'ð')
+		all_text_210 = all_text_209.replace(/;241;/g,'ñ') 
+		
+		all_text_211 = all_text_210.replace(/;242;/g,'ð')
+		all_text_212 = all_text_211.replace(/;243;/g,'ó')
+		all_text_213 = all_text_212.replace(/;244;/g,'ô')
+		all_text_214 = all_text_213.replace(/;245;/g,'õ')
+		all_text_215 = all_text_214.replace(/;246;/g,'ö')
+		all_text_216 = all_text_215.replace(/;247;/g,'÷') 
+		all_text_217 = all_text_216.replace(/;248;/g,'ø')
+		all_text_218 = all_text_217.replace(/;249;/g,'ù') 
+		all_text_219 = all_text_218.replace(/;250;/g,'ú')
+		all_text_220 = all_text_219.replace(/;251;/g,'û') 
+		
+		all_text_221 = all_text_220.replace(/;252;/g,'ü')
+		all_text_222 = all_text_221.replace(/;253;/g,'ý')
+		all_text_223 = all_text_222.replace(/;254;/g,'þ')
+		all_text_224 = all_text_223.replace(/;255;/g,'ÿ')
+		
+		// CR LF :
+		// Use an unused character and replace it in the xslt
+		all_text_225 = all_text_224.replace(/;10;/g,'þ')
+		// Not needed
+		all_text_226= all_text_225.replace(/;13;/g,'')
+		
+		// replace the remaining seperators with nothing :
+		all_text_227 = all_text_226.replace(/;;;/g,'')
+		
+		// replace the tab with 5 spaces 
+		all_text_all = all_text_227.replace(/;9;/g,'     ')
+		
+		 return  all_text_all
+		 
+		 }
+		 
+		return ""
+		 
+		 }
+		
+		
+		function isValidURL(url){ 
+    var RegExp = /^(([\w]+:)?\/\/)?(([\d\w]|%[a-fA-f\d]{2,2})+(:([\d\w]|%[a-fA-f\d]{2,2})+)?@)?([\d\w][-\d\w]{0,253}[\d\w]\.)+[\w]{2,4}(:[\d]+)?(\/([-+_~.\d\w]|%[a-fA-f\d]{2,2})*)*(\?(&?([-+_~.\d\w]|%[a-fA-f\d]{2,2})=?)*)?(#([-+_~.\d\w]|%[a-fA-f\d]{2,2})*)?$/; 
+    
+   //  java.lang.System.out.println('-----  ');
+   //  java.lang.System.out.println(url);
+   //  java.lang.System.out.println('  -----');
+    if(RegExp.test(url)){ 
+        return true; 
+    }else{ 
+        return false; 
+    } 
+} 
+
+
+
+		 function get_text_file(infilename)
+		 {
+		// ISO-8859-1  
+		// Need to use a FileInputStream so ISO-8859-1 can be specified.
+		
+		var file = new java.io.FileInputStream(infilename)
+		var file_in = new java.io.InputStreamReader(file,'ISO-8859-1')
+		var input = new java.io.BufferedReader(file_in)
+		// var file_in = new java.io.InputStreamReader(file,'UTF-16')
+		
+		var all_text = new java.lang.StringBuffer  
+		
+		// reads characters :
+		// while ((str = file_in.read()) != -1) {
+		
+		while ((str = input.readLine()) != null) {
+			
+			all_text.append(str).toString()
+			// note that read line dos not copy line termination characters so add a cr/lf at the end of every line
+			all_text.append('\n').toString()
+			
+		}
+		input.close();
+		file.close()
+		file_in.close()
+
+		 return all_text
+		 
+		
+		 }
+		
+function emailCheck(emailSt) {
+
+/* The following variable tells the rest of the function whether or not
+to verify that the address ends in a two-letter country or well-known
+TLD.  1 means check it, 0 means don't. */
+
+var checkTLD=1;
+// java.lang.System.out.println(emailSt);
+/* The following is the list of known TLDs that an e-mail address must end with. */
+
+var knownDomsPat=/^(com|net|org|edu|int|mil|gov|arpa|biz|aero|name|coop|info|pro|museum)$/;
+
+/* The following pattern is used to check if the entered e-mail address
+fits the user@domain format.  It also is used to separate the username
+from the domain. */
+
+var emailPat=/^(.+)@(.+)$/;
+
+/* The following string represents the pattern for matching all special
+characters.  We don't want to allow special characters in the address. 
+These characters include ( ) < > @ , ; : \ " . [ ] */
+
+var specialChars="\\(\\)><@,;:\\\\\\\"\\.\\[\\]";
+
+/* The following string represents the range of characters allowed in a 
+username or domainname.  It really states which chars aren't allowed.*/
+
+var validChars="\[^\\s" + specialChars + "\]";
+
+/* The following pattern applies if the "user" is a quoted string (in
+which case, there are no rules about which characters are allowed
+and which aren't; anything goes).  E.g. "jiminy cricket"@disney.com
+is a legal e-mail address. */
+
+var quotedUser="(\"[^\"]*\")";
+
+/* The following pattern applies for domains that are IP addresses,
+rather than symbolic names.  E.g. joe@[123.124.233.4] is a legal
+e-mail address. NOTE: The square brackets are required. */
+
+var ipDomainPat=/^\[(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})\]$/;
+
+/* The following string represents an atom (basically a series of non-special characters.) */
+
+var atom=validChars + '+';
+
+/* The following string represents one word in the typical username.
+For example, in john.doe@somewhere.com, john and doe are words.
+Basically, a word is either an atom or quoted string. */
+
+var word="(" + atom + "|" + quotedUser + ")";
+
+// The following pattern describes the structure of the user
+
+var userPat=new RegExp("^" + word + "(\\." + word + ")*$");
+
+/* The following pattern describes the structure of a normal symbolic
+domain, as opposed to ipDomainPat, shown above. */
+
+var domainPat=new RegExp("^" + atom + "(\\." + atom +")*$");
+
+/* Finally, let's start trying to figure out if the supplied address is valid. */
+
+/* Begin with the coarse pattern to simply break up user@domain into
+different pieces that are easy to analyze. */
+
+
+
+
+var matchArray=emailSt.match(emailPat);
+
+
+
+if (matchArray==null) {
+
+/* Too many/few @'s or something; basically, this address doesn't
+even fit the general mould of a valid e-mail address. */
+
+// xx alert("Email address seems incorrect (check @ and .'s)");
+// java.lang.System.out.println("1");
+return false;
+}
+var user=matchArray[1];
+var domain=matchArray[2];
+
+// Start by checking that only basic ASCII characters are in the strings (0-127).
+
+for (i=0; i<user.length; i++) {
+if (user.charCodeAt(i)>127) {
+// xx alert("Ths username contains invalid characters.");
+// java.lang.System.out.println("2");
+return false;
+ }
+ }
+for (i=0; i<domain.length; i++) {
+if (domain.charCodeAt(i)>127) {
+// xx alert("Ths domain name contains invalid characters.");
+// java.lang.System.out.println("3");
+return false;
+ }
+}
+
+// See if "user" is valid 
+
+if (user.match(userPat)==null) {
+
+// user is not valid
+
+// xx alert("The username doesn't seem to be valid.");
+// java.lang.System.out.println("4");
+return false;
+}
+
+/* if the e-mail address is at an IP address (as opposed to a symbolic
+host name) make sure the IP address is valid. */
+
+var IPArray=domain.match(ipDomainPat);
+if (IPArray!=null) {
+
+// this is an IP address
+
+for (var i=1;i<=4;i++) {
+if (IPArray[i]>255) {
+// xx alert("Destination IP address is invalid!");
+// java.lang.System.out.println("5");
+return false;
+   }
+}
+// java.lang.System.out.println("true1");
+ return true;
+ }
+
+// Domain is symbolic name.  Check if it's valid.
+
+var atomPat=new RegExp("^" + atom + "$");
+
+var domArr=domain.split(".");
+var len=domArr.length;
+
+for (i=0;i<len;i++) {
+
+if (domArr[i].search(atomPat)==-1) {
+// xx alert("The domain name does not seem to be valid.");
+// java.lang.System.out.println("6");
+return false;
+ }
+ }
+
+/* domain name seems valid, but now make sure that it ends in a
+known top-level domain (like com, edu, gov) or a two-letter word,
+representing country (uk, nl), and that there's a hostname preceding 
+the domain or country. */
+
+if (checkTLD && domArr[domArr.length-1].length!=2 && 
+domArr[domArr.length-1].search(knownDomsPat)==-1) {
+// xx alert("The address must end in a well-known domain or two letter " + "country.");
+// java.lang.System.out.println("7");
+return false;
+ }
+
+// Make sure there's a host name preceding the domain.
+
+if (len<2) {
+// xx alert("This address is missing a hostname!");
+// java.lang.System.out.println("8");
+return false;
+}
+
+// If we've gotten this far, everything's valid!
+// java.lang.System.out.println("true2");
+return true;
+}
+
+		]]></xalan:script>
+	</xalan:component>
+	<xsl:template match="/n1:cdbxml">
+	
+		<cdbxml>
+			<xsl:attribute name="xsi:schemaLocation">http://www.cultuurdatabank.com/XMLSchema/CdbXSD/3.1/DRAFT
+		http://www.cultuurdatabank.com/XMLSchema/CdbXSD/3.1/DRAFT/CdbXSD.xsd</xsl:attribute>
+			<xsl:copy-of select="n1:metadata"/>
+			<xsl:copy-of select="n1:events"/>
+			<!-- add the events and adjust the 
+			<xsl:for-each select="n1:events">
+				<events>
+					<xsl:for-each select="n1:event">
+						<xsl:copy-of select="."/>
+					</xsl:for-each>
+				</events>
+			</xsl:for-each> -->
+			<xsl:copy-of select="n1:deletes"/>
+			<!-- find out where we are going to copy from -->
+			<!-- just use the local directory for the moment -->
+			<!-- later find out if there is a hyperlink              -->
+			
+		</cdbxml>
+	</xsl:template>
+	<xsl:template name="string_to_last_slash">
+		<xsl:param name="text_string"/>
+		<xsl:choose>
+			<xsl:when test="contains($text_string,'/')">
+				<xsl:value-of select="substring-before($text_string,'/')"/>
+				<xsl:value-of select="'/'"/>
+				<xsl:call-template name="string_to_last_slash">
+					<xsl:with-param name="text_string" select="substring-after($text_string,'/')"/>
+				</xsl:call-template>
+			</xsl:when>
+			<xsl:otherwise>
+				<!-- <xsl:value-of select="$text_string"/> -->
+			</xsl:otherwise>
+		</xsl:choose>
+	</xsl:template>
+	<xsl:template name="string_after_last_slash">
+		<xsl:param name="text_string"/>
+		<xsl:choose>
+			<xsl:when test="contains($text_string,'/')">
+				<!--<xsl:value-of select="substring-before($text_string,'/')"/>
+				<xsl:value-of select="'/'"/> -->
+				<xsl:call-template name="string_after_last_slash">
+					<xsl:with-param name="text_string" select="substring-after($text_string,'/')"/>
+				</xsl:call-template>
+			</xsl:when>
+			<xsl:otherwise>
+				<xsl:value-of select="$text_string"/>
+			</xsl:otherwise>
+		</xsl:choose>
+	</xsl:template>
+</xsl:stylesheet>

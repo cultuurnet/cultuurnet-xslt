@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2008 (http://www.altova.com) by Julian Cox (Cultuurnet Vlaanderen) -->
+<!-- 21/05/13 : Changed the column names and remove catregories with no id.-->
+<Import>
+	<Row Oud_Id="0.0.0.0.0" Oud_cat="Tentoonstellingen" Nieuw_Id="0.0.0.0.0" Nieuw_cat="Tentoonstelling"/>
+	<Row Oud_Id="0.12.0.0.0" Oud_cat="Info ?en Opendeurdagen" Nieuw_Id="0.12.0.0.0" Nieuw_cat="Opendeurdag"/>
+	<Row Oud_Id="0.14.0.0.0" Oud_cat="Monumenten en bouwwerken" Nieuw_Id="0.14.0.0.0" Nieuw_cat="Monument"/>
+	<Row Oud_Id="0.15.0.0.0" Oud_cat="Landschappen en natuurreservaten" Nieuw_Id="0.15.0.0.0" Nieuw_cat="Landschap of natuurgebied"/>
+	<Row Oud_Id="0.16.0.0.0" Oud_cat="Tuinen en Parken" Nieuw_Id="0.16.0.0.0" Nieuw_cat="Park of tuin"/>
+	<Row Oud_Id="0.17.0.0.0" Oud_cat="Routes (wandelingen, fietstochten)" Nieuw_Id="0.17.0.0.0" Nieuw_cat="Route"/>
+	<Row Oud_Id="0.19.0.0.0" Oud_cat="Wedstrijden en Concours " Nieuw_Id="0.19.0.0.0" Nieuw_cat="Wedstrijd bekijken"/>
+	<Row Oud_Id="0.26.0.0.0" Oud_cat="Bals, Fuiven, en Nightlife" Nieuw_Id="0.49.0.0.0" Nieuw_cat="Party of fuif"/>
+	<Row Oud_Id="0.28.0.0.0" Oud_cat="Kermissen en Foren" Nieuw_Id="0.28.0.0.0" Nieuw_cat="Kermis of feestelijkheid"/>
+	<Row Oud_Id="0.3.1.0.0" Oud_cat="Cursussen en Workshops" Nieuw_Id="0.3.1.0.0" Nieuw_cat="Cursus of workshop"/>
+	<Row Oud_Id="0.3.2.0.0" Oud_cat="Lezingen" Nieuw_Id="0.3.2.0.0" Nieuw_cat="Lezing of gesprek"/>
+	<Row Oud_Id="0.3.3.0.0" Oud_cat="Congressen, Debatten, Symposia, en Studiedagen" Nieuw_Id="0.3.3.0.0" Nieuw_cat="Congres of studiedag"/>
+	<Row Oud_Id="0.37.0.0.0" Oud_cat="Markten " Nieuw_Id="0.37.0.0.0" Nieuw_cat="Markt of braderie"/>
+	<Row Oud_Id="0.41.0.0.0" Oud_cat="Thema- en Pretparken" Nieuw_Id="0.41.0.0.0" Nieuw_cat="Thema- of pretpark"/>
+	<Row Oud_Id="0.44.0.0.0" Oud_cat="Evenementen" Nieuw_Id="0.56.0.0.0" Nieuw_cat="Toeristisch evenement"/>
+	<Row Oud_Id="0.49.0.0.0" Oud_cat="Uitgaan" Nieuw_Id="0.39.0.0.0" Nieuw_cat="Uitgaan"/>
+	<Row Oud_Id="0.5.0.0.0" Oud_cat="Festivals" Nieuw_Id="0.5.0.0.0" Nieuw_cat="Festival"/>
+	<Row Oud_Id="0.50.15.1.0" Oud_cat="Buurtraad" Nieuw_Id="0.50.15.1.0" Nieuw_cat="Buurtraad"/>
+	<Row Oud_Id="0.50.15.10.0" Oud_cat="Mondiale raad" Nieuw_Id="0.50.15.10.0" Nieuw_cat="Mondiale raad"/>
+	<Row Oud_Id="0.50.15.11.0" Oud_cat="OCMW-raad" Nieuw_Id="0.50.15.11.0" Nieuw_cat="OCMW-raad"/>
+	<Row Oud_Id="0.50.15.12.0" Oud_cat="Ontvangst" Nieuw_Id="0.50.15.12.0" Nieuw_cat="Ontvangst"/>
+	<Row Oud_Id="0.50.15.13.0" Oud_cat="Plechtigheid" Nieuw_Id="0.50.15.13.0" Nieuw_cat="Plechtigheid"/>
+	<Row Oud_Id="0.50.15.14.0" Oud_cat="Seniorenraad" Nieuw_Id="0.50.15.14.0" Nieuw_cat="Seniorenraad"/>
+	<Row Oud_Id="0.50.15.2.0" Oud_cat="Communicatieraad" Nieuw_Id="0.50.15.2.0" Nieuw_cat="Communicatieraad"/>
+	<Row Oud_Id="0.50.15.3.0" Oud_cat="Fietsregistratie" Nieuw_Id="0.50.15.3.0" Nieuw_cat="Fietsregistratie"/>
+	<Row Oud_Id="0.50.15.4.0" Oud_cat="Gemeenteraad" Nieuw_Id="0.50.15.4.0" Nieuw_cat="Gemeenteraad"/>
+	<Row Oud_Id="0.50.15.5.0" Oud_cat="Gezondheidsraad" Nieuw_Id="0.50.15.5.0" Nieuw_cat="Gezondheidsraad"/>
+	<Row Oud_Id="0.50.15.6.0" Oud_cat="Hoorzitting" Nieuw_Id="0.50.15.6.0" Nieuw_cat="Hoorzitting"/>
+	<Row Oud_Id="0.50.15.7.0" Oud_cat="Infovergadering" Nieuw_Id="0.50.15.7.0" Nieuw_cat="Infovergadering"/>
+	<Row Oud_Id="0.50.15.8.0" Oud_cat="Jumelage-activiteit" Nieuw_Id="0.50.15.8.0" Nieuw_cat="Jumelage-activiteit"/>
+	<Row Oud_Id="0.50.15.9.0" Oud_cat="Middenstandsraad" Nieuw_Id="0.50.15.9.0" Nieuw_cat="Middenstandsraad"/>
+	<Row Oud_Id="0.50.16.0.0" Oud_cat="Week Van De Amateurkunsten (WAK)" Nieuw_Id="" Nieuw_cat="marker type &apos;koepel&apos;"/>
+	<Row Oud_Id="0.50.17.0.0" Oud_cat="Tinteltenen" Nieuw_Id="" Nieuw_cat="marker type &apos;koepel&apos;"/>
+	<Row Oud_Id="0.50.18.0.0" Oud_cat="Bibliotheekweek" Nieuw_Id="" Nieuw_cat="marker type &apos;koepel&apos;"/>
+	<Row Oud_Id="0.50.19.0.0" Oud_cat="Jeugdboekenweek" Nieuw_Id="" Nieuw_cat="marker type &apos;koepel&apos;"/>
+	<Row Oud_Id="0.50.20.0.0" Oud_cat="CNET_Muziekfestivals" Nieuw_Id="" Nieuw_cat="marker type &apos;selectie&apos;"/>
+	<Row Oud_Id="0.50.21.0.0" Oud_cat="Kwis of spel" Nieuw_Id="0.50.21.0.0" Nieuw_cat="Spel of quiz"/>
+	<Row Oud_Id="0.50.22.0.0" Oud_cat="SuperVlieg" Nieuw_Id="" Nieuw_cat="marker type &apos;koepel&apos;"/>
+	<Row Oud_Id="0.50.23.0.0" Oud_cat="Erfgoeddag" Nieuw_Id="" Nieuw_cat="marker type &apos;koepel&apos;"/>
+	<Row Oud_Id="0.50.24.0.0" Oud_cat="Open Monumentendag" Nieuw_Id="" Nieuw_cat="marker type &apos;koepel&apos;"/>
+	<Row Oud_Id="0.50.25.0.0" Oud_cat="Gedichtendag" Nieuw_Id="" Nieuw_cat="marker type &apos;koepel&apos;"/>
+	<Row Oud_Id="0.50.26.0.0" Oud_cat="Voorleesweek" Nieuw_Id="" Nieuw_cat="marker type &apos;koepel&apos;"/>
+	<Row Oud_Id="0.50.27.0.0" Oud_cat="Buitenspeeldag" Nieuw_Id="" Nieuw_cat="marker type &apos;koepel&apos;"/>
+	<Row Oud_Id="0.50.28.0.0" Oud_cat="Broodje Brussel" Nieuw_Id="" Nieuw_cat="marker type &apos;koepel&apos;"/>
+	<Row Oud_Id="0.50.29.0.0" Oud_cat="Grabbelpas " Nieuw_Id="" Nieuw_cat="marker type &apos;extra info&apos;"/>
+	<Row Oud_Id="0.50.30.0.0" Oud_cat="Swap" Nieuw_Id="" Nieuw_cat="marker type &apos;extra info&apos;"/>
+	<Row Oud_Id="0.50.4.0.0" Oud_cat="Concert" Nieuw_Id="0.50.4.0.0" Nieuw_cat="Concert"/>
+	<Row Oud_Id="0.50.6.0.0" Oud_cat="Filmvoorstelling" Nieuw_Id="0.50.6.0.0" Nieuw_cat="Film"/>
+	<Row Oud_Id="0.51.0.0.0" Oud_cat="Type aanbod onbepaald" Nieuw_Id="0.51.0.0.0" Nieuw_cat="Type onbepaald"/>
+	<Row Oud_Id="0.52.0.0.0" Oud_cat="De Week van de Smaak" Nieuw_Id="" Nieuw_cat="marker type &apos;koepel&apos;"/>
+	<Row Oud_Id="0.52.1.0.0" Oud_cat="Artistieke activiteiten " Nieuw_Id="" Nieuw_cat="tag (?)"/>
+	<Row Oud_Id="0.52.10.0.0" Oud_cat="Smaak op school (activiteiten onderwijs)" Nieuw_Id="" Nieuw_cat="tag (?)"/>
+	<Row Oud_Id="0.52.11.0.0" Oud_cat="Stad van de Smaak" Nieuw_Id="" Nieuw_cat="tag (?)"/>
+	<Row Oud_Id="0.52.12.0.0" Oud_cat="Uit eten " Nieuw_Id="" Nieuw_cat="tag (?)"/>
+	<Row Oud_Id="0.52.13.0.0" Oud_cat="Varia, andere activiteiten" Nieuw_Id="" Nieuw_cat="tag (?)"/>
+	<Row Oud_Id="0.52.2.0.0" Oud_cat="Culinair erfgoed, tentoonstellingen" Nieuw_Id="" Nieuw_cat="tag (?)"/>
+	<Row Oud_Id="0.52.3.0.0" Oud_cat="Diversiteit in smaken" Nieuw_Id="" Nieuw_cat="tag (?)"/>
+	<Row Oud_Id="0.52.4.0.0" Oud_cat="Educatieve activiteiten, lezingen, studiedagen" Nieuw_Id="" Nieuw_cat="tag (?)"/>
+	<Row Oud_Id="0.52.5.0.0" Oud_cat="Land van de Smaak" Nieuw_Id="" Nieuw_cat="tag (?)"/>
+	<Row Oud_Id="0.52.6.0.0" Oud_cat="Literaire activiteiten" Nieuw_Id="" Nieuw_cat="tag (?)"/>
+	<Row Oud_Id="0.52.7.0.0" Oud_cat="Opendeur, rondleidingen" Nieuw_Id="" Nieuw_cat="tag (?)"/>
+	<Row Oud_Id="0.52.8.0.0" Oud_cat="Proeven, kooklessen" Nieuw_Id="" Nieuw_cat="tag (?)"/>
+	<Row Oud_Id="0.52.9.0.0" Oud_cat="Product in de kijker" Nieuw_Id="" Nieuw_cat="tag (?)"/>
+	<Row Oud_Id="0.6.0.0.0" Oud_cat="Beurzen" Nieuw_Id="0.6.0.0.0" Nieuw_cat="Beurs"/>
+	<Row Oud_Id="0.60.0.0.0" Oud_cat="CultuurStart" Nieuw_Id="" Nieuw_cat="marker type &apos;koepel&apos;"/>
+	<Row Oud_Id="0.7.0.0.0" Oud_cat="Excursies, Groepsbezoeken, en Reizen" Nieuw_Id="0.7.0.0.0" Nieuw_cat="Begeleide uitstap of rondleiding "/>
+	<Row Oud_Id="0.8.0.0.0" Oud_cat="Feesten" Nieuw_Id="0.28.0.0.0" Nieuw_cat="Kermis of feestelijkheid"/>
+	<Row Oud_Id="1.0.1.0.0" Oud_cat="Schilderkunst" Nieuw_Id="1.0.1.0.0" Nieuw_cat="Schilderkunst"/>
+	<Row Oud_Id="1.0.1.1.0" Oud_cat="Schilderkunst uit de Oudheid" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.0.1.10.0" Oud_cat="Moderne en hedendaagse schilderkunst (na 1945)" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.0.1.11.0" Oud_cat="Niet-Westerse schilderkunst" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.0.1.12.0" Oud_cat="Niet-hedendaagse schilderkunst" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.0.1.2.0" Oud_cat="Middeleeuwse schilderkunst" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.0.1.3.0" Oud_cat="Renaissance" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.0.1.4.0" Oud_cat="Barok" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.0.1.5.0" Oud_cat="Classicisme" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.0.1.6.0" Oud_cat="Romantiek" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.0.1.7.0" Oud_cat="Realisme" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.0.1.8.0" Oud_cat="Impressionisme" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.0.1.9.0" Oud_cat="Moderne schilderkunst (voor 1945)" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.0.2.0.0" Oud_cat="Beeldhouwkunst" Nieuw_Id="1.0.2.0.0" Nieuw_cat="Beeldhouwkunst"/>
+	<Row Oud_Id="1.0.2.1.0" Oud_cat="Beeldhouwkunst uit de oudheid" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.0.2.10.0" Oud_cat="Niet-hedendaagse beeldhouwkunst" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.0.2.2.0" Oud_cat="Middeleeuwse beeldhouwkunst" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.0.2.3.0" Oud_cat="Renaissance" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.0.2.4.0" Oud_cat="Classicisme" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.0.2.5.0" Oud_cat="Romantiek" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.0.2.6.0" Oud_cat="Realisme" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.0.2.7.0" Oud_cat="Moderne beeldhouwkunst " Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.0.2.8.0" Oud_cat="Moderne en hedendaagse beeldhouwkunst (na 1945)" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.0.2.9.0" Oud_cat="Niet-Westerse beeldhouwkunst" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.0.3.0.0" Oud_cat="Installatiekunst" Nieuw_Id="1.0.3.0.0" Nieuw_cat="Installatiekunst"/>
+	<Row Oud_Id="1.0.4.0.0" Oud_cat="Grafische kunst" Nieuw_Id="1.0.4.0.0" Nieuw_cat="Grafiek"/>
+	<Row Oud_Id="1.0.5.0.0" Oud_cat="Kunstambachten en decoratieve kunst" Nieuw_Id="1.0.5.0.0" Nieuw_cat="Decoratieve kunst"/>
+	<Row Oud_Id="1.0.6.0.0" Oud_cat="Fotografie" Nieuw_Id="1.0.6.0.0" Nieuw_cat="Fotografie"/>
+	<Row Oud_Id="1.0.6.1.0" Oud_cat="Primitieve fotografie" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.0.6.2.0" Oud_cat="Portretten" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.0.6.3.0" Oud_cat="Modelfotografie" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.0.6.4.0" Oud_cat="Industrie ?en reclamefotografie" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.0.6.5.0" Oud_cat="Fotojournalisme en Reportagefotografie" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.0.6.7.0" Oud_cat="Surrealisme en experimentele fotografie" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.0.6.8.0" Oud_cat="Landschaps ?en natuurfotografie" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.0.6.9.0" Oud_cat="Architectuurfotografie" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.1.0.0.0" Oud_cat="Audiovisuele kunsten " Nieuw_Id="1.1.0.0.0" Nieuw_cat="Audiovisuele kunst"/>
+	<Row Oud_Id="1.10.0.0.0" Oud_cat="Literatuur" Nieuw_Id="1.10.0.0.0" Nieuw_cat="Literatuur"/>
+	<Row Oud_Id="1.10.1.0.0" Oud_cat="Roman" Nieuw_Id="1.10.11.0.0" Nieuw_cat="Fictie"/>
+	<Row Oud_Id="1.10.10.0.0" Oud_cat="Informatieve boeken" Nieuw_Id="1.10.12.0.0" Nieuw_cat="Non-fictie"/>
+	<Row Oud_Id="1.10.5.0.0" Oud_cat="Po‰zie" Nieuw_Id="1.10.5.0.0" Nieuw_cat="Po‰zie"/>
+	<Row Oud_Id="1.10.8.0.0" Oud_cat="Beeldverhaal" Nieuw_Id="1.10.8.0.0" Nieuw_cat="Strips"/>
+	<Row Oud_Id="1.11.0.0.0" Oud_cat="Geschiedenis" Nieuw_Id="1.11.0.0.0" Nieuw_cat="Geschiedenis"/>
+	<Row Oud_Id="1.11.1.0.0" Oud_cat="Europese geschiedenis" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.11.1.1.0" Oud_cat="Prehistorie" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.11.1.2.0" Oud_cat="Klassieke oudheid" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.11.1.3.0" Oud_cat="Middeleeuwen " Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.11.1.4.0" Oud_cat="Nieuwe tijden (moderne tijden)" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.11.1.5.0" Oud_cat="Nieuwste tijden (hedendaagse tijden)" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.11.1.6.0" Oud_cat="Hedendaagse tijden " Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.11.2.0.0" Oud_cat="Geschiedenis van Zuiden Midden-Amerika" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.11.3.0.0" Oud_cat="Geschiedenis van het Nabije Oosten" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.11.4.0.0" Oud_cat="Aziatische geschiedenis" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.11.5.0.0" Oud_cat="Afrikaanse geschiedenis" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.11.6.0.0" Oud_cat="Noord-Amerikaanse geschiedenis" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.11.7.0.0" Oud_cat="Geschiedenis van Oceani‰" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.12.0.0.0" Oud_cat="Oorlog en Vrede" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.14.0.0.0" Oud_cat="Archeologie" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.15.3.0.0" Oud_cat="Industri‰le Archeologie" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.17.0.0.0" Oud_cat="Antiek en Brocante" Nieuw_Id="1.17.0.0.0" Nieuw_cat="Antiek en Brocante"/>
+	<Row Oud_Id="1.2.1.0.0" Oud_cat="Architectuur" Nieuw_Id="1.2.1.0.0" Nieuw_cat="Architectuur"/>
+	<Row Oud_Id="1.2.1.1.0" Oud_cat="Architectuur uit de oudheid" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.2.1.10.0" Oud_cat="Niet-hedendaagse architectuur" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.2.1.2.0" Oud_cat="Gotiek " Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.2.1.3.0" Oud_cat="Renaissance" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.2.1.4.0" Oud_cat="Barok" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.2.1.5.0" Oud_cat="Classicisme" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.2.1.6.0" Oud_cat="Romantiek" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.2.1.7.0" Oud_cat="Realisme" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.2.1.8.0" Oud_cat="Jugendstil of Art nouveau" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.2.1.9.0" Oud_cat="Moderne en Hedendaagse Architectuur" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.2.2.0.0" Oud_cat="Design" Nieuw_Id="1.2.2.0.0" Nieuw_cat="Design"/>
+	<Row Oud_Id="1.21.0.0.0" Oud_cat="Techniek" Nieuw_Id="1.21.0.0.0" Nieuw_cat="Computer en techniek"/>
+	<Row Oud_Id="1.24.0.0.0" Oud_cat="Informatica" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.25.0.0.0" Oud_cat="Wetenschappen" Nieuw_Id="1.25.0.0.0" Nieuw_cat="Wetenschappen"/>
+	<Row Oud_Id="1.25.1.0.0" Oud_cat="Aardrijkskunde" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.25.10.0.0" Oud_cat="Psychologie en Psychiatrie" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.25.11.0.0" Oud_cat="Sociologie" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.25.12.0.0" Oud_cat="Theologie" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.25.13.0.0" Oud_cat="Wiskunde" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.25.14.0.0" Oud_cat="Kunstwetenschappen" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.25.15.0.0" Oud_cat="Taalkunde" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.25.15.1.0" Oud_cat="Dialectologie" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.25.16.0.0" Oud_cat="Letterkunde" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.25.2.0.0" Oud_cat="Antropologie" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.25.3.0.0" Oud_cat="Astronomie" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.25.4.0.0" Oud_cat="Biologie" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.25.5.0.0" Oud_cat="Geneeskunde" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.25.6.0.0" Oud_cat="Natuurkunde" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.25.7.0.0" Oud_cat="Scheikunde" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.25.8.0.0" Oud_cat="Biotechnologie" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.25.9.0.0" Oud_cat="Weerkunde en Klimatologie" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.27.0.0.0" Oud_cat="Maatschappij" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.28.0.0.0" Oud_cat="Economie" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.29.0.0.0" Oud_cat="Politiek" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.3.1.0.0" Oud_cat="Teksttheater" Nieuw_Id="1.3.1.0.0" Nieuw_cat="Tekst- en muziektheater"/>
+	<Row Oud_Id="1.3.3.0.0" Oud_cat="Improvisatietheater" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.3.4.0.0" Oud_cat="Mimetheater" Nieuw_Id="1.3.4.0.0" Nieuw_cat="Mime en bewegingstheater"/>
+	<Row Oud_Id="1.3.5.0.0" Oud_cat="Figuren ?en Objectentheater" Nieuw_Id="1.3.5.0.0" Nieuw_cat="Figuren- en poppentheater"/>
+	<Row Oud_Id="1.3.7.0.0" Oud_cat="Multimediatheater" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.3.8.0.0" Oud_cat="Cabaret en Vari‚t‚" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.3.9.0.0" Oud_cat="Revue en Show" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.32.0.0.0" Oud_cat="Recht" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.33.0.0.0" Oud_cat="Criminaliteit" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.34.0.0.0" Oud_cat="Milieu en natuur" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.35.0.0.0" Oud_cat="Landbouw" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.36.0.0.0" Oud_cat="Gezondheid en Zorg" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.37.0.0.0" Oud_cat="Opvoeding en Onderwijs" Nieuw_Id="1.37.0.0.0" Nieuw_cat="Opvoeding en leren"/>
+	<Row Oud_Id="1.39.0.0.0" Oud_cat="Consumentenvorming" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.4.0.0.0" Oud_cat="Musical " Nieuw_Id="1.4.0.0.0" Nieuw_cat="Musical"/>
+	<Row Oud_Id="1.40.0.0.0" Oud_cat="Cultureel erfgoed" Nieuw_Id="1.40.0.0.0" Nieuw_cat="Erfgoed"/>
+	<Row Oud_Id="1.41.0.0.0" Oud_cat="Kunsteducatie" Nieuw_Id="1.41.0.0.0" Nieuw_cat="Kunsteducatie"/>
+	<Row Oud_Id="1.42.0.0.0" Oud_cat="Creativiteit en expressie" Nieuw_Id="1.42.0.0.0" Nieuw_cat="Hobby&apos;s en creativiteit"/>
+	<Row Oud_Id="1.43.0.0.0" Oud_cat="Interculturele vorming" Nieuw_Id="1.43.0.0.0" Nieuw_cat="Interculturele vorming"/>
+	<Row Oud_Id="1.44.0.0.0" Oud_cat="Zingeving en Religie" Nieuw_Id="1.44.0.0.0" Nieuw_cat="Zingeving, filosofie en religie"/>
+	<Row Oud_Id="1.47.0.0.0" Oud_cat="Sociale en communicatieve vaardigheden" Nieuw_Id="1.61.0.0.0" Nieuw_cat="Sociale vaardigheden en zelfontplooiing "/>
+	<Row Oud_Id="1.49.0.0.0" Oud_cat="Mode" Nieuw_Id="1.49.0.0.0" Nieuw_cat="Mode"/>
+	<Row Oud_Id="1.5.0.0.0" Oud_cat="Opera" Nieuw_Id="1.5.0.0.0" Nieuw_cat="Opera en operette"/>
+	<Row Oud_Id="1.51.1.0.0" Oud_cat="Atletiek en loopsporten" Nieuw_Id="1.51.14.0.0" Nieuw_cat="Atletiek, wandelen en fietsen"/>
+	<Row Oud_Id="1.51.10.0.0" Oud_cat="Volkssporten" Nieuw_Id="1.51.10.0.0" Nieuw_cat="Volkssporten"/>
+	<Row Oud_Id="1.51.11.0.0" Oud_cat="Extreme sporten" Nieuw_Id="1.51.11.0.0" Nieuw_cat="Outdoor en adventure"/>
+	<Row Oud_Id="1.51.12.0.0" Oud_cat="Andere" Nieuw_Id="1.51.12.0.0" Nieuw_cat="Omnisport en andere"/>
+	<Row Oud_Id="1.51.2.0.0" Oud_cat="Balsporten" Nieuw_Id="1.51.13.0.0" Nieuw_cat="Bal en racketsport"/>
+	<Row Oud_Id="1.51.3.0.0" Oud_cat="Watersporten" Nieuw_Id="1.51.3.0.0" Nieuw_cat="Zwemmen en Watersport"/>
+	<Row Oud_Id="1.51.6.0.0" Oud_cat="Gevechtssporten" Nieuw_Id="1.51.6.0.0" Nieuw_cat="Fitness, gym(nastiek), dans en vechtsport"/>
+	<Row Oud_Id="1.51.8.0.0" Oud_cat="Autoen motorsporten" Nieuw_Id="1.58.8.0.0" Nieuw_cat="Lucht- en motorsport"/>
+	<Row Oud_Id="1.52.0.0.0" Oud_cat="Mens en maatschappij" Nieuw_Id="1.52.0.0.0" Nieuw_cat="Politiek en maatschappij"/>
+	<Row Oud_Id="1.54.0.0.0" Oud_cat="Filosofie" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.58.0.0.0" Oud_cat="Thema onbepaald" Nieuw_Id="1.58.0.0.0" Nieuw_cat="Thema onbepaald"/>
+	<Row Oud_Id="1.6.0.0.0" Oud_cat="Circus" Nieuw_Id="0.52.0.0.0" Nieuw_cat="Circus"/>
+	<Row Oud_Id="1.60.0.0.0" Oud_cat="IPE_Plattelandsbeleving" Nieuw_Id="1.60.0.0.0" Nieuw_cat="Plattelandsbeleving"/>
+	<Row Oud_Id="1.60.1.0.0" Oud_cat="IPE_Verblijfslocaties" Nieuw_Id="1.60.1.0.0" Nieuw_cat="Verblijfslocaties"/>
+	<Row Oud_Id="1.60.1.1.0" Oud_cat="IPE_Verblijf op een actieve hoeve" Nieuw_Id="1.60.1.1.0" Nieuw_cat="Verblijf op een actieve hoeve"/>
+	<Row Oud_Id="1.60.1.2.0" Oud_cat="IPE_Verblijf op het platteland" Nieuw_Id="1.60.1.2.0" Nieuw_cat="Verblijf op het platteland"/>
+	<Row Oud_Id="1.60.1.3.0" Oud_cat="IPE_Verblijf in het dorp" Nieuw_Id="1.60.1.3.0" Nieuw_cat="Verblijf in het dorp"/>
+	<Row Oud_Id="1.60.2.0.0" Oud_cat="IPE_Bezoekerslocatie/bezienswaardigheid" Nieuw_Id="1.60.2.0.0" Nieuw_cat="Bezoekerslocatie/bezienswaardigheid"/>
+	<Row Oud_Id="1.60.2.1.0" Oud_cat="IPE_Kijkboerderij/bezoekersboerderij" Nieuw_Id="1.60.2.1.0" Nieuw_cat="Kijkboerderij/bezoekersboerderij"/>
+	<Row Oud_Id="1.60.2.2.0" Oud_cat="IPE_Museum rond landbouw en platteland" Nieuw_Id="1.60.2.2.0" Nieuw_cat="Museum rond landbouw en platteland"/>
+	<Row Oud_Id="1.60.2.3.0" Oud_cat="IPE_Educatief centrum rond landbouw en platteland" Nieuw_Id="1.60.2.3.0" Nieuw_cat="Educatief centrum rond landbouw en platteland"/>
+	<Row Oud_Id="1.60.2.4.0" Oud_cat="IPE_Verkoopspunt hoeve- en streekproducten" Nieuw_Id="1.60.2.4.0" Nieuw_cat="Verkoopspunt hoeve- en streekproducten"/>
+	<Row Oud_Id="1.60.2.5.0" Oud_cat="IPE_Open tuin" Nieuw_Id="1.60.2.5.0" Nieuw_cat="Open tuin"/>
+	<Row Oud_Id="1.60.2.6.0" Oud_cat="IPE_Andere bezienswaardigheden" Nieuw_Id="1.60.2.6.0" Nieuw_cat="Andere bezienswaardigheden"/>
+	<Row Oud_Id="1.60.2.7.0" Oud_cat="IPE_Hoeve- en streekproducenten" Nieuw_Id="1.60.2.7.0" Nieuw_cat="Hoeve- en streekproducenten"/>
+	<Row Oud_Id="1.60.3.0.0" Oud_cat="IPE_Routes" Nieuw_Id="1.60.3.0.0" Nieuw_cat="Routes"/>
+	<Row Oud_Id="1.60.4.0.0" Oud_cat="IPE_Arrangementen" Nieuw_Id="1.60.4.0.0" Nieuw_cat="Arrangementen"/>
+	<Row Oud_Id="1.60.4.1.0" Oud_cat="IPE_Plattelandsklas" Nieuw_Id="1.60.4.1.0" Nieuw_cat="Plattelandsklas"/>
+	<Row Oud_Id="1.60.4.2.0" Oud_cat="IPE_Schoolreis" Nieuw_Id="1.60.4.2.0" Nieuw_cat="Schoolreis"/>
+	<Row Oud_Id="1.60.4.3.0" Oud_cat="IPE_Groepsuitstap vereniging" Nieuw_Id="1.60.4.3.0" Nieuw_cat="Groepsuitstap vereniging"/>
+	<Row Oud_Id="1.60.4.4.0" Oud_cat="IPE_Familie-uitstap" Nieuw_Id="1.60.4.4.0" Nieuw_cat="Familie-uitstap"/>
+	<Row Oud_Id="1.60.4.5.0" Oud_cat="IPE_Bedrijfsuitstap" Nieuw_Id="1.60.4.5.0" Nieuw_cat="Bedrijfsuitstap"/>
+	<Row Oud_Id="1.60.4.6.0" Oud_cat="IPE_Indivuele activiteit" Nieuw_Id="1.60.4.6.0" Nieuw_cat="Indivuele activiteit"/>
+	<Row Oud_Id="1.60.4.7.0" Oud_cat="IPE_Andere arrangementen" Nieuw_Id="1.60.4.7.0" Nieuw_cat="Andere arrangementen"/>
+	<Row Oud_Id="1.7.1.0.0" Oud_cat="Reportages en Documentaires" Nieuw_Id="1.7.1.0.0" Nieuw_cat="Documentaires en reportages"/>
+	<Row Oud_Id="1.7.11.0.0" Oud_cat="Muziekfilms, dansfilms, en kunstfilms" Nieuw_Id="1.7.11.0.0" Nieuw_cat="Cinefiel"/>
+	<Row Oud_Id="1.7.12.0.0" Oud_cat="Tekenfilms " Nieuw_Id="1.7.12.0.0" Nieuw_cat="Animatie en kinderfilmsÿ"/>
+	<Row Oud_Id="1.7.2.0.0" Oud_cat="Actie en Avontuur" Nieuw_Id="1.7.2.0.0" Nieuw_cat="Actie en avontuur"/>
+	<Row Oud_Id="1.7.3.0.0" Oud_cat="Komedie" Nieuw_Id="1.7.3.0.0" Nieuw_cat="Komedie"/>
+	<Row Oud_Id="1.7.4.0.0" Oud_cat="Romantiek en melodrama" Nieuw_Id="1.7.4.0.0" Nieuw_cat="Drama"/>
+	<Row Oud_Id="1.7.6.0.0" Oud_cat="Horror" Nieuw_Id="1.7.6.0.0" Nieuw_cat="Griezelfilm of horror"/>
+	<Row Oud_Id="1.7.7.0.0" Oud_cat="Science fiction " Nieuw_Id="1.7.7.0.0" Nieuw_cat="Science fiction "/>
+	<Row Oud_Id="1.7.8.0.0" Oud_cat="Historische Films" Nieuw_Id="1.7.8.0.0" Nieuw_cat="Historische films"/>
+	<Row Oud_Id="1.8.1.0.0" Oud_cat="Klassieke muziek" Nieuw_Id="1.8.1.0.0" Nieuw_cat="Klassieke muziek"/>
+	<Row Oud_Id="1.8.1.1.0" Oud_cat="Oude muziek" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.8.1.2.0" Oud_cat="Barokmuziek" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.8.1.3.0" Oud_cat="Romantische klassieke muziek" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.8.1.4.0" Oud_cat="Hedendaagse klassieke muziek" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.8.1.5.0" Oud_cat="Gregoriaans" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.8.1.6.0" Oud_cat="Classicisme" Nieuw_Id="" Nieuw_cat="tag"/>
+	<Row Oud_Id="1.8.2.0.0" Oud_cat="Jazz en blues" Nieuw_Id="1.8.2.0.0" Nieuw_cat="Jazz en blues"/>
+	<Row Oud_Id="1.8.3.2.0" Oud_cat="Rap en hip-hop" Nieuw_Id="1.8.3.2.0" Nieuw_cat="Hip hop, r&amp;b en rap"/>
+	<Row Oud_Id="1.8.3.3.0" Oud_cat="Dance" Nieuw_Id="1.8.3.3.0" Nieuw_cat="Dance"/>
+	<Row Oud_Id="1.8.3.5.0" Oud_cat="Amusementsmuziek" Nieuw_Id="1.8.3.5.0" Nieuw_cat="Amusementsmuziek"/>
+	<Row Oud_Id="1.8.4.0.0" Oud_cat="Wereldmuziek" Nieuw_Id="1.8.4.0.0" Nieuw_cat="Folk en wereldmuziek"/>
+	<Row Oud_Id="1.9.1.0.0" Oud_cat="Klassieke dans en Ballet" Nieuw_Id="1.9.1.0.0" Nieuw_cat="Ballet en klassieke dans"/>
+	<Row Oud_Id="1.9.2.0.0" Oud_cat="Hedendaagse dans" Nieuw_Id="1.9.2.0.0" Nieuw_cat="Moderne dans"/>
+	<Row Oud_Id="1.9.3.0.0" Oud_cat="Volksdans" Nieuw_Id="1.9.3.0.0" Nieuw_cat="Volksdans en werelddans"/>
+	<Row Oud_Id="1.9.5.0.0" Oud_cat="Stijl- en Salondansen" Nieuw_Id="1.9.5.0.0" Nieuw_cat="Stijl- en salondansen"/>
+	<Row Oud_Id="10.0.0.0.0" Oud_cat="Gespecialiseerde startpunten, portalen en Cultuuragenda?s" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="10.10.0.0.0" Oud_cat="Educatieve sites" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="10.11.0.0.0" Oud_cat="Fansites" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="10.12.0.0.0" Oud_cat="Offici‰le sites" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="10.13.0.0.0" Oud_cat="Overheidssites" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="10.14.0.0.0" Oud_cat="Webcatalogi" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="10.15.0.0.0" Oud_cat="Andere types linken" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="10.16.0.0.0" Oud_cat="Type link onbepaald" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="10.2.0.0.0" Oud_cat="Algemene Startpunten, Portalen, en Cultuuragenda?s" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="10.3.0.0.0" Oud_cat="Virtuele tentoonstellingen" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="10.4.0.0.0" Oud_cat="Webart" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="10.5.0.0.0" Oud_cat="Forums, Communities, Chatten" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="10.6.0.0.0" Oud_cat="Weblogs" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="10.7.0.0.0" Oud_cat="E-commerce en Veilingsites" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="10.8.0.0.0" Oud_cat="Nieuws- en media-sites" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="10.9.0.0.0" Oud_cat="Multimediasites" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="2.1.1.0.0" Oud_cat="Gezinnen" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="2.1.10.0.0" Oud_cat="Holebi" Nieuw_Id="2.1.10.0.0" Nieuw_cat="Holebi"/>
+	<Row Oud_Id="2.1.11.0.0" Oud_cat="Personen met een handicap" Nieuw_Id="2.1.11.0.0" Nieuw_cat="Personen met een mentale handicap"/>
+	<Row Oud_Id="2.1.12.0.0" Oud_cat="Groepen (verenigingen)" Nieuw_Id="2.1.12.0.0" Nieuw_cat="Groepen (verenigingen)"/>
+	<Row Oud_Id="2.1.3.0.0" Oud_cat="Scholen" Nieuw_Id="2.1.3.0.0" Nieuw_cat="Scholen"/>
+	<Row Oud_Id="2.1.4.0.0" Oud_cat="Studenten" Nieuw_Id="2.1.4.0.0" Nieuw_cat="Studenten"/>
+	<Row Oud_Id="2.1.5.0.0" Oud_cat="Senioren" Nieuw_Id="2.1.5.0.0" Nieuw_cat="Senioren"/>
+	<Row Oud_Id="2.1.8.0.0" Oud_cat="Kansarmen" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="2.1.9.0.0" Oud_cat="Allochtonen" Nieuw_Id="2.1.9.0.0" Nieuw_cat="Allochtonen"/>
+	<Row Oud_Id="2.2.1.0.0" Oud_cat="Vanaf kleuterleeftijd (3+)" Nieuw_Id="2.2.1.0.0" Nieuw_cat="Vanaf kleuterleeftijd (3+)"/>
+	<Row Oud_Id="2.2.2.0.0" Oud_cat="Vanaf lagere schoolleeftijd (6+)" Nieuw_Id="2.2.2.0.0" Nieuw_cat="Vanaf lagere schoolleeftijd (6+)"/>
+	<Row Oud_Id="2.2.3.0.0" Oud_cat="Jongeren vanaf 12 jaar (12+) " Nieuw_Id="2.2.3.0.0" Nieuw_cat="Jongeren vanaf 12 jaar (12+) "/>
+	<Row Oud_Id="2.2.4.0.0" Oud_cat="Jongeren vanaf 15 jaar (15+)" Nieuw_Id="2.2.4.0.0" Nieuw_cat="Jongeren vanaf 15 jaar (15+)"/>
+	<Row Oud_Id="2.2.5.0.0" Oud_cat="Volwassenen (18+)" Nieuw_Id="2.2.5.0.0" Nieuw_cat="Volwassenen (18+)"/>
+	<Row Oud_Id="3.0.0.0.0" Oud_cat="Giftshop" Nieuw_Id="3.0.0.0.0" Nieuw_cat="Giftshop"/>
+	<Row Oud_Id="3.12.0.0.0" Oud_cat="Toegangsfaciliteiten voor rolstoelgebruikers" Nieuw_Id="3.23.0.0.0" Nieuw_cat="Voorzieningen voor rolstoelgebruikers"/>
+	<Row Oud_Id="3.13.0.0.0" Oud_cat="Blindenvoorzieningen" Nieuw_Id="3.13.0.0.0" Nieuw_cat="Blindenvoorzieningen"/>
+	<Row Oud_Id="3.14.0.0.0" Oud_cat="Educatieve dienstverlening" Nieuw_Id="3.14.0.0.0" Nieuw_cat="Educatieve dienstverlening"/>
+	<Row Oud_Id="3.15.0.0.0" Oud_cat="Audiogids" Nieuw_Id="3.15.0.0.0" Nieuw_cat="Audiogids"/>
+	<Row Oud_Id="3.16.0.0.0" Oud_cat="Gids" Nieuw_Id="3.16.0.0.0" Nieuw_cat="Gids"/>
+	<Row Oud_Id="3.17.0.0.0" Oud_cat="Faciliteiten voor Doven en Gehoorgestoorden" Nieuw_Id="3.17.0.0.0" Nieuw_cat="Faciliteiten voor doven en gehoorgestoorden"/>
+	<Row Oud_Id="3.18.0.0.0" Oud_cat="Multimedia" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="3.19.0.0.0" Oud_cat="Kopieerfaciliteiten" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="3.2.0.0.0" Oud_cat="Archief- of Documentatiecentrum" Nieuw_Id="3.2.0.0.0" Nieuw_cat="Archief of documentatiecentrum"/>
+	<Row Oud_Id="3.20.0.0.0" Oud_cat="Uitleenfaciliteiten " Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="3.21.0.0.0" Oud_cat="Aanvaarden van SABAM-cultuurchŠques" Nieuw_Id="" Nieuw_cat="marker type &apos;extra info&apos;"/>
+	<Row Oud_Id="3.22.0.0.0" Oud_cat="EETiKET, kindvriendelijk restaurant" Nieuw_Id="" Nieuw_cat="marker type &apos;extra info&apos;"/>
+	<Row Oud_Id="3.3.0.0.0" Oud_cat="Eetgelegenheid" Nieuw_Id="3.3.0.0.0" Nieuw_cat="Eetgelegenheid"/>
+	<Row Oud_Id="3.4.0.0.0" Oud_cat="Drankgelegenheid" Nieuw_Id="3.4.0.0.0" Nieuw_cat="Drankgelegenheid"/>
+	<Row Oud_Id="3.5.0.0.0" Oud_cat="Autoparking" Nieuw_Id="3.5.0.0.0" Nieuw_cat="Autoparking"/>
+	<Row Oud_Id="3.6.0.0.0" Oud_cat="Busparking" Nieuw_Id="3.6.0.0.0" Nieuw_cat="Busparking"/>
+	<Row Oud_Id="3.7.0.0.0" Oud_cat="Openbaar vervoer" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="3.8.0.0.0" Oud_cat="Baby- of Luierhoek" Nieuw_Id="3.8.0.0.0" Nieuw_cat="Baby- of luierhoek"/>
+	<Row Oud_Id="3.9.0.0.0" Oud_cat="Kinderopvang" Nieuw_Id="3.9.0.0.0" Nieuw_cat="Kinderopvang"/>
+	<Row Oud_Id="4.0.0.0.0" Oud_cat="Openlucht " Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="4.1.0.0.0" Oud_cat="Indoor" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="5.0.0.0.0" Oud_cat="Open" Nieuw_Id="5.0.0.0.0" Nieuw_cat="Open"/>
+	<Row Oud_Id="5.1.0.0.0" Oud_cat="Gesloten" Nieuw_Id="5.1.0.0.0" Nieuw_cat="Gesloten"/>
+	<Row Oud_Id="6.0.0.0.0" Oud_cat="Wijk/buurt" Nieuw_Id="6.0.0.0.0" Nieuw_cat="Wijk/buurt"/>
+	<Row Oud_Id="6.1.0.0.0" Oud_cat="Lokaal" Nieuw_Id="6.1.0.0.0" Nieuw_cat="Lokaal"/>
+	<Row Oud_Id="6.2.0.0.0" Oud_cat="Regionaal" Nieuw_Id="6.2.0.0.0" Nieuw_cat="Regionaal"/>
+	<Row Oud_Id="6.3.0.0.0" Oud_cat="Nationaal " Nieuw_Id="6.3.0.0.0" Nieuw_cat="Nationaal "/>
+	<Row Oud_Id="6.4.0.0.0" Oud_cat="Internationaal" Nieuw_Id="6.4.0.0.0" Nieuw_cat="Internationaal"/>
+	<Row Oud_Id="6.5.0.0.0" Oud_cat="Geografische doelgroep onbepaald" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="7.0.0.0.0" Oud_cat="Niet ? professionele sector" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="7.1.0.0.0" Oud_cat="Professionele sector" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="7.2.0.0.0" Oud_cat="Sector onbepaald" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.1.0.0.0" Oud_cat="Bibliotheken" Nieuw_Id="8.1.0.0.0" Nieuw_cat="Bibliotheek"/>
+	<Row Oud_Id="8.12.0.0.0" Oud_cat="Boekingskantoren" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.13.0.0.0" Oud_cat="Managementbureau?s" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.14.0.0.0" Oud_cat="Reservatie- en Verkooppunten" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.15.0.0.0" Oud_cat="Lokatie" Nieuw_Id="8.15.0.0.0" Nieuw_cat="Lokatie"/>
+	<Row Oud_Id="8.18.0.0.0" Oud_cat="Uitgeverijen en platenmaatschappijen" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.19.0.0.0" Oud_cat="Mediamaatschappijen" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.20.0.0.0" Oud_cat="Sociaal-Culturele Volwassenenorganisaties" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.20.1.0.0" Oud_cat="Verenigingen" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.20.2.0.0" Oud_cat="Bewegingen" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.20.3.0.0" Oud_cat="Vormingsinstellingen" Nieuw_Id="8.10.0.0.0" Nieuw_cat="School of onderwijscentrum"/>
+	<Row Oud_Id="8.20.4.0.0" Oud_cat="Andere" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.21.0.0.0" Oud_cat="Jeugdorganisaties" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.21.4.0.0" Oud_cat="Jeugdhuizen" Nieuw_Id="8.21.1.0.0" Nieuw_cat="Jeugdhuis of jeugdcentrum"/>
+	<Row Oud_Id="8.21.6.0.0" Oud_cat="Jeugdraden" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.21.7.0.0" Oud_cat="Zuilgebonden Jeugdverenigingen" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.21.8.0.0" Oud_cat="Andere Jeugdverenigingen" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.22.0.0.0" Oud_cat="Overheidsinstellingen" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.22.1.0.0" Oud_cat="Vlaams" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.22.2.0.0" Oud_cat="Provinciaal" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.22.3.0.0" Oud_cat="Lokaal" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.23.0.0.0" Oud_cat="Ambassades en Consulaten" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.24.0.0.0" Oud_cat="Politieke partijen" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.25.0.0.0" Oud_cat="Pers" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.26.0.0.0" Oud_cat="Grafische industrie" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.27.0.0.0" Oud_cat="Diamant en Juweelnijverheid" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.28.0.0.0" Oud_cat="Havens" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.29.0.0.0" Oud_cat="Hotels" Nieuw_Id="8.46.0.0.0" Nieuw_cat="Logies"/>
+	<Row Oud_Id="8.3.0.0.0" Oud_cat="Musea" Nieuw_Id="8.3.0.0.0" Nieuw_cat="Museum"/>
+	<Row Oud_Id="8.32.0.0.0" Oud_cat="Discotheken" Nieuw_Id="8.32.0.0.0" Nieuw_cat="Discotheek"/>
+	<Row Oud_Id="8.33.0.0.0" Oud_cat="Thema- en Pretparken" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.34.0.0.0" Oud_cat="Steunpunten en Koepelorganisaties" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.35.0.0.0" Oud_cat="Vereniging" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.38.0.0.0" Oud_cat="Andere types van organisatie" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.39.0.0.0" Oud_cat="Materialen en benodigdheden" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.4.0.0.0" Oud_cat="Kunstgalerijen" Nieuw_Id="8.4.0.0.0" Nieuw_cat="Galerij"/>
+	<Row Oud_Id="8.40.0.0.0" Oud_cat="Winkel " Nieuw_Id="8.40.0.0.0" Nieuw_cat="Winkel "/>
+	<Row Oud_Id="8.41.0.0.0" Oud_cat="Type organisatie onbepaald" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.42.0.0.0" Oud_cat="Boerderij (landbouwbedrijf)" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.43.0.0.0" Oud_cat="Grootwarenhuis" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.45.0.0.0" Oud_cat="Voedingsbedrijf" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.5.0.0.0" Oud_cat="Kunstencentra" Nieuw_Id="8.5.0.0.0" Nieuw_cat="Kunstencentrum"/>
+	<Row Oud_Id="8.5.1.0.0" Oud_cat="Erkende kunstencentra" Nieuw_Id="8.5.0.0.0" Nieuw_cat="Kunstencentrum"/>
+	<Row Oud_Id="8.6.0.0.0" Oud_cat="Culturele- en Gemeenschapscentra" Nieuw_Id="8.6.0.0.0" Nieuw_cat="Cultuur-, gemeenschaps- of ontmoetingscentrum"/>
+	<Row Oud_Id="8.7.0.0.0" Oud_cat="Casino?s" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="8.8.0.0.0" Oud_cat="Clubs en Caf‚?s" Nieuw_Id="8.47.0.0.0" Nieuw_cat="Caf‚"/>
+	<Row Oud_Id="8.9.1.0.0" Oud_cat="Bioscopen" Nieuw_Id="8.9.1.0.0" Nieuw_cat="Bioscoop"/>
+	<Row Oud_Id="8.9.2.0.0" Oud_cat="Filmmusea" Nieuw_Id="8.9.2.0.0" Nieuw_cat="Filmmuseum"/>
+	<Row Oud_Id="9.0.0.0.0" Oud_cat="Organisatoren" Nieuw_Id="8.11.0.0.0" Nieuw_cat="Organisator(en)"/>
+	<Row Oud_Id="9.1.0.0.0" Oud_cat="Reservatoren " Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="9.18.0.0.0" Oud_cat="Uitvoerders" Nieuw_Id="8.0.0.0.0" Nieuw_cat="Uitvoerder(s)"/>
+	<Row Oud_Id="9.19.0.0.0" Oud_cat="Andere types van persoon" Nieuw_Id="" Nieuw_cat=""/>
+	<Row Oud_Id="9.20.0.0.0" Oud_cat="Type persoon onbepaald" Nieuw_Id="" Nieuw_cat=""/>
+	<!-- 11/12/12 CatgorizationMappingOudNieuw apdated. See JIRA IIS 29  -->
+	<Row Oud_x0020_Id="2.2.6.0.0" Oud_x0020_cat="Vanaf peuterleeftijd (0+)" Nieuw_x0020_Id="2.2.6.0.0" Nieuw_x0020_cat="Vanaf peuterleeftijd (0+)"/>
+	<Row Oud_x0020_Id="2.2.7.0.0" Oud_x0020_cat="Kinderen vanaf 9 jaar (9+)" Nieuw_x0020_Id="2.2.7.0.0" Nieuw_x0020_cat="Kinderen vanaf 9 jaar (9+)"/>
+</Import>

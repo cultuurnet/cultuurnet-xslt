@@ -1,0 +1,5 @@
+Transform CDB XML 3.1F to 3.2F
+Run 
+Map_3_1_F_to_3_2_F_fix_ns.xslt
+then
+MapToCDB_XSD_3_2_01.xslt

@@ -1,0 +1,2497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2008 (http://www.altova.com) by Julian Cox (Cultuurnet Vlaanderen) -->
+<Import>
+	<!-- added 17/03/11 -->
+	<Row>
+		<Nieuwe_Categorie>Voorzieningen voor rolstoelgebruikers</Nieuwe_Categorie>
+		<Nieuwe_CatID>3.23.1.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Toegangsfaciliteiten voor rolstoelgebruikers</Oude_Categorie>
+		<Oude_CatID>3.12.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Assistentie</Nieuwe_Categorie>
+		<Nieuwe_CatID>3.23.2.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Toegangsfaciliteiten voor rolstoelgebruikers</Oude_Categorie>
+		<Oude_CatID>3.12.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Rolstoel ter beschikking</Nieuwe_Categorie>
+		<Nieuwe_CatID>3.23.3.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Toegangsfaciliteiten voor rolstoelgebruikers</Oude_Categorie>
+		<Oude_CatID>3.12.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Voorzieningen voor hulp- en/of geleidehonden</Nieuwe_Categorie>
+		<Nieuwe_CatID>3.13.1.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Blindenvoorzieningen</Oude_Categorie>
+		<Oude_CatID>3.13.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Audiodescriptie</Nieuwe_Categorie>
+		<Nieuwe_CatID>3.13.2.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Blindenvoorzieningen</Oude_Categorie>
+		<Oude_CatID>3.13.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Brochure beschikbaar in braille</Nieuwe_Categorie>
+		<Nieuwe_CatID>3.13.3.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Blindenvoorzieningen</Oude_Categorie>
+		<Oude_CatID>3.13.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Brochure beschikbaar in grootletterschrift</Nieuwe_Categorie>
+		<Nieuwe_CatID>3.13.4.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Blindenvoorzieningen</Oude_Categorie>
+		<Oude_CatID>3.13.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Brochure beschikbaar in gesproken vorm</Nieuwe_Categorie>
+		<Nieuwe_CatID>3.13.5.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Blindenvoorzieningen</Oude_Categorie>
+		<Oude_CatID>3.13.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Ringleiding</Nieuwe_Categorie>
+		<Nieuwe_CatID>3.17.1.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Faciliteiten voor Doven en Gehoorgestoorden</Oude_Categorie>
+		<Oude_CatID>3.17.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Voelstoelen</Nieuwe_Categorie>
+		<Nieuwe_CatID>3.17.2.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Faciliteiten voor Doven en Gehoorgestoorden</Oude_Categorie>
+		<Oude_CatID>3.17.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Ondertiteling</Nieuwe_Categorie>
+		<Nieuwe_CatID>3.17.3.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Faciliteiten voor Doven en Gehoorgestoorden</Oude_Categorie>
+		<Oude_CatID>3.17.0.0.0</Oude_CatID>
+	</Row>
+	<!-- added 06/07/10 -->
+	<Row>
+		<Nieuwe_Categorie>Gezondheid en zorg</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.37.1.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Mens en maatschappij</Oude_Categorie>
+		<Oude_CatID>1.52.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Samenleving</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.37.2.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Mens en maatschappij</Oude_Categorie>
+		<Oude_CatID>1.52.0.0.0</Oude_CatID>
+	</Row>
+	<!-- 11/12/12 CatgorizationMappingOudNieuw apdated. See JIRA IIS 29 -->
+	<Row>
+		<Nieuwe_Categorie>Vanaf peuterleeftijd (0+)</Nieuwe_Categorie>
+		<Nieuwe_CatID>2.2.6.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Vanaf peuterleeftijd (0+)</Oude_Categorie>
+		<Oude_CatID>2.2.6.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Kinderen vanaf 9 jaar (9+)</Nieuwe_Categorie>
+		<Nieuwe_CatID>2.2.7.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Kinderen vanaf 9 jaar (9+)</Oude_Categorie>
+		<Oude_CatID>2.2.7.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Meerdere kunstvorm</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.0.9.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Beeldende kunsten</Oude_Categorie>
+		<Oude_CatID>1.0.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Meerdere filmgenre</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.7.14.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Film</Oude_Categorie>
+		<Oude_CatID>1.7.0.0.0</Oude_CatID>
+	</Row>
+	<!-- end added -->
+	<Row>
+		<Nieuwe_Categorie>Concert</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.50.4.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Voorstellingen (concert, optreden, vertoning,...)</Oude_Categorie>
+		<Oude_CatID>0.2.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Concert</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.50.4.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Muziek</Oude_Categorie>
+		<Oude_CatID>1.8.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Circus</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.52.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Voorstellingen (concert, optreden, vertoning,...)</Oude_Categorie>
+		<Oude_CatID>0.2.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Circus</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.52.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Circus </Oude_Categorie>
+		<Oude_CatID>1.6.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Dansvoorstelling</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.54.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Voorstellingen (concert, optreden, vertoning,...)</Oude_Categorie>
+		<Oude_CatID>0.2.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Dansvoorstelling</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.54.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Dans</Oude_Categorie>
+		<Oude_CatID>1.9.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Festival</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.5.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Festival</Oude_Categorie>
+		<Oude_CatID>0.5.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Festival</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.5.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Evenementen</Oude_Categorie>
+		<Oude_CatID>0.44.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Film</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.50.6.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Filmvoorstelling</Oude_Categorie>
+		<Oude_CatID>0.50.6.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Film</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.50.6.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Film</Oude_Categorie>
+		<Oude_CatID>1.7.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Lezing of gesprek</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.3.2.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Educatieve Activiteiten </Oude_Categorie>
+		<Oude_CatID>0.3.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Lezing of gesprek</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.3.2.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Lezingen</Oude_Categorie>
+		<Oude_CatID>0.3.2.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Theatervoorstelling</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.55.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Voorstellingen (concert, optreden, vertoning,...)</Oude_Categorie>
+		<Oude_CatID>0.2.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Theatervoorstelling</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.55.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Theater</Oude_Categorie>
+		<Oude_CatID>1.3.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Toeristisch evenement</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.56.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Evenementen</Oude_Categorie>
+		<Oude_CatID>0.44.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Wedstrijd bekijken</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.19.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Evenementen</Oude_Categorie>
+		<Oude_CatID>0.44.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Wedstrijd bekijken</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.19.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Wedstrijden en Concours </Oude_Categorie>
+		<Oude_CatID>0.19.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Markt of braderie</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.37.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Evenementen</Oude_Categorie>
+		<Oude_CatID>0.44.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Markt of braderie</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.37.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Braderieën  </Oude_Categorie>
+		<Oude_CatID>0.36.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Markt of braderie</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.37.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Markten </Oude_Categorie>
+		<Oude_CatID>0.37.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Landschap of natuurgebied</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.15.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Monumenten en landschappen</Oude_Categorie>
+		<Oude_CatID>0.48.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Landschap of natuurgebied</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.15.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Landschappen en natuurreservaten</Oude_Categorie>
+		<Oude_CatID>0.15.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Monument</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.14.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Monumenten en landschappen</Oude_Categorie>
+		<Oude_CatID>0.48.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Monument</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.14.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Monumenten en bouwwerken</Oude_Categorie>
+		<Oude_CatID>0.14.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Opendeurdag</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.12.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Info -en Opendeurdagen</Oude_Categorie>
+		<Oude_CatID>0.12.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Park of tuin</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.16.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Tuinen en Parken</Oude_Categorie>
+		<Oude_CatID>0.16.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Beurs</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.6.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Beurzen</Oude_Categorie>
+		<Oude_CatID>0.6.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Tentoonstelling</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.0.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Tentoonstellingen</Oude_Categorie>
+		<Oude_CatID>0.0.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Begeleide uitstap of rondleiding</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.7.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Excursies</Oude_Categorie>
+		<Oude_CatID>0.46.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Begeleide uitstap of rondleiding</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.7.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Excursies, Groepsbezoeken, en Reizen</Oude_Categorie>
+		<Oude_CatID>0.7.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Begeleide uitstap of rondleiding</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.7.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Recreatie</Oude_Categorie>
+		<Oude_CatID>1.57.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Cursus of workshop</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.3.1.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Cursussen en Workshops</Oude_Categorie>
+		<Oude_CatID>0.3.1.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Congres of studiedag</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.3.3.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Congressen, Debatten, Symposia, en Studiedagen</Oude_Categorie>
+		<Oude_CatID>0.3.3.0.0</Oude_CatID>
+	</Row>
+	<!-- updated 06/07/10 -->
+	<Row>
+		<Nieuwe_Categorie>Kamp of vakantie</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.57.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Kamp of vakantie</Oude_Categorie>
+		<Oude_CatID>0.57.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Kermis of feestelijkheid</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.28.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Kermissen en Foren</Oude_Categorie>
+		<Oude_CatID>0.28.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Kermis of feestelijkheid</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.28.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Feesten</Oude_Categorie>
+		<Oude_CatID>0.8.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Recreatiedomein of -centrum</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.53.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Recreatiedomein</Oude_Categorie>
+		<Oude_CatID>0.53.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Route</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.17.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Excursies</Oude_Categorie>
+		<Oude_CatID>0.46.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Route</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.17.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Routes (wandelingen, fietstochten)</Oude_Categorie>
+		<Oude_CatID>0.17.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Party of fuif</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.49.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Uitgaan</Oude_Categorie>
+		<Oude_CatID>0.49.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Party of fuif</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.49.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Bals, Fuiven, en Nightlife</Oude_Categorie>
+		<Oude_CatID>0.26.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Uitgaan</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.39.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Uitgaan</Oude_Categorie>
+		<Oude_CatID>0.49.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Eten en drinken</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.50.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Uitgaan, Eten, en Drinken</Oude_Categorie>
+		<Oude_CatID>0.39.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Spel of quiz</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.50.21.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Kwis of spel</Oude_Categorie>
+		<Oude_CatID>0.50.21.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Sportcentrum</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.58.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Type aanbod onbepaald</Oude_Categorie>
+		<Oude_CatID>0.51.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Thema- of pretpark</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.41.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Thema- en Pretparken</Oude_Categorie>
+		<Oude_CatID>0.41.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Wedstrijd meedoen</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.59.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Evenementen</Oude_Categorie>
+		<Oude_CatID>0.44.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Buurtraad</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.50.15.1.0</Nieuwe_CatID>
+		<Oude_Categorie>Buurtraad</Oude_Categorie>
+		<Oude_CatID>0.50.15.1.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Communicatieraad</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.50.15.2.0</Nieuwe_CatID>
+		<Oude_Categorie>Communicatieraad</Oude_Categorie>
+		<Oude_CatID>0.50.15.2.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Fietsregistratie</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.50.15.3.0</Nieuwe_CatID>
+		<Oude_Categorie>Fietsregistratie</Oude_Categorie>
+		<Oude_CatID>0.50.15.3.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Gemeenteraad</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.50.15.4.0</Nieuwe_CatID>
+		<Oude_Categorie>Gemeenteraad</Oude_Categorie>
+		<Oude_CatID>0.50.15.4.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Gezondheidsraad</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.50.15.5.0</Nieuwe_CatID>
+		<Oude_Categorie>Gezondheidsraad</Oude_Categorie>
+		<Oude_CatID>0.50.15.5.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Hoorzitting</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.50.15.6.0</Nieuwe_CatID>
+		<Oude_Categorie>Hoorzitting</Oude_Categorie>
+		<Oude_CatID>0.50.15.6.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Infovergadering</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.50.15.7.0</Nieuwe_CatID>
+		<Oude_Categorie>Infovergadering</Oude_Categorie>
+		<Oude_CatID>0.50.15.7.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Jumelage-activiteit</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.50.15.8.0</Nieuwe_CatID>
+		<Oude_Categorie>Jumelage-activiteit</Oude_Categorie>
+		<Oude_CatID>0.50.15.8.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Middenstandsraad</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.50.15.9.0</Nieuwe_CatID>
+		<Oude_Categorie>Middenstandsraad</Oude_Categorie>
+		<Oude_CatID>0.50.15.9.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Mondiale raad</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.50.15.10.0</Nieuwe_CatID>
+		<Oude_Categorie>Mondiale raad</Oude_Categorie>
+		<Oude_CatID>0.50.15.10.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>OCMW-raad</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.50.15.11.0</Nieuwe_CatID>
+		<Oude_Categorie>OCMW-raad</Oude_Categorie>
+		<Oude_CatID>0.50.15.11.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Ontvangst</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.50.15.12.0</Nieuwe_CatID>
+		<Oude_Categorie>Ontvangst</Oude_Categorie>
+		<Oude_CatID>0.50.15.12.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Plechtigheid</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.50.15.13.0</Nieuwe_CatID>
+		<Oude_Categorie>Plechtigheid </Oude_Categorie>
+		<Oude_CatID>0.50.15.13.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Seniorenraad</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.50.15.14.0</Nieuwe_CatID>
+		<Oude_Categorie>Seniorenraad</Oude_Categorie>
+		<Oude_CatID>0.50.15.14.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Type onbepaald</Nieuwe_Categorie>
+		<Nieuwe_CatID>0.51.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Type onbepaald</Oude_Categorie>
+		<Oude_CatID>0.51.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Plattelandsbeleving</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.60.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>IPE_Plattelandsbeleving</Oude_Categorie>
+		<Oude_CatID>1.60.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Verblijfslocaties</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.60.1.0.0</Nieuwe_CatID>
+		<Oude_Categorie>IPE_Verblijfslocaties</Oude_Categorie>
+		<Oude_CatID>1.60.1.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Verblijf op een actieve hoeve</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.60.1.1.0</Nieuwe_CatID>
+		<Oude_Categorie>IPE_Verblijf op een actieve hoeve</Oude_Categorie>
+		<Oude_CatID>1.60.1.1.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Verblijf op het platteland</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.60.1.2.0</Nieuwe_CatID>
+		<Oude_Categorie>IPE_Verblijf op het platteland</Oude_Categorie>
+		<Oude_CatID>1.60.1.2.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Verblijf in het dorp</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.60.1.3.0</Nieuwe_CatID>
+		<Oude_Categorie>IPE_Verblijf in het dorp</Oude_Categorie>
+		<Oude_CatID>1.60.1.3.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Bezoekerslocatie/bezienswaardigheid</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.60.2.0.0</Nieuwe_CatID>
+		<Oude_Categorie>IPE_Bezoekerslocatie/bezienswaardigheid</Oude_Categorie>
+		<Oude_CatID>1.60.2.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Kijkboerderij/bezoekersboerderij</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.60.2.1.0</Nieuwe_CatID>
+		<Oude_Categorie>IPE_Kijkboerderij/bezoekersboerderij</Oude_Categorie>
+		<Oude_CatID>1.60.2.1.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Museum rond landbouw en platteland</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.60.2.2.0</Nieuwe_CatID>
+		<Oude_Categorie>IPE_Museum rond landbouw en platteland</Oude_Categorie>
+		<Oude_CatID>1.60.2.2.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Educatief centrum rond landbouw en platteland</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.60.2.3.0</Nieuwe_CatID>
+		<Oude_Categorie>IPE_Educatief centrum rond landbouw en platteland</Oude_Categorie>
+		<Oude_CatID>1.60.2.3.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Verkoopspunt hoeve- en streekproducten</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.60.2.4.0</Nieuwe_CatID>
+		<Oude_Categorie>IPE_Verkoopspunt hoeve- en streekproducten</Oude_Categorie>
+		<Oude_CatID>1.60.2.4.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Open tuin</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.60.2.5.0</Nieuwe_CatID>
+		<Oude_Categorie>IPE_Open tuin</Oude_Categorie>
+		<Oude_CatID>1.60.2.5.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Andere bezienswaardigheden</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.60.2.6.0</Nieuwe_CatID>
+		<Oude_Categorie>IPE_Andere bezienswaardigheden</Oude_Categorie>
+		<Oude_CatID>1.60.2.6.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Hoeve- en streekproducenten</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.60.2.7.0</Nieuwe_CatID>
+		<Oude_Categorie>IPE_Hoeve- en streekproducenten</Oude_Categorie>
+		<Oude_CatID>1.60.2.7.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Routes</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.60.3.0.0</Nieuwe_CatID>
+		<Oude_Categorie>IPE_Routes</Oude_Categorie>
+		<Oude_CatID>1.60.3.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Arrangementen</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.60.4.0.0</Nieuwe_CatID>
+		<Oude_Categorie>IPE_Arrangementen</Oude_Categorie>
+		<Oude_CatID>1.60.4.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Plattelandsklas</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.60.4.1.0</Nieuwe_CatID>
+		<Oude_Categorie>IPE_Plattelandsklas</Oude_Categorie>
+		<Oude_CatID>1.60.4.1.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Schoolreis</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.60.4.2.0</Nieuwe_CatID>
+		<Oude_Categorie>IPE_Schoolreis</Oude_Categorie>
+		<Oude_CatID>1.60.4.2.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Groepsuitstap vereniging</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.60.4.3.0</Nieuwe_CatID>
+		<Oude_Categorie>IPE_Groepsuitstap vereniging</Oude_Categorie>
+		<Oude_CatID>1.60.4.3.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Familie-uitstap</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.60.4.4.0</Nieuwe_CatID>
+		<Oude_Categorie>IPE_Familie-uitstap</Oude_Categorie>
+		<Oude_CatID>1.60.4.4.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Bedrijfsuitstap</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.60.4.5.0</Nieuwe_CatID>
+		<Oude_Categorie>IPE_Bedrijfsuitstap</Oude_Categorie>
+		<Oude_CatID>1.60.4.5.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Indivuele activiteit</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.60.4.6.0</Nieuwe_CatID>
+		<Oude_Categorie>IPE_Indivuele activiteit</Oude_Categorie>
+		<Oude_CatID>1.60.4.6.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Andere arrangementen</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.60.4.7.0</Nieuwe_CatID>
+		<Oude_Categorie>IPE_Andere arrangementen</Oude_Categorie>
+		<Oude_CatID>1.60.4.7.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Antiek en brocante</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.17.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Antiek en Brocante</Oude_Categorie>
+		<Oude_CatID>1.17.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Architectuur</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.2.1.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Architectuur en Vormgeving</Oude_Categorie>
+		<Oude_CatID>1.2.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Architectuur</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.2.1.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Architectuur</Oude_Categorie>
+		<Oude_CatID>1.2.1.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Audiovisuele kunst</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.1.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Audiovisuele kunsten </Oude_Categorie>
+		<Oude_CatID>1.1.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Beeldhouwkunst</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.0.2.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Beeldende kunsten</Oude_Categorie>
+		<Oude_CatID>1.0.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Beeldhouwkunst</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.0.2.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Beeldhouwkunst</Oude_Categorie>
+		<Oude_CatID>1.0.2.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Fotografie</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.0.6.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Beeldende kunsten</Oude_Categorie>
+		<Oude_CatID>1.0.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Fotografie</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.0.6.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Fotografie</Oude_Categorie>
+		<Oude_CatID>1.0.6.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Grafiek</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.0.4.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Beeldende kunsten</Oude_Categorie>
+		<Oude_CatID>1.0.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Grafiek</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.0.4.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Grafische kunst</Oude_Categorie>
+		<Oude_CatID>1.0.4.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Installatiekunst</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.0.3.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Beeldende kunsten</Oude_Categorie>
+		<Oude_CatID>1.0.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Installatiekunst</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.0.3.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Installatiekunst</Oude_Categorie>
+		<Oude_CatID>1.0.3.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Schilderkunst</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.0.1.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Beeldende kunsten</Oude_Categorie>
+		<Oude_CatID>1.0.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Schilderkunst</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.0.1.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Schilderkunst</Oude_Categorie>
+		<Oude_CatID>1.0.1.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Decoratieve kunst</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.0.5.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Beeldende kunsten</Oude_Categorie>
+		<Oude_CatID>1.0.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Decoratieve kunst</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.0.5.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Kunstambachten en decoratieve kunst</Oude_Categorie>
+		<Oude_CatID>1.0.5.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Design</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.2.2.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Design</Oude_Categorie>
+		<Oude_CatID>1.2.2.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Mode</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.49.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Architectuur en Vormgeving</Oude_Categorie>
+		<Oude_CatID>1.2.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Mode</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.49.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Mode</Oude_Categorie>
+		<Oude_CatID>1.49.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Ballet en klassieke dans</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.9.1.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Dans</Oude_Categorie>
+		<Oude_CatID>1.9.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Ballet en klassieke dans</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.9.1.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Klassieke dans en Ballet</Oude_Categorie>
+		<Oude_CatID>1.9.1.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Volksdans en werelddans</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.9.3.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Volksdans</Oude_Categorie>
+		<Oude_CatID>1.9.3.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Volksdans en werelddans</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.9.3.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Werelddans</Oude_Categorie>
+		<Oude_CatID>1.9.4.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Volksdans en werelddans</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.9.3.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Dans</Oude_Categorie>
+		<Oude_CatID>1.9.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Stijl- en salondansen</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.9.5.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Stijl- en Salondansen</Oude_Categorie>
+		<Oude_CatID>1.9.5.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Stijl- en salondansen</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.9.5.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Dans</Oude_Categorie>
+		<Oude_CatID>1.9.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Moderne dans</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.9.2.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Hedendaagse dans</Oude_Categorie>
+		<Oude_CatID>1.9.2.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Moderne dans</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.9.2.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Dans</Oude_Categorie>
+		<Oude_CatID>1.9.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Erfgoed</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.40.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Cultureel erfgoed</Oude_Categorie>
+		<Oude_CatID>1.40.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Actie en avontuur</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.7.2.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Film</Oude_Categorie>
+		<Oude_CatID>1.7.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Actie en avontuur</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.7.2.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Actie en Avontuur</Oude_Categorie>
+		<Oude_CatID>1.7.2.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Animatie en kinderfilms</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.7.12.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Film</Oude_Categorie>
+		<Oude_CatID>1.7.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Animatie en kinderfilms</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.7.12.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Tekenfilms </Oude_Categorie>
+		<Oude_CatID>1.7.12.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Documentaires en reportages</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.7.1.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Film</Oude_Categorie>
+		<Oude_CatID>1.7.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Documentaires en reportages</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.7.1.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Reportages en Documentaires</Oude_Categorie>
+		<Oude_CatID>1.7.1.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Griezelfilm of horror</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.7.6.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Film</Oude_Categorie>
+		<Oude_CatID>1.7.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Griezelfilm of horror</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.7.6.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Thriller en Misdaad</Oude_Categorie>
+		<Oude_CatID>1.7.5.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Griezelfilm of horror</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.7.6.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Horror</Oude_Categorie>
+		<Oude_CatID>1.7.6.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Historische film</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.7.8.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Film</Oude_Categorie>
+		<Oude_CatID>1.7.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Historische film</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.7.8.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Historische Films</Oude_Categorie>
+		<Oude_CatID>1.7.8.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Komedie</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.7.3.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Film</Oude_Categorie>
+		<Oude_CatID>1.7.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Komedie</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.7.3.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Komedie</Oude_Categorie>
+		<Oude_CatID>1.7.3.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Kortfilm</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.7.13.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Film</Oude_Categorie>
+		<Oude_CatID>1.7.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Filmmusical</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.7.10.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Film</Oude_Categorie>
+		<Oude_CatID>1.7.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Filmmusical</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.7.10.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Filmmusicals</Oude_Categorie>
+		<Oude_CatID>1.7.10.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Drama</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.7.4.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Film</Oude_Categorie>
+		<Oude_CatID>1.7.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Drama</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.7.4.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Romantiek en melodrama</Oude_Categorie>
+		<Oude_CatID>1.7.4.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Science fiction</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.7.7.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Film</Oude_Categorie>
+		<Oude_CatID>1.7.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Science fiction</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.7.7.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Science fiction </Oude_Categorie>
+		<Oude_CatID>1.7.7.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Cinefiel</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.7.11.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Film</Oude_Categorie>
+		<Oude_CatID>1.7.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Geschiedenis</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.11.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Geschiedenis</Oude_Categorie>
+		<Oude_CatID>1.11.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Gezondheid en wellness</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.62.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Thema onbepaald</Oude_Categorie>
+		<Oude_CatID>1.58.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Landbouw en platteland</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.63.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Landbouw</Oude_Categorie>
+		<Oude_CatID>1.35.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Milieu en natuur</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.64.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Milieu en natuur</Oude_Categorie>
+		<Oude_CatID>1.34.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Literatuur</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.10.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Literatuur</Oude_Categorie>
+		<Oude_CatID>1.10.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Poëzie</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.10.5.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Poëzie</Oude_Categorie>
+		<Oude_CatID>1.10.5.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Poëzie</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.10.5.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Literatuur</Oude_Categorie>
+		<Oude_CatID>1.10.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Fictie</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.10.11.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Literatuur</Oude_Categorie>
+		<Oude_CatID>1.10.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Non-fictie</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.10.12.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Literatuur</Oude_Categorie>
+		<Oude_CatID>1.10.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Strips</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.10.8.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Literatuur</Oude_Categorie>
+		<Oude_CatID>1.10.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Strips</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.10.8.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Beeldverhaal</Oude_Categorie>
+		<Oude_CatID>1.10.8.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Klassieke muziek</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.8.1.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Muziek</Oude_Categorie>
+		<Oude_CatID>1.8.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Klassieke muziek</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.8.1.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Klassieke muziek</Oude_Categorie>
+		<Oude_CatID>1.8.1.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Jazz en blues</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.8.2.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Muziek</Oude_Categorie>
+		<Oude_CatID>1.8.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Jazz en blues</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.8.2.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Jazz en blues</Oude_Categorie>
+		<Oude_CatID>1.8.2.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Moderne muziek</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.8.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Muziek</Oude_Categorie>
+		<Oude_CatID>1.8.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Moderne muziek</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.8.3.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Moderne muziek</Oude_Categorie>
+		<Oude_CatID>1.8.3.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Pop en rock</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.8.3.1.0</Nieuwe_CatID>
+		<Oude_Categorie>Muziek</Oude_Categorie>
+		<Oude_CatID>1.8.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Pop en rock</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.8.3.1.0</Nieuwe_CatID>
+		<Oude_Categorie>Pop en rock</Oude_Categorie>
+		<Oude_CatID>1.8.3.1.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Hip hop, r&amp;b en rap</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.8.3.2.0</Nieuwe_CatID>
+		<Oude_Categorie>Muziek</Oude_Categorie>
+		<Oude_CatID>1.8.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Hip hop, r&amp;b en rap</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.8.3.2.0</Nieuwe_CatID>
+		<Oude_Categorie>Rap en hip-hop</Oude_Categorie>
+		<Oude_CatID>1.8.3.2.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Dance</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.8.3.3.0</Nieuwe_CatID>
+		<Oude_Categorie>Muziek</Oude_Categorie>
+		<Oude_CatID>1.8.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Dance</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.8.3.3.0</Nieuwe_CatID>
+		<Oude_Categorie>Dance</Oude_Categorie>
+		<Oude_CatID>1.8.3.3.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Folk en wereldmuziek</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.8.4.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Muziek</Oude_Categorie>
+		<Oude_CatID>1.8.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Folk en wereldmuziek</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.8.4.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Wereldmuziek</Oude_Categorie>
+		<Oude_CatID>1.8.4.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Amusementsmuziek</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.8.3.5.0</Nieuwe_CatID>
+		<Oude_Categorie>Muziek</Oude_Categorie>
+		<Oude_CatID>1.8.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Amusementsmuziek</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.8.3.5.0</Nieuwe_CatID>
+		<Oude_Categorie>Amusementsmuziek</Oude_Categorie>
+		<Oude_CatID>1.8.3.5.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Politiek en maatschappij</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.52.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Mens en maatschappij</Oude_Categorie>
+		<Oude_CatID>1.52.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Politiek en maatschappij</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.52.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Maatschappij</Oude_Categorie>
+		<Oude_CatID>1.27.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Creativiteit</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.42.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Mens en maatschappij</Oude_Categorie>
+		<Oude_CatID>1.52.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Creativiteit</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.42.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Vorming en onderwijs</Oude_Categorie>
+		<Oude_CatID>1.53.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Creativiteit</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.42.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Creativiteit en expressie</Oude_Categorie>
+		<Oude_CatID>1.42.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Computer en techniek</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.21.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Wetenschappen</Oude_Categorie>
+		<Oude_CatID>1.25.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Computer en techniek</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.21.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Informatica</Oude_Categorie>
+		<Oude_CatID>1.24.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Opvoeding</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.37.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Mens en maatschappij</Oude_Categorie>
+		<Oude_CatID>1.52.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Opvoeding</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.37.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Vorming en onderwijs</Oude_Categorie>
+		<Oude_CatID>1.53.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Opvoeding</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.37.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Opvoeding en Onderwijs</Oude_Categorie>
+		<Oude_CatID>1.37.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Persoon en relaties</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.61.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Mens en maatschappij</Oude_Categorie>
+		<Oude_CatID>1.52.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Persoon en relaties</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.61.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Vorming en onderwijs</Oude_Categorie>
+		<Oude_CatID>1.53.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Persoon en relaties</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.61.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Sociale en communicatieve vaardigheden</Oude_Categorie>
+		<Oude_CatID>1.47.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Interculturele vorming</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.43.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Mens en maatschappij</Oude_Categorie>
+		<Oude_CatID>1.52.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Interculturele vorming</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.43.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Vorming en onderwijs</Oude_Categorie>
+		<Oude_CatID>1.53.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Interculturele vorming</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.43.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Interculturele vorming</Oude_Categorie>
+		<Oude_CatID>1.43.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Kunst en kunsteducatie</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.41.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Mens en maatschappij</Oude_Categorie>
+		<Oude_CatID>1.52.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Kunst en kunsteducatie</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.41.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Vorming en onderwijs</Oude_Categorie>
+		<Oude_CatID>1.53.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Kunst en kunsteducatie</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.41.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Kunsteducatie</Oude_Categorie>
+		<Oude_CatID>1.41.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Bal en racketsport</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.51.13.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Sport</Oude_Categorie>
+		<Oude_CatID>1.51.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Atletiek, wandelen en fietsen</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.51.14.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Sport</Oude_Categorie>
+		<Oude_CatID>1.51.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Zwemmen en Watersport</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.51.3.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Sport</Oude_Categorie>
+		<Oude_CatID>1.51.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Fitness, gym(nastiek), dans en vechtsport</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.51.6.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Sport</Oude_Categorie>
+		<Oude_CatID>1.51.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Outdoor en adventure</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.51.11.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Sport</Oude_Categorie>
+		<Oude_CatID>1.51.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Lucht- en motorsport</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.58.8.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Sport</Oude_Categorie>
+		<Oude_CatID>1.51.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Volkssporten</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.51.10.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Sport</Oude_Categorie>
+		<Oude_CatID>1.51.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Omnisport en andere</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.51.12.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Sport</Oude_Categorie>
+		<Oude_CatID>1.51.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Tekst- en muziektheater</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.3.1.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Theater</Oude_Categorie>
+		<Oude_CatID>1.3.0.0.0</Oude_CatID>
+	</Row>
+	<!-- added 11/05/10 -->
+	<Row>
+		<Nieuwe_Categorie>Tekst- en muziektheater</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.3.1.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Teksttheater</Oude_Categorie>
+		<Oude_CatID>1.3.1.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Humor/comedy</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.3.10.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Cabaret en Variété</Oude_Categorie>
+		<Oude_CatID>1.3.8.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Figuren-en poppentheater</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.3.5.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Figuren –en Objectentheater</Oude_Categorie>
+		<Oude_CatID>1.3.5.0.0</Oude_CatID>
+	</Row>
+	<!-- end added -->
+	<Row>
+		<Nieuwe_Categorie>Humor/comedy</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.3.10.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Theater</Oude_Categorie>
+		<Oude_CatID>1.3.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Musical</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.4.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Theater</Oude_Categorie>
+		<Oude_CatID>1.3.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Musical</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.4.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Musical </Oude_Categorie>
+		<Oude_CatID>1.4.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Figuren- en poppentheater</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.3.5.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Theater</Oude_Categorie>
+		<Oude_CatID>1.3.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Opera en operette</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.5.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Theater</Oude_Categorie>
+		<Oude_CatID>1.3.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Opera en operette</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.5.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Opera</Oude_Categorie>
+		<Oude_CatID>1.5.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Mime en bewegingstheater</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.3.4.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Theater</Oude_Categorie>
+		<Oude_CatID>1.3.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Mime en bewegingstheater</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.3.4.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Mimetheater</Oude_Categorie>
+		<Oude_CatID>1.3.4.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Wetenschap</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.25.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Wetenschappen</Oude_Categorie>
+		<Oude_CatID>1.25.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Zingeving, filosofie en religie</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.44.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Zingeving en Religie</Oude_Categorie>
+		<Oude_CatID>1.44.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Thema onbepaald</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.58.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Thema onbepaald</Oude_Categorie>
+		<Oude_CatID>1.58.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Giftshop</Nieuwe_Categorie>
+		<Nieuwe_CatID>3.0.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Giftshop</Oude_Categorie>
+		<Oude_CatID>3.0.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Bibliotheek, archief of documentatiecentrum</Nieuwe_Categorie>
+		<Nieuwe_CatID>3.1.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Bibliotheek</Oude_Categorie>
+		<Oude_CatID>3.1.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Archief of documentatiecentrum</Nieuwe_Categorie>
+		<Nieuwe_CatID>3.2.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Archief- of Documentatiecentrum</Oude_Categorie>
+		<Oude_CatID>3.2.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Eetgelegenheid</Nieuwe_Categorie>
+		<Nieuwe_CatID>3.3.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Eetgelegenheid</Oude_Categorie>
+		<Oude_CatID>3.3.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Drankgelegenheid</Nieuwe_Categorie>
+		<Nieuwe_CatID>3.4.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Drankgelegenheid</Oude_Categorie>
+		<Oude_CatID>3.4.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Autoparking</Nieuwe_Categorie>
+		<Nieuwe_CatID>3.5.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Autoparking</Oude_Categorie>
+		<Oude_CatID>3.5.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Busparking</Nieuwe_Categorie>
+		<Nieuwe_CatID>3.6.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Busparking</Oude_Categorie>
+		<Oude_CatID>3.6.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Baby- of luierhoek</Nieuwe_Categorie>
+		<Nieuwe_CatID>3.8.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Baby- of Luierhoek</Oude_Categorie>
+		<Oude_CatID>3.8.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Kinderopvang</Nieuwe_Categorie>
+		<Nieuwe_CatID>3.9.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Kinderopvang</Oude_Categorie>
+		<Oude_CatID>3.9.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Voorzieningen voor rolstoelgebruikers</Nieuwe_Categorie>
+		<Nieuwe_CatID>3.23.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Toegangsfaciliteiten voor rolstoelgebruikers</Oude_Categorie>
+		<Oude_CatID>3.12.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Blindenvoorzieningen</Nieuwe_Categorie>
+		<Nieuwe_CatID>3.13.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Blindenvoorzieningen</Oude_Categorie>
+		<Oude_CatID>3.13.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Faciliteiten voor doven en gehoorgestoorden</Nieuwe_Categorie>
+		<Nieuwe_CatID>3.17.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Faciliteiten voor Doven en Gehoorgestoorden</Oude_Categorie>
+		<Oude_CatID>3.17.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Educatieve dienstverlening</Nieuwe_Categorie>
+		<Nieuwe_CatID>3.14.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Educatieve dienstverlening</Oude_Categorie>
+		<Oude_CatID>3.14.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Audiogids</Nieuwe_Categorie>
+		<Nieuwe_CatID>3.15.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Audiogids</Oude_Categorie>
+		<Oude_CatID>3.15.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Gids</Nieuwe_Categorie>
+		<Nieuwe_CatID>3.16.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Gids</Oude_Categorie>
+		<Oude_CatID>3.16.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Open</Nieuwe_Categorie>
+		<Nieuwe_CatID>5.0.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Open</Oude_Categorie>
+		<Oude_CatID>5.0.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Gesloten</Nieuwe_Categorie>
+		<Nieuwe_CatID>5.1.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Gesloten</Oude_Categorie>
+		<Oude_CatID>5.1.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Toegankelijk zonder afspraak</Nieuwe_Categorie>
+		<Nieuwe_CatID>5.2.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Open</Oude_Categorie>
+		<Oude_CatID>5.0.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Enkel toegankelijk mits afspraak</Nieuwe_Categorie>
+		<Nieuwe_CatID>5.3.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Gesloten</Oude_Categorie>
+		<Oude_CatID>5.1.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Wijk/buurt</Nieuwe_Categorie>
+		<Nieuwe_CatID>6.0.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Wijk/buurt</Oude_Categorie>
+		<Oude_CatID>6.0.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Lokaal</Nieuwe_Categorie>
+		<Nieuwe_CatID>6.1.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Lokaal</Oude_Categorie>
+		<Oude_CatID>6.1.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Regionaal</Nieuwe_Categorie>
+		<Nieuwe_CatID>6.2.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Regionaal</Oude_Categorie>
+		<Oude_CatID>6.2.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Nationaal</Nieuwe_Categorie>
+		<Nieuwe_CatID>6.3.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Nationaal </Oude_Categorie>
+		<Oude_CatID>6.3.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Internationaal</Nieuwe_Categorie>
+		<Nieuwe_CatID>6.4.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Internationaal</Oude_Categorie>
+		<Oude_CatID>6.4.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Vanaf kleuterleeftijd (3+)</Nieuwe_Categorie>
+		<Nieuwe_CatID>2.2.1.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Vanaf kleuterleeftijd (3+)</Oude_Categorie>
+		<Oude_CatID>2.2.1.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Kinderen vanaf 6 jaar (6+)</Nieuwe_Categorie>
+		<Nieuwe_CatID>2.2.2.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Vanaf lagere schoolleeftijd (6+)</Oude_Categorie>
+		<Oude_CatID>2.2.2.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Jongeren vanaf 12 jaar (12+)</Nieuwe_Categorie>
+		<Nieuwe_CatID>2.2.3.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Jongeren vanaf 12 jaar (12+) </Oude_Categorie>
+		<Oude_CatID>2.2.3.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Jongeren vanaf 15 jaar (15+)</Nieuwe_Categorie>
+		<Nieuwe_CatID>2.2.4.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Jongeren vanaf 15 jaar (15+)</Oude_Categorie>
+		<Oude_CatID>2.2.4.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Volwassenen (18+)</Nieuwe_Categorie>
+		<Nieuwe_CatID>2.2.5.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Volwassenen (18+)</Oude_Categorie>
+		<Oude_CatID>2.2.5.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Senioren</Nieuwe_Categorie>
+		<Nieuwe_CatID>2.1.5.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Senioren</Oude_Categorie>
+		<Oude_CatID>2.1.5.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Allochtonen</Nieuwe_Categorie>
+		<Nieuwe_CatID>2.1.9.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Allochtonen</Oude_Categorie>
+		<Oude_CatID>2.1.9.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Holebi</Nieuwe_Categorie>
+		<Nieuwe_CatID>2.1.10.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Holebi</Oude_Categorie>
+		<Oude_CatID>2.1.10.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Mannen</Nieuwe_Categorie>
+		<Nieuwe_CatID>2.1.2.0.0</Nieuwe_CatID>
+		<Oude_Categorie/>
+		<Oude_CatID/>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Personen met een handicap</Nieuwe_Categorie>
+		<Nieuwe_CatID>2.1.11.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Personen met een handicap</Oude_Categorie>
+		<Oude_CatID>2.1.11.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Scholen</Nieuwe_Categorie>
+		<Nieuwe_CatID>2.1.3.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Scholen</Oude_Categorie>
+		<Oude_CatID>2.1.3.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Singles</Nieuwe_Categorie>
+		<Nieuwe_CatID>2.1.6.0.0</Nieuwe_CatID>
+		<Oude_Categorie/>
+		<Oude_CatID/>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Studenten</Nieuwe_Categorie>
+		<Nieuwe_CatID>2.1.4.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Studenten</Oude_Categorie>
+		<Oude_CatID>2.1.4.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Vrouwen</Nieuwe_Categorie>
+		<Nieuwe_CatID>2.1.7.0.0</Nieuwe_CatID>
+		<Oude_Categorie/>
+		<Oude_CatID/>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Groepen (verenigingen)</Nieuwe_Categorie>
+		<Nieuwe_CatID>2.1.12.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Groepen (verenigingen)</Oude_Categorie>
+		<Oude_CatID>2.1.12.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Hedendaags</Nieuwe_Categorie>
+		<Nieuwe_CatID>11.0.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie/>
+		<Oude_CatID/>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Niet-hedendaags</Nieuwe_Categorie>
+		<Nieuwe_CatID>11.1.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie/>
+		<Oude_CatID/>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Locatie</Nieuwe_Categorie>
+		<Nieuwe_CatID>8.15.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Lokatie</Oude_Categorie>
+		<Oude_CatID>8.15.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Bioscoop</Nieuwe_Categorie>
+		<Nieuwe_CatID>8.9.1.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Vertoonplaatsen Film</Oude_Categorie>
+		<Oude_CatID>8.9.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Bioscoop</Nieuwe_Categorie>
+		<Nieuwe_CatID>8.9.1.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Bioscopen</Oude_Categorie>
+		<Oude_CatID>8.9.1.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Historisch waardevol gebouw</Nieuwe_Categorie>
+		<Nieuwe_CatID>8.46.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Lokatie</Oude_Categorie>
+		<Oude_CatID>8.15.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Filmmuseum</Nieuwe_Categorie>
+		<Nieuwe_CatID>8.9.2.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Vertoonplaatsen Film</Oude_Categorie>
+		<Oude_CatID>8.9.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Filmmuseum</Nieuwe_Categorie>
+		<Nieuwe_CatID>8.9.2.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Filmmusea</Oude_Categorie>
+		<Oude_CatID>8.9.2.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Archief of documentatie-centrum</Nieuwe_Categorie>
+		<Nieuwe_CatID>8.2.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Archief- of Documentatiecentrum</Oude_Categorie>
+		<Oude_CatID>3.2.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Logies</Nieuwe_Categorie>
+		<Nieuwe_CatID>8.47.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Hotels</Oude_Categorie>
+		<Oude_CatID>8.29.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Museum</Nieuwe_Categorie>
+		<Nieuwe_CatID>8.3.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Musea</Oude_Categorie>
+		<Oude_CatID>8.3.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Galerie</Nieuwe_Categorie>
+		<Nieuwe_CatID>8.4.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Kunstgalerijen</Oude_Categorie>
+		<Oude_CatID>8.4.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Concertzaal</Nieuwe_Categorie>
+		<Nieuwe_CatID>8.48.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Clubs en Café's</Oude_Categorie>
+		<Oude_CatID>8.8.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Cultuur-, gemeenschaps- of ontmoetingscentrum</Nieuwe_Categorie>
+		<Nieuwe_CatID>8.6.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Culturele- en Gemeenschapscentra</Oude_Categorie>
+		<Oude_CatID>8.6.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Kunstencentrum</Nieuwe_Categorie>
+		<Nieuwe_CatID>8.5.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Kunstencentra</Oude_Categorie>
+		<Oude_CatID>8.5.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Jeugdhuis of Jeugdcentrum</Nieuwe_Categorie>
+		<Nieuwe_CatID>8.21.1.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Jeugdorganisaties</Oude_Categorie>
+		<Oude_CatID>8.21.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Discotheek</Nieuwe_Categorie>
+		<Nieuwe_CatID>8.32.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Clubs en Café's</Oude_Categorie>
+		<Oude_CatID>8.8.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Café</Nieuwe_Categorie>
+		<Nieuwe_CatID>8.49.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Clubs en Café's</Oude_Categorie>
+		<Oude_CatID>8.8.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Bibliotheek</Nieuwe_Categorie>
+		<Nieuwe_CatID>8.1.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Bibliotheken</Oude_Categorie>
+		<Oude_CatID>8.1.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Restaurant</Nieuwe_Categorie>
+		<Nieuwe_CatID>8.44.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Restaurants</Oude_Categorie>
+		<Oude_CatID>8.44.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>School of onderwijscentrum</Nieuwe_Categorie>
+		<Nieuwe_CatID>8.10.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Onderwijsinstellingen</Oude_Categorie>
+		<Oude_CatID>8.10.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Sportcentrum</Nieuwe_Categorie>
+		<Nieuwe_CatID>8.50.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Lokatie</Oude_Categorie>
+		<Oude_CatID>8.15.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Recreatiedomein of -centrum</Nieuwe_Categorie>
+		<Nieuwe_CatID>8.51.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Lokatie</Oude_Categorie>
+		<Oude_CatID>8.15.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Polyvalente zaal of expohal</Nieuwe_Categorie>
+		<Nieuwe_CatID>8.52.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Lokatie</Oude_Categorie>
+		<Oude_CatID>8.15.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Openbare ruimte</Nieuwe_Categorie>
+		<Nieuwe_CatID>8.53.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Type organisatie onbepaald</Oude_Categorie>
+		<Oude_CatID>8.41.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Winkel</Nieuwe_Categorie>
+		<Nieuwe_CatID>8.40.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Winkel </Oude_Categorie>
+		<Oude_CatID>8.40.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Uitvoerder(s)</Nieuwe_Categorie>
+		<Nieuwe_CatID>8.0.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Artistieke gezelschappen / uitvoerder</Oude_Categorie>
+		<Oude_CatID>8.0.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Organisator(en)</Nieuwe_Categorie>
+		<Nieuwe_CatID>8.11.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Organisatoren van aanbod</Oude_Categorie>
+		<Oude_CatID>8.11.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Bibliotheekweek</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Bibliotheekweek</Oude_Categorie>
+		<Oude_CatID>0.50.18.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>CNET_Muziekfestivals</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>CNET_Muziekfestivals</Oude_Categorie>
+		<Oude_CatID>0.50.20.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>CultuurStart</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>CultuurStart</Oude_Categorie>
+		<Oude_CatID>0.60.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Jeugdboekenweek</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Jeugdboekenweek</Oude_Categorie>
+		<Oude_CatID>0.50.19.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Tinteltenen</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Tinteltenen</Oude_Categorie>
+		<Oude_CatID>0.50.17.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Week Van De Amateurkunsten (WAK)</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Week Van De Amateurkunsten (WAK)</Oude_Categorie>
+		<Oude_CatID>0.50.16.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>SuperVlieg</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>SuperVlieg</Oude_Categorie>
+		<Oude_CatID>0.50.22.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Erfgoeddag</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Erfgoeddag</Oude_Categorie>
+		<Oude_CatID>0.50.23.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Open Monumentendag</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Open Monumentendag</Oude_Categorie>
+		<Oude_CatID>0.50.24.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Gedichtendag</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Gedichtendag</Oude_Categorie>
+		<Oude_CatID>0.50.25.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Voorleesweek</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Voorleesweek</Oude_Categorie>
+		<Oude_CatID>0.50.26.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Buitenspeeldag</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Buitenspeeldag</Oude_Categorie>
+		<Oude_CatID>0.50.27.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Broodje Brussel</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Broodje Brussel</Oude_Categorie>
+		<Oude_CatID>0.50.28.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Grabbelpas</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Grabbelpas </Oude_Categorie>
+		<Oude_CatID>0.50.29.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Swap</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Swap</Oude_Categorie>
+		<Oude_CatID>0.50.30.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>De Week van de Smaak</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>De Week van de Smaak</Oude_Categorie>
+		<Oude_CatID>0.52.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Artistieke activiteiten</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Artistieke activiteiten </Oude_Categorie>
+		<Oude_CatID>0.52.1.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Culinair erfgoed, tentoonstellingen</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Culinair erfgoed, tentoonstellingen</Oude_Categorie>
+		<Oude_CatID>0.52.2.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Diversiteit in smaken</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Diversiteit in smaken</Oude_Categorie>
+		<Oude_CatID>0.52.3.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Educatieve activiteiten, lezingen, studiedagen</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Educatieve activiteiten, lezingen, studiedagen</Oude_Categorie>
+		<Oude_CatID>0.52.4.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Land van de Smaak</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Land van de Smaak</Oude_Categorie>
+		<Oude_CatID>0.52.5.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Literaire activiteiten</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Literaire activiteiten</Oude_Categorie>
+		<Oude_CatID>0.52.6.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Opendeur, rondleidingen</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Opendeur, rondleidingen</Oude_Categorie>
+		<Oude_CatID>0.52.7.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Proeven, kooklessen</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Proeven, kooklessen</Oude_Categorie>
+		<Oude_CatID>0.52.8.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Product in de kijker</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Product in de kijker</Oude_Categorie>
+		<Oude_CatID>0.52.9.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Smaak op school (activiteiten onderwijs)</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Smaak op school (activiteiten onderwijs)</Oude_Categorie>
+		<Oude_CatID>0.52.10.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Stad van de Smaak</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Stad van de Smaak</Oude_Categorie>
+		<Oude_CatID>0.52.11.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Uit eten</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Uit eten </Oude_Categorie>
+		<Oude_CatID>0.52.12.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Varia, andere activiteiten</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Varia, andere activiteiten</Oude_Categorie>
+		<Oude_CatID>0.52.13.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Architectuur uit de oudheid</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Architectuur uit de oudheid</Oude_Categorie>
+		<Oude_CatID>1.2.1.1.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Gotiek</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Gotiek </Oude_Categorie>
+		<Oude_CatID>1.2.1.2.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Renaissance</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Renaissance</Oude_Categorie>
+		<Oude_CatID>1.2.1.3.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Barok</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Barok</Oude_Categorie>
+		<Oude_CatID>1.2.1.4.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Classicisme</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Classicisme</Oude_Categorie>
+		<Oude_CatID>1.2.1.5.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Romantiek</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Romantiek</Oude_Categorie>
+		<Oude_CatID>1.2.1.6.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Realisme</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Realisme</Oude_Categorie>
+		<Oude_CatID>1.2.1.7.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Jugendstil of Art nouveau</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Jugendstil of Art nouveau</Oude_Categorie>
+		<Oude_CatID>1.2.1.8.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Moderne en Hedendaagse Architectuur</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Moderne en Hedendaagse Architectuur</Oude_Categorie>
+		<Oude_CatID>1.2.1.9.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Niet-hedendaagse architectuur</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Niet-hedendaagse architectuur</Oude_Categorie>
+		<Oude_CatID>1.2.1.10.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Schilderkunst uit de Oudheid</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Schilderkunst uit de Oudheid</Oude_Categorie>
+		<Oude_CatID>1.0.1.1.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Middeleeuwse schilderkunst</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Middeleeuwse schilderkunst</Oude_Categorie>
+		<Oude_CatID>1.0.1.2.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Renaissance</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Renaissance</Oude_Categorie>
+		<Oude_CatID>1.0.1.3.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Barok</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Barok</Oude_Categorie>
+		<Oude_CatID>1.0.1.4.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Classicisme</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Classicisme</Oude_Categorie>
+		<Oude_CatID>1.0.1.5.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Romantiek</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Romantiek</Oude_Categorie>
+		<Oude_CatID>1.0.1.6.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Realisme</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Realisme</Oude_Categorie>
+		<Oude_CatID>1.0.1.7.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Impressionisme</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Impressionisme</Oude_Categorie>
+		<Oude_CatID>1.0.1.8.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Moderne schilderkunst (voor 1945)</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Moderne schilderkunst (voor 1945)</Oude_Categorie>
+		<Oude_CatID>1.0.1.9.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Moderne en hedendaagse schilderkunst (na 1945)</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Moderne en hedendaagse schilderkunst (na 1945)</Oude_Categorie>
+		<Oude_CatID>1.0.1.10.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Niet-Westerse schilderkunst</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Niet-Westerse schilderkunst</Oude_Categorie>
+		<Oude_CatID>1.0.1.11.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Niet-hedendaagse schilderkunst</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Niet-hedendaagse schilderkunst</Oude_Categorie>
+		<Oude_CatID>1.0.1.12.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Beeldhouwkunst uit de oudheid</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Beeldhouwkunst uit de oudheid</Oude_Categorie>
+		<Oude_CatID>1.0.2.1.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Middeleeuwse beeldhouwkunst</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Middeleeuwse beeldhouwkunst</Oude_Categorie>
+		<Oude_CatID>1.0.2.2.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Renaissance</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Renaissance</Oude_Categorie>
+		<Oude_CatID>1.0.2.3.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Classicisme</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Classicisme</Oude_Categorie>
+		<Oude_CatID>1.0.2.4.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Romantiek</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Romantiek</Oude_Categorie>
+		<Oude_CatID>1.0.2.5.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Realisme</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Realisme</Oude_Categorie>
+		<Oude_CatID>1.0.2.6.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Moderne beeldhouwkunst</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Moderne beeldhouwkunst </Oude_Categorie>
+		<Oude_CatID>1.0.2.7.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Moderne en hedendaagse beeldhouwkunst (na 1945)</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Moderne en hedendaagse beeldhouwkunst (na 1945)</Oude_Categorie>
+		<Oude_CatID>1.0.2.8.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Niet-Westerse beeldhouwkunst</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Niet-Westerse beeldhouwkunst</Oude_Categorie>
+		<Oude_CatID>1.0.2.9.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Niet-hedendaagse beeldhouwkunst</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Niet-hedendaagse beeldhouwkunst</Oude_Categorie>
+		<Oude_CatID>1.0.2.10.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Primitieve fotografie</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Primitieve fotografie</Oude_Categorie>
+		<Oude_CatID>1.0.6.1.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Portretten</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Portretten</Oude_Categorie>
+		<Oude_CatID>1.0.6.2.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Modelfotografie</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Modelfotografie</Oude_Categorie>
+		<Oude_CatID>1.0.6.3.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Industrie -en reclamefotografie</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Industrie -en reclamefotografie</Oude_Categorie>
+		<Oude_CatID>1.0.6.4.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Fotojournalisme en Reportagefotografie</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Fotojournalisme en Reportagefotografie</Oude_Categorie>
+		<Oude_CatID>1.0.6.5.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Surrealisme en experimentele fotografie</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Surrealisme en experimentele fotografie</Oude_Categorie>
+		<Oude_CatID>1.0.6.7.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Landschaps -en natuurfotografie</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Landschaps -en natuurfotografie</Oude_Categorie>
+		<Oude_CatID>1.0.6.8.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Architectuurfotografie</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Architectuurfotografie</Oude_Categorie>
+		<Oude_CatID>1.0.6.9.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Gregoriaans</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Gregoriaans</Oude_Categorie>
+		<Oude_CatID>1.8.1.5.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Oude muziek</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Oude muziek</Oude_Categorie>
+		<Oude_CatID>1.8.1.1.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Barokmuziek</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Barokmuziek</Oude_Categorie>
+		<Oude_CatID>1.8.1.2.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Classicisme</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Classicisme</Oude_Categorie>
+		<Oude_CatID>1.8.1.6.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Romantische klassieke muziek</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Romantische klassieke muziek</Oude_Categorie>
+		<Oude_CatID>1.8.1.3.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Hedendaagse klassieke muziek</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Hedendaagse klassieke muziek</Oude_Categorie>
+		<Oude_CatID>1.8.1.4.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Improvisatietheater</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Improvisatietheater</Oude_Categorie>
+		<Oude_CatID>1.3.3.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Multimediatheater</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Multimediatheater</Oude_Categorie>
+		<Oude_CatID>1.3.7.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Cabaret en Variété</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Cabaret en Variété</Oude_Categorie>
+		<Oude_CatID>1.3.8.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Revue en Show</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Revue en Show</Oude_Categorie>
+		<Oude_CatID>1.3.9.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Europese geschiedenis</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Europese geschiedenis</Oude_Categorie>
+		<Oude_CatID>1.11.1.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Prehistorie</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Prehistorie</Oude_Categorie>
+		<Oude_CatID>1.11.1.1.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Klassieke oudheid</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Klassieke oudheid</Oude_Categorie>
+		<Oude_CatID>1.11.1.2.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Middeleeuwen</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Middeleeuwen </Oude_Categorie>
+		<Oude_CatID>1.11.1.3.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Nieuwe tijden (moderne tijden)</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Nieuwe tijden (moderne tijden)</Oude_Categorie>
+		<Oude_CatID>1.11.1.4.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Nieuwste tijden (hedendaagse tijden)</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Nieuwste tijden (hedendaagse tijden)</Oude_Categorie>
+		<Oude_CatID>1.11.1.5.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Hedendaagse tijden</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Hedendaagse tijden </Oude_Categorie>
+		<Oude_CatID>1.11.1.6.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Geschiedenis van Zuiden Midden-Amerika</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Geschiedenis van Zuiden Midden-Amerika</Oude_Categorie>
+		<Oude_CatID>1.11.2.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Geschiedenis van het Nabije Oosten</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Geschiedenis van het Nabije Oosten</Oude_Categorie>
+		<Oude_CatID>1.11.3.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Aziatische geschiedenis</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Aziatische geschiedenis</Oude_Categorie>
+		<Oude_CatID>1.11.4.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Afrikaanse geschiedenis</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Afrikaanse geschiedenis</Oude_Categorie>
+		<Oude_CatID>1.11.5.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Noord-Amerikaanse geschiedenis</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Noord-Amerikaanse geschiedenis</Oude_Categorie>
+		<Oude_CatID>1.11.6.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Geschiedenis van Oceanë</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Geschiedenis van Oceanë</Oude_Categorie>
+		<Oude_CatID>1.11.7.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Consumentenvorming</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Consumentenvorming</Oude_Categorie>
+		<Oude_CatID>1.39.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Criminaliteit</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Criminaliteit</Oude_Categorie>
+		<Oude_CatID>1.33.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Gezondheid en Zorg</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Gezondheid en Zorg</Oude_Categorie>
+		<Oude_CatID>1.36.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Landbouw</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Landbouw</Oude_Categorie>
+		<Oude_CatID>1.35.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Maatschappij</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Maatschappij</Oude_Categorie>
+		<Oude_CatID>1.27.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Milieu en natuur</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Milieu en natuur</Oude_Categorie>
+		<Oude_CatID>1.34.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Oorlog en Vrede</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Oorlog en Vrede</Oude_Categorie>
+		<Oude_CatID>1.12.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Aardrijkskunde</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Aardrijkskunde</Oude_Categorie>
+		<Oude_CatID>1.25.1.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Antropologie</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Antropologie</Oude_Categorie>
+		<Oude_CatID>1.25.2.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Archeologie</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Archeologie</Oude_Categorie>
+		<Oude_CatID>1.14.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Industri‰le Archeologie</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Industri‰le Archeologie</Oude_Categorie>
+		<Oude_CatID>1.15.3.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Astronomie</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Astronomie</Oude_Categorie>
+		<Oude_CatID>1.25.3.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Biologie</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Biologie</Oude_Categorie>
+		<Oude_CatID>1.25.4.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Biotechnologie</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Biotechnologie</Oude_Categorie>
+		<Oude_CatID>1.25.8.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Economie</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Economie</Oude_Categorie>
+		<Oude_CatID>1.28.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Filosofie</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Filosofie</Oude_Categorie>
+		<Oude_CatID>1.54.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Geneeskunde</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Geneeskunde</Oude_Categorie>
+		<Oude_CatID>1.25.5.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Informatica</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Informatica</Oude_Categorie>
+		<Oude_CatID>1.24.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Kunstwetenschappen</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Kunstwetenschappen</Oude_Categorie>
+		<Oude_CatID>1.25.14.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Letterkunde</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Letterkunde</Oude_Categorie>
+		<Oude_CatID>1.25.16.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Natuurkunde</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Natuurkunde</Oude_Categorie>
+		<Oude_CatID>1.25.6.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Politiek</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Politiek</Oude_Categorie>
+		<Oude_CatID>1.29.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Psychologie en Psychiatrie</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Psychologie en Psychiatrie</Oude_Categorie>
+		<Oude_CatID>1.25.10.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Recht</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Recht</Oude_Categorie>
+		<Oude_CatID>1.32.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Scheikunde</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Scheikunde</Oude_Categorie>
+		<Oude_CatID>1.25.7.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Sociologie</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Sociologie</Oude_Categorie>
+		<Oude_CatID>1.25.11.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Taalkunde</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Taalkunde</Oude_Categorie>
+		<Oude_CatID>1.25.15.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Dialectologie</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Dialectologie</Oude_Categorie>
+		<Oude_CatID>1.25.15.1.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Theologie</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Theologie</Oude_Categorie>
+		<Oude_CatID>1.25.12.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Weerkunde en Klimatologie</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Weerkunde en Klimatologie</Oude_Categorie>
+		<Oude_CatID>1.25.9.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Wiskunde</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Wiskunde</Oude_Categorie>
+		<Oude_CatID>1.25.13.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>EETiKET, kindvriendelijk restaurant</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>EETiKET, kindvriendelijk restaurant</Oude_Categorie>
+		<Oude_CatID>3.22.0.0.0</Oude_CatID>
+	</Row>
+	<Row>
+		<Nieuwe_Categorie>Aanvaarden van SABAM-cultuurchŠques</Nieuwe_Categorie>
+		<Nieuwe_CatID>keyword</Nieuwe_CatID>
+		<Oude_Categorie>Aanvaarden van SABAM-cultuurchŠques</Oude_Categorie>
+		<Oude_CatID>3.21.0.0.0</Oude_CatID>
+	</Row>
+</Import>
+<!-- deleted 25/02/2010
+	<Row>
+		<Nieuwe_Categorie>Design</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.2.2.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Architectuur en Vormgeving</Oude_Categorie>
+		<Oude_CatID>1.2.0.0.0</Oude_CatID>
+	</Row> 
+deleted 23/03/2010
+	<Row>
+		<Nieuwe_Categorie>Eten en drinken</Nieuwe_Categorie>
+		<Nieuwe_CatID>1.50.0.0.0</Nieuwe_CatID>
+		<Oude_Categorie>Uitgaan</Oude_Categorie>
+		<Oude_CatID>0.49.0.0.0</Oude_CatID>
+	</Row> -->

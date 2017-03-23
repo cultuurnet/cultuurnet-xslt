@@ -1,4 +1,6 @@
 These xslts convert xml 3.3F to 3.2F 
+and xml 3.3F to 3.1F 
 they should be used in the following order :
 Map_3_3_F_to_3_2_F_fix_ns.xslt
-MapToCDB_XSD_3_2_03.xslt ( or latest version )
+MapToCDB_XSD_3_2_03.xslt (or latest version)
+

@@ -1,0 +1,1 @@
+Convert CDB 3.1 XML detailed version to the list version

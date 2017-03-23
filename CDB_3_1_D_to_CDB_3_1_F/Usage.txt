@@ -1,0 +1,5 @@
+Used to transform CDB XML 3.1 Draft to 3.1 Final
+Run
+Map_3_1_D_to_3_1_F_fix_ns.xslt
+Then
+Map_CdbXSD_3_1_Draft_to_Final_01.xslt

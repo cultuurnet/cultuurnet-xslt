@@ -1,0 +1,3 @@
+Convert CDB 3.2 XML detailed version to the list version
+
+Seehttps://jira.uitdatabank.be/browse/MDH-88

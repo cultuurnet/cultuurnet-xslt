@@ -1,0 +1,2 @@
+Use this on the Zap exports from the new IIS32 to remove the externalds of organisations and locations that end in :null
+(used on all exports ti UDB to be safe)

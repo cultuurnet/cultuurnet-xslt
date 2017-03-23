@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2006 U (http://www.altova.com) by Julian Cox (Cultuurnet Vlaanderen) -->
+<Import>
+	<Row>
+		<CNetID>8.23.0.0.0</CNetID>
+		<Niveau_1>Ambassades en Consulaten</Niveau_1>
+		<Synoniemen>Archief, documentatiecentrum, bewaarbibliotheek.</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>8.38.0.0.0</CNetID>
+		<Niveau_1>Andere types van organisatie</Niveau_1>
+		<Synoniemen>Artistiek gezelschap, groep, uitvoerder</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>8.2.0.0.0</CNetID>
+		<Niveau_1>Archieven, Documentatiecentra en Bewaarbibliotheken</Niveau_1>
+		<Synoniemen>Vakorganisatie, vakbeweging</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>8.0.0.0.0</CNetID>
+		<Niveau_1>Artistieke gezelschappen / uitvoerder</Niveau_1>
+		<Synoniemen>Bibliotheek</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>8.0.1.0.0</CNetID>
+		<Niveau_1>Band</Niveau_1>
+		<Synoniemen>Gespecialiseerde bibliotheek</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>8.0.2.0.0</CNetID>
+		<Niveau_1>instrumentaal ensemble</Niveau_1>
+		<Synoniemen>Wetenschappelijke bibliotheek</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>8.0.3.0.0</CNetID>
+		<Niveau_1>Koor</Niveau_1>
+		<Synoniemen>Schoolbibliotheek</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>8.0.4.0.0</CNetID>
+		<Niveau_1>orkest</Niveau_1>
+		<Synoniemen>Boekingskantoor</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>8.0.5.0.0</CNetID>
+		<Niveau_1>Vocaal ensemble</Niveau_1>
+		<Synoniemen>Casino</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>8.0.6.0.0</CNetID>
+		<Niveau_1>vocaal-instrumentaal ensemble</Niveau_1>
+		<Synoniemen>Club, café, Muziekcafé</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>8.37.0.0.0</CNetID>
+		<Niveau_1>Beweging</Niveau_1>
+		<Synoniemen>Cultureel centrum, Gemeenschapscentrum</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>8.1.0.0.0</CNetID>
+		<Niveau_1>Bibliotheken</Niveau_1>
+		<Synoniemen>Kunstgalerij, Galerijen, galerij</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>8.1.1.0.0</CNetID>
+		<Niveau_1>Openbare bibliotheken</Niveau_1>
+		<Synoniemen>Kunstencentrum</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>8.1.2.0.0</CNetID>
+		<Niveau_1>Gespecialiseerde bibliotheken</Niveau_1>
+		<Synoniemen>Niet-erkend kunstencentrum</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>8.1.3.0.0</CNetID>
+		<Niveau_1>Wetenschappelijke bibliotheken</Niveau_1>
+		<Synoniemen>Managementbureau, agentschap</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>8.1.4.0.0</CNetID>
+		<Niveau_1>Schoolbibliotheken</Niveau_1>
+		<Synoniemen>Mediamaatschappij</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>8.12.0.0.0</CNetID>
+		<Niveau_1>Boekingskantoren</Niveau_1>
+		<Synoniemen>Museum</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>8.42.0.0.0</CNetID>
+		<Niveau_1>Boerderij (landbouwbedrijf)</Niveau_1>
+		<Synoniemen>Museum</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>8.7.0.0.0</CNetID>
+		<Niveau_1>Casino�s</Niveau_1>
+		<Synoniemen>DKO</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>8.8.0.0.0</CNetID>
+		<Niveau_1>Clubs en Café�s</Niveau_1>
+		<Synoniemen>Kleuterschool</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>8.6.0.0.0</CNetID>
+		<Niveau_1>Culturele- en Gemeenschapscentra</Niveau_1>
+		<Synoniemen>Humaniora</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>8.27.0.0.0</CNetID>
+		<Niveau_1>Diamant en Juweelnijverheid</Niveau_1>
+		<Synoniemen>Hogescholen, hogeschool</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>8.32.0.0.0</CNetID>
+		<Niveau_1>Discotheken</Niveau_1>
+		<Synoniemen>Univ</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>8.26.0.0.0</CNetID>
+		<Niveau_1>Grafische industrie</Niveau_1>
+		<Synoniemen>Avondschool, avondonderwijs, volwassenenonderwijs</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>8.43.0.0.0</CNetID>
+		<Niveau_1>Grootwarenhuis</Niveau_1>
+		<Synoniemen>Reservatiepunt, verkooppunt</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>8.28.0.0.0</CNetID>
+		<Niveau_1>Havens</Niveau_1>
+		<Synoniemen>Uitgeverij, boekenuitgeverij, literaire uitgeverij, muziekuitgeverij, platenmaatschappij, muziekindustrie</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>8.29.0.0.0</CNetID>
+		<Niveau_1>Hotels</Niveau_1>
+		<Synoniemen>Organisatie</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>8.30.0.0.0</CNetID>
+		<Niveau_1>Jeugdherbergen</Niveau_1>
+		<Synoniemen>Bioscoop, bioscooptheater, cinema</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>8.21.0.0.0</CNetID>
+		<Niveau_1>Jeugdorganisaties</Niveau_1>
+		<Synoniemen>Filmmuseum</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>8.21.1.0.0</CNetID>
+		<Niveau_1>Jeugdcentra</Niveau_1>
+		<Synoniemen>Filmzaal</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>8.21.2.0.0</CNetID>
+		<Niveau_1>Jongereninformatiepunten (JIP�s)</Niveau_1>
+		<Synoniemen>shop, handel, museumshop,�</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>8.21.3.0.0</CNetID>
+		<Niveau_1>Jeugdateliers</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.21.4.0.0</CNetID>
+		<Niveau_1>Jeugdhuizen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.21.5.0.0</CNetID>
+		<Niveau_1>Jeugddiensten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.21.6.0.0</CNetID>
+		<Niveau_1>Jeugdraden</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.21.7.0.0</CNetID>
+		<Niveau_1>Zuilgebonden Jeugdverenigingen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.21.8.0.0</CNetID>
+		<Niveau_1>Andere Jeugdverenigingen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.4.0.0.0</CNetID>
+		<Niveau_1>Kunstgalerijen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.5.0.0.0</CNetID>
+		<Niveau_1>Kunstencentra</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.5.1.0.0</CNetID>
+		<Niveau_1>Erkende kunstencentra</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.5.2.0.0</CNetID>
+		<Niveau_1>Niet-erkende kunstencentra</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.15.0.0.0</CNetID>
+		<Niveau_1>Lokatie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.16.0.0.0</CNetID>
+		<Niveau_1>Lokator</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.13.0.0.0</CNetID>
+		<Niveau_1>Managementbureau�s</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.39.0.0.0</CNetID>
+		<Niveau_1>Materialen en benodigdheden</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.19.0.0.0</CNetID>
+		<Niveau_1>Mediamaatschappijen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.3.0.0.0</CNetID>
+		<Niveau_1>Musea</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.3.1.0.0</CNetID>
+		<Niveau_1>Erkende musea</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.3.2.0.0</CNetID>
+		<Niveau_1>Niet-erkende musea</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.10.0.0.0</CNetID>
+		<Niveau_1>Onderwijsinstellingen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.10.1.0.0</CNetID>
+		<Niveau_1>Deeltijds Kunstonderwijs</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.10.2.0.0</CNetID>
+		<Niveau_1>Kleuter �en Lageronderwijs</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.10.3.0.0</CNetID>
+		<Niveau_1>Secundair Onderwijs</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.10.4.0.0</CNetID>
+		<Niveau_1>Hoger Onderwijs</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.10.5.0.0</CNetID>
+		<Niveau_1>Universitair Onderwijs</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.10.6.0.0</CNetID>
+		<Niveau_1>Volwassenenonderwijs (formeel)</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.11.0.0.0</CNetID>
+		<Niveau_1>Organisatoren van aanbod</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.22.0.0.0</CNetID>
+		<Niveau_1>Overheidsinstellingen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.22.1.0.0</CNetID>
+		<Niveau_1>Vlaams</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.22.2.0.0</CNetID>
+		<Niveau_1>Provinciaal</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.22.3.0.0</CNetID>
+		<Niveau_1>Lokaal</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.25.0.0.0</CNetID>
+		<Niveau_1>Pers</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.24.0.0.0</CNetID>
+		<Niveau_1>Politieke partijen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.17.0.0.0</CNetID>
+		<Niveau_1>Producent</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.14.0.0.0</CNetID>
+		<Niveau_1>Reservatie- en Verkooppunten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.44.0.0.0</CNetID>
+		<Niveau_1>Restaurants</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.20.0.0.0</CNetID>
+		<Niveau_1>Sociaal-Culturele Volwassenenorganisaties</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.20.1.0.0</CNetID>
+		<Niveau_1>Verenigingen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.20.2.0.0</CNetID>
+		<Niveau_1>Bewegingen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.20.3.0.0</CNetID>
+		<Niveau_1>Vormingsinstellingen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.20.3.1.0</CNetID>
+		<Niveau_1>Gespecialiseerde vormingsinstellingen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.20.3.2.0</CNetID>
+		<Niveau_1>Volkshogescholen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.20.3.3.0</CNetID>
+		<Niveau_1>Andere</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.20.4.0.0</CNetID>
+		<Niveau_1>Andere</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.34.0.0.0</CNetID>
+		<Niveau_1>Steunpunten en Koepelorganisaties</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.33.0.0.0</CNetID>
+		<Niveau_1>Thema- en Pretparken</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.18.0.0.0</CNetID>
+		<Niveau_1>Uitgeverijen en platenmaatschappijen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.31.0.0.0</CNetID>
+		<Niveau_1>Vakantie �en Kampeercentra</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.35.0.0.0</CNetID>
+		<Niveau_1>Vereniging</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.9.0.0.0</CNetID>
+		<Niveau_1>Vertoonplaatsen Film</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.9.1.0.0</CNetID>
+		<Niveau_1>Bioscopen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.9.2.0.0</CNetID>
+		<Niveau_1>Filmmusea</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.9.3.0.0</CNetID>
+		<Niveau_1>Filmzalen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.45.0.0.0</CNetID>
+		<Niveau_1>Voedingsbedrijf</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.36.0.0.0</CNetID>
+		<Niveau_1>Vormingsinstelling</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.40.0.0.0</CNetID>
+		<Niveau_1>Winkel </Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.41.0.0.0</CNetID>
+		<Niveau_1>Type organisatie onbepaald</Niveau_1>
+	</Row>
+</Import>

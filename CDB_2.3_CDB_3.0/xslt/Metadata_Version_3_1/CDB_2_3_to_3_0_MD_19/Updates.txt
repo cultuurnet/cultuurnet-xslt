@@ -1,0 +1,46 @@
+01 -> 02 : Make sure that a person who is an organisator is treated correctly.
+02 -> 03 : Make sure that a person who is an organisator is treated correctly: contact info.
+03 -> 04 : Add hyper link to the Vleig symbol in media.
+04 -> 05 : Make sure that country is always filled in. iso_3166-1_list_en.xml updated.
+04 -> 05 : Make sure that the email address is correct. domain and username in 2.3 must not contain @
+05 -> 06 : email addresses must not contain accented characters.
+05 -> 06 : only 1 longdescription allowed.
+06 -> 07 : validate email addresses using javascript.
+07 -> 08 : Add Groot-Brittannie in the country list.
+08 -> 09 : Add the koepelid and productieid that have come from the new BE XML.
+	   If the zip code of the location is 0000 then remove the event.
+09 -> 10 : Make sure the fle just contains metadata if there are no events and deletes.
+10 -> 11 : If a permanent event has no week full schema leave the tag permanent empty.
+11 -> MD_01 : Add the event metadata (createby, creationdate, etc)
+MD_01 ->02 : Make sure charactrs such as é are copied from the .txt files correctly.
+MD_02 ->03 : add production and koepelid.
+MD_03 ->04 : Add 2 new categoroes and line up (mostly) with version 15.
+	   Update metadata with <xsl:attribute name="url"><xsl:value-of select="'http://www.cultuurdatabank.com/XMLSchema/CdbXSD/3.0/FINAL/categories/1.12/categorisation.xml'"/></xsl:attribute>
+MD_04 -> 05 : Use the correct XSD : 3.1 Draft and always use external id in actor, event and production
+MD_05 -> 06 : Add new categories
+	   Don't add productions 
+MD_06 -> 07 : Get long descriptions from http://www.cultuurweb.be/CNETPortal/media/
+              Seperate xslt for command lone no longer needed.
+MD_07 -> 08 : Improve Calendar summary.
+	      Add reservation to mail and phone in contactinfo.
+	      prefix the hlink with http://media.cultuurnet.be/media/
+MD_08 -> 09 : Remove all references to iis.ext.files
+MD_09 -> 10 : Add facilities to actors.
+	      Set private to true for some combibnations of categories.
+	      Change availableto to the last daye if the event for non permanant events.
+              Add more checks for dummy actors.
+	      Make sure the copyrght in actors is OK.
+MD_10 -> 11 : No events tags when there are no events.
+MD_11 -> 12 : Make sure there is always data in contact info. 
+MD_12 -> 13 : Add datelastupdated to actors.
+MD_13 -> 14 : Change available to calculation.
+MD_14 -> 15 : check in http://212.117.81.133/igo_dyn/igomedia and http://media.cultuurnet.be/media/ for media.
+MD_15 -> 16 : Adjust calendar summary to avoid "open ma tot zo open"
+	      Adjust calendar summary so that the year is included in variable days_open.
+MD_16 -> 17 : Don't put the events in a variable.
+	      Small fix to the summary (search on <xsl:variable name="all_group_times"> )
+MD_17 -> 18 : remove spaces from URL.
+MD_18 -> 19 : check that a performer is not an organiser.
+
+
+

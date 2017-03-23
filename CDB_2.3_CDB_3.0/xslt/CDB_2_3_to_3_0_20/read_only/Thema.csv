@@ -1,0 +1,215 @@
+CNetID;Niveau_1;Niveau_2;Niveau_3
+1.2.0.0.0;Architectuur en Vormgeving;;
+1.2.1.0.0;Architectuur;;
+1.2.1.1.0;Architectuur uit de oudheid;;
+1.2.1.2.0;Gotiek ;;
+1.2.1.3.0;Renaissance;;
+1.2.1.4.0;Barok;;
+1.2.1.5.0;Classicisme;;
+1.2.1.6.0;Romantiek;;
+1.2.1.7.0;Realisme;;
+1.2.1.8.0;Jugendstil of Art nouveau;;
+1.2.1.9.0;Moderne en Hedendaagse Architectuur;;
+1.2.1.10.0;Niet-hedendaagse architectuur;;
+1.2.2.0.0;Design;;
+1.49.0.0.0;Mode;;
+1.1.0.0.0;Audiovisuele kunsten ;;
+1.0.0.0.0;Beeldende kunsten
+1.0.1.0.0;Schilderkunst
+1.0.1.1.0;Schilderkunst uit de Oudheid
+1.0.1.2.0;Middeleeuwse schilderkunst
+1.0.1.3.0;Renaissance
+1.0.1.4.0;Barok
+1.0.1.5.0;Classicisme
+1.0.1.6.0;Romantiek
+1.0.1.7.0;Realisme
+1.0.1.8.0;Impressionisme
+1.0.1.9.0;Moderne schilderkunst (voor 1945)
+1.0.1.10.0;Moderne en hedendaagse schilderkunst (na 1945)
+1.0.1.11.0;Niet-Westerse schilderkunst
+1.0.1.12.0;Niet-hedendaagse schilderkunst
+1.0.2.0.0;Beeldhouwkunst
+1.0.2.1.0;Beeldhouwkunst uit de oudheid
+1.0.2.2.0;Middeleeuwse beeldhouwkunst
+1.0.2.3.0;Renaissance
+1.0.2.4.0;Classicisme
+1.0.2.5.0;Romantiek
+1.0.2.6.0;Realisme
+1.0.2.7.0;Moderne beeldhouwkunst 
+1.0.2.8.0;Moderne en hedendaagse beeldhouwkunst (na 1945)
+1.0.2.9.0;Niet-Westerse beeldhouwkunst
+1.0.2.10.0;Niet-hedendaagse beeldhouwkunst
+1.0.3.0.0;Installatiekunst
+1.0.4.0.0;Grafische kunst
+1.0.5.0.0;Kunstambachten en decoratieve kunst
+1.0.6.0.0;Fotografie
+1.0.6.1.0;Primitieve fotografie
+1.0.6.2.0;Portretten
+1.0.6.3.0;Modelfotografie
+1.0.6.4.0;Industrie –en reclamefotografie
+1.0.6.5.0;Fotojournalisme en Reportagefotografie
+1.0.6.7.0;Surrealisme en experimentele fotografie
+1.0.6.8.0;Landschaps –en natuurfotografie
+1.0.6.9.0;Architectuurfotografie
+1.0.7.0.0;Moderne en hedendaagse beeldende kunst (na 1945)
+1.0.8.0.0;Niet-hedendaagse beeldende kunst (voor 1945)
+1.9.0.0.0;Dans
+1.9.1.0.0;Klassieke dans en Ballet
+1.9.2.0.0;Hedendaagse dans
+1.9.3.0.0;Volksdans
+1.9.4.0.0;Werelddans
+1.9.5.0.0;Stijl- en Salondansen
+1.7.0.0.0;Film
+1.7.1.0.0;Reportages en Documentaires
+1.7.2.0.0;Actie en Avontuur
+1.7.3.0.0;Komedie
+1.7.4.0.0;Romantiek en melodrama
+1.7.5.0.0;Thriller en Misdaad
+1.7.6.0.0;Horror
+1.7.7.0.0;Science fiction 
+1.7.8.0.0;Historische Films
+1.7.9.0.0;Sociaal geëngageerde films
+1.7.10.0.0;Filmmusicals
+1.7.11.0.0;Muziekfilms, dansfilms, en kunstfilms
+1.7.12.0.0;Tekenfilms 
+1.10.0.0.0;Literatuur
+1.10.1.0.0;Roman
+1.10.2.0.0;Toneelteksten
+1.10.3.0.0;Kortverhaal
+1.10.4.0.0;Essay
+1.10.5.0.0;Poëzie
+1.10.6.0.0;Cursief
+1.10.7.0.0;Column
+1.10.8.0.0;Beeldverhaal
+1.10.9.0.0;Wetenschappelijke boeken
+1.10.10.0.0;Informatieve boeken
+1.8.0.0.0;Muziek
+1.8.1.0.0;Klassieke muziek
+1.8.1.5.0;Gregoriaans
+1.8.1.1.0;Oude muziek
+1.8.1.2.0;Barokmuziek
+1.8.1.6.0;Classicisme
+1.8.1.3.0;Romantische klassieke muziek
+1.8.1.4.0;Hedendaagse klassieke muziek
+1.8.2.0.0;Jazz en blues
+1.8.3.0.0;Moderne muziek
+1.8.3.1.0;Pop en rock
+1.8.3.2.0;Rap en hip-hop
+1.8.3.3.0;Dance
+1.8.3.4.0;Chanson en kleinkunst
+1.8.3.5.0;Amusementsmuziek
+1.8.4.0.0;Wereldmuziek
+1.3.0.0.0;Theater
+1.3.1.0.0;Teksttheater
+1.3.2.0.0;Muziektheater
+1.3.3.0.0;Improvisatietheater
+1.3.4.0.0;Mimetheater
+1.3.5.0.0;Figuren –en Objectentheater
+1.3.6.0.0;Verteltheater en Voordracht
+1.3.7.0.0;Multimediatheater
+1.3.8.0.0;Cabaret en Variété
+1.3.9.0.0;Revue en Show
+1.4.0.0.0;Musical 
+1.5.0.0.0;Opera
+1.40.0.0.0;Cultureel erfgoed
+1.11.0.0.0;Geschiedenis
+1.11.1.0.0;Europese geschiedenis
+1.11.1.1.0;Prehistorie
+1.11.1.2.0;Klassieke oudheid
+1.11.1.3.0;Middeleeuwen 
+1.11.1.4.0;Nieuwe tijden (moderne tijden)
+1.11.1.5.0;Nieuwste tijden (hedendaagse tijden)
+1.11.1.6.0;Hedendaagse tijden 
+1.11.2.0.0;Geschiedenis van Zuiden Midden-Amerika
+1.11.3.0.0;Geschiedenis van het Nabije Oosten
+1.11.4.0.0;Aziatische geschiedenis
+1.11.5.0.0;Afrikaanse geschiedenis
+1.11.6.0.0;Noord-Amerikaanse geschiedenis
+1.11.7.0.0;Geschiedenis van Oceanië
+1.52.0.0.0;Mens en maatschappij
+1.39.0.0.0;Consumentenvorming
+1.33.0.0.0;Criminaliteit
+1.36.0.0.0;Gezondheid en Zorg
+1.35.0.0.0;Landbouw
+1.27.0.0.0;Maatschappij
+1.34.0.0.0;Milieu en natuur
+1.12.0.0.0;Oorlog en Vrede
+1.53.0.0.0;Vorming en onderwijs
+1.42.0.0.0;Creativiteit en expressie
+1.43.0.0.0;Interculturele vorming
+1.41.0.0.0;Kunsteducatie
+1.37.0.0.0;Opvoeding en Onderwijs
+1.45.0.0.0;Persoonlijkheidsvorming 
+1.46.0.0.0;Relationele vorming
+1.47.0.0.0;Sociale en communicatieve vaardigheden
+1.38.0.0.0;Werk en Loopbaan
+1.44.0.0.0;Zingeving en Religie
+1.22.0.0.0;Over de media
+1.22.1.0.0;TV
+1.22.2.0.0;Radio
+1.22.3.0.0;Krant
+1.22.4.0.0;Tijdschriften
+1.22.5.0.0;Internet
+1.25.0.0.0;Wetenschappen
+1.25.1.0.0;Aardrijkskunde
+1.25.2.0.0;Antropologie
+1.14.0.0.0;Archeologie
+1.15.3.0.0;Industriële Archeologie
+1.25.3.0.0;Astronomie
+1.25.4.0.0;Biologie
+1.25.8.0.0;Biotechnologie
+1.28.0.0.0;Economie
+1.54.0.0.0;Filosofie
+1.25.5.0.0;Geneeskunde
+1.24.0.0.0;Informatica
+1.25.14.0.0;Kunstwetenschappen
+1.25.16.0.0;Letterkunde
+1.25.6.0.0;Natuurkunde
+1.29.0.0.0;Politiek
+1.25.10.0.0;Psychologie en Psychiatrie
+1.32.0.0.0;Recht
+1.25.7.0.0;Scheikunde
+1.25.11.0.0;Sociologie
+1.25.15.0.0;Taalkunde
+1.25.15.1.0;Dialectologie
+1.25.12.0.0;Theologie
+1.25.9.0.0;Weerkunde en Klimatologie
+1.25.13.0.0;Wiskunde
+1.57.0.0.0;Recreatie
+1.51.0.0.0;Sport
+1.51.1.0.0;Atletiek en loopsporten
+1.51.2.0.0;Balsporten
+1.51.3.0.0;Watersporten
+1.51.4.0.0;Wielersporten
+1.51.5.0.0;Racketsporten
+1.51.6.0.0;Gevechtssporten
+1.51.7.0.0;Wintersporten
+1.51.8.0.0;Autoen motorsporten
+1.51.9.0.0;Paardensporten
+1.51.10.0.0;Volkssporten
+1.51.11.0.0;Extreme sporten
+1.51.12.0.0;Andere
+1.55.0.0.0;Uitgaan
+1.56.0.0.0;Varia
+1.56.1.0.0;Algemeen (cultuur, recreatie, sport, maatschappij,…)
+1.56.2.0.0;Andere thema's
+1.17.0.0.0;Antiek en Brocante
+1.6.0.0.0;Circus
+1.26.0.0.0;Cultuurbeleid
+1.30.0.0.0;Dynastie
+1.50.0.0.0;Gastronomie
+1.50.1.0.0;Streekgastronomie
+1.56.3.0.0;Goochelen
+1.19.0.0.0;Muziekinstrumenten
+1.48.0.0.0;Populaire cultuur en hobby
+1.31.0.0.0;Talen
+1.21.0.0.0;Techniek
+1.20.0.0.0;Transportmiddelen
+1.59.0.0.0;Eetcultuur
+1.15.0.0.0;Volkscultuur
+1.15.1.0.0;Heemkunde en lokale geschiedenis
+1.15.2.0.0;Familiekunde en genealogie
+1.15.4.0.0;Volkskunde
+1.15.5.0.0;volkscultuur beoefening en folklore
+1.15.6.0.0;Andere
+1.58.0.0.0;Thema onbepaald

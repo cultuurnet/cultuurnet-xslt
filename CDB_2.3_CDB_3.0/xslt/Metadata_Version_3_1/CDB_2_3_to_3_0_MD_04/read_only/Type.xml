@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2006 U (http://www.altova.com) by Julian Cox (Cultuurnet Vlaanderen) -->
+<Import>
+	<!--Type event -->
+	<Row>
+		<CNetID>0.43.0.0.0</CNetID>
+		<Niveau_1>Attracties</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.41.0.0.0</CNetID>
+		<Niveau_1>Thema- en Pretparken</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.32.0.0.0</CNetID>
+		<Niveau_1>Vliegmeetings en Vlootparades </Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.1.0.0.0</CNetID>
+		<Niveau_1>Collecties</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.3.0.0.0</CNetID>
+		<Niveau_1>Educatieve Activiteiten </Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.3.1.0.0</CNetID>
+		<Niveau_1>Cursussen en Workshops</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.3.2.0.0</CNetID>
+		<Niveau_1>Lezingen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.3.3.0.0</CNetID>
+		<Niveau_1>Congressen, Debatten, Symposia, en Studiedagen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.3.4.0.0</CNetID>
+		<Niveau_1>Andere</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.44.0.0.0</CNetID>
+		<Niveau_1>Evenementen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.6.0.0.0</CNetID>
+		<Niveau_1>Beurzen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.36.0.0.0</CNetID>
+		<Niveau_1>Braderieën  </Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.45.0.0.0</CNetID>
+		<Niveau_1>Happening</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.31.0.0.0</CNetID>
+		<Niveau_1>Herdenkingen en Wijdingen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.28.0.0.0</CNetID>
+		<Niveau_1>Kermissen en Foren</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.30.0.0.0</CNetID>
+		<Niveau_1>Klank �en Lichtspelen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.37.0.0.0</CNetID>
+		<Niveau_1>Markten </Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.9.0.0.0</CNetID>
+		<Niveau_1>Stoeten en Processies</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.29.0.0.0</CNetID>
+		<Niveau_1>Vuurwerken</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.19.0.0.0</CNetID>
+		<Niveau_1>Wedstrijden en Concours </Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.46.0.0.0</CNetID>
+		<Niveau_1>Excursies</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.7.0.0.0</CNetID>
+		<Niveau_1>Excursies, Groepsbezoeken, en Reizen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.35.0.0.0</CNetID>
+		<Niveau_1>Rondritten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.33.0.0.0</CNetID>
+		<Niveau_1>Rondvaarten </Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.34.0.0.0</CNetID>
+		<Niveau_1>Rondvluchten </Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.17.0.0.0</CNetID>
+		<Niveau_1>Routes (wandelingen, fietstochten)</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.8.0.0.0</CNetID>
+		<Niveau_1>Feesten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.5.0.0.0</CNetID>
+		<Niveau_1>Festivals</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.47.0.0.0</CNetID>
+		<Niveau_1>In de Media</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.22.0.0.0</CNetID>
+		<Niveau_1>Internet</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.23.0.0.0</CNetID>
+		<Niveau_1>Kranten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.21.0.0.0</CNetID>
+		<Niveau_1>Radio-uitzendingen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.20.0.0.0</CNetID>
+		<Niveau_1>Televisie-uitzendingen </Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.24.0.0.0</CNetID>
+		<Niveau_1>Tijdschriften</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.48.0.0.0</CNetID>
+		<Niveau_1>Monumenten en landschappen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.14.0.0.0</CNetID>
+		<Niveau_1>Monumenten en bouwwerken</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.14.1.0.0</CNetID>
+		<Niveau_1>Religieuze bouwwerken</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.14.2.0.0</CNetID>
+		<Niveau_1>Wereldlijke bouwwerken</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.14.3.0.0</CNetID>
+		<Niveau_1>Standbeelden en gedenktekens</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.14.4.0.0</CNetID>
+		<Niveau_1>Kasteel</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.14.5.0.0</CNetID>
+		<Niveau_1>Fort</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.14.6.0.0</CNetID>
+		<Niveau_1>Kapel</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.14.7.0.0</CNetID>
+		<Niveau_1>Kerk</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.14.8.0.0</CNetID>
+		<Niveau_1>Molen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.14.9.0.0</CNetID>
+		<Niveau_1>Historisch huis</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.14.10.0.0</CNetID>
+		<Niveau_1>Hoeve</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.14.11.0.0</CNetID>
+		<Niveau_1>Industriële site</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.14.12.0.0</CNetID>
+		<Niveau_1>Prehistorische site</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.14.13.0.0</CNetID>
+		<Niveau_1>Archeologische site</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.15.0.0.0</CNetID>
+		<Niveau_1>Landschappen en natuurreservaten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.16.0.0.0</CNetID>
+		<Niveau_1>Tuinen en Parken</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.0.0.0.0</CNetID>
+		<Niveau_1>Tentoonstellingen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.49.0.0.0</CNetID>
+		<Niveau_1>Uitgaan</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.26.0.0.0</CNetID>
+		<Niveau_1>Bals, Fuiven, en Nightlife</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.27.0.0.0</CNetID>
+		<Niveau_1>Kroegentochten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.39.0.0.0</CNetID>
+		<Niveau_1>Uitgaan, Eten, en Drinken</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.0.0.0</CNetID>
+		<Niveau_1>Varia</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.15.0.0</CNetID>
+		<Niveau_1>Administratieve of bestuurlijke activiteiten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.15.1.0</CNetID>
+		<Niveau_1>Buurtraad</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.15.2.0</CNetID>
+		<Niveau_1>Communicatieraad</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.15.3.0</CNetID>
+		<Niveau_1>Fietsregistratie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.15.4.0</CNetID>
+		<Niveau_1>Gemeenteraad</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.15.5.0</CNetID>
+		<Niveau_1>Gezondheidsraad</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.15.6.0</CNetID>
+		<Niveau_1>Hoorzitting</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.15.7.0</CNetID>
+		<Niveau_1>Infovergadering</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.15.8.0</CNetID>
+		<Niveau_1>Jumelage-activiteit</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.15.9.0</CNetID>
+		<Niveau_1>Middenstandsraad</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.15.10.0</CNetID>
+		<Niveau_1>Mondiale raad</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.15.11.0</CNetID>
+		<Niveau_1>OCMW-raad</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.15.12.0</CNetID>
+		<Niveau_1>Ontvangst</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.15.13.0</CNetID>
+		<Niveau_1>Plechtigheid</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.15.14.0</CNetID>
+		<Niveau_1>Seniorenraad</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.42.0.0.0</CNetID>
+		<Niveau_1>Andere aanbodsvormen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.12.0.0.0</CNetID>
+		<Niveau_1>Info �en Opendeurdagen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.1.0.0</CNetID>
+		<Niveau_1>Persconferenties</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.18.0.0.0</CNetID>
+		<Niveau_1>Projecten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.13.0.0.0</CNetID>
+		<Niveau_1>Veilingen, Kunsthandel en Kunstuitleen </Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.38.0.0.0</CNetID>
+		<Niveau_1>Vergaderingen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.40.0.0.0</CNetID>
+		<Niveau_1>Verhuur en Uitleen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.2.0.0</CNetID>
+		<Niveau_1>Viering</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.16.0.0</CNetID>
+		<Niveau_1>Week Van De Amateurkunsten (WAK)</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.20.0.0</CNetID>
+		<Niveau_1>CNET_Muziekfestivals</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.2.0.0.0</CNetID>
+		<Niveau_1>Voorstellingen (concert, optreden, vertoning,�)</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.3.0.0</CNetID>
+		<Niveau_1>Avant-première</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.4.0.0</CNetID>
+		<Niveau_1>Concert</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.25.0.0.0</CNetID>
+		<Niveau_1>Dia-voorstellingen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.5.0.0</CNetID>
+		<Niveau_1>Demonstratie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.6.0.0</CNetID>
+		<Niveau_1>Filmvoorstelling</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.6.1.0</CNetID>
+		<Niveau_1>avant-première</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.6.2.0</CNetID>
+		<Niveau_1>matinee</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.6.3.0</CNetID>
+		<Niveau_1>première</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.6.4.0</CNetID>
+		<Niveau_1>preview</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.6.5.0</CNetID>
+		<Niveau_1>slotvoorstelling</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.4.0.0.0</CNetID>
+		<Niveau_1>Literaire voordrachten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.7.0.0</CNetID>
+		<Niveau_1>Matinee</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.8.0.0</CNetID>
+		<Niveau_1>Performance</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.9.0.0</CNetID>
+		<Niveau_1>Première</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.10.0.0</CNetID>
+		<Niveau_1>Preview</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.11.0.0</CNetID>
+		<Niveau_1>Repetitie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.11.0.0.0</CNetID>
+		<Niveau_1>Signeersessies</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.12.0.0</CNetID>
+		<Niveau_1>Slotvoorstelling</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.10.0.0.0</CNetID>
+		<Niveau_1>Straatacts</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.13.0.0</CNetID>
+		<Niveau_1>Vrij podium</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.50.14.0.0</CNetID>
+		<Niveau_1>Work-in-progress</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.51.0.0.0</CNetID>
+		<Niveau_1>Type aanbod onbepaald</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.52.0.0.0</CNetID>
+		<Niveau_1>De Week van de Smaak</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.52.1.0.0</CNetID>
+		<Niveau_1>Artistieke activiteiten </Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.52.2.0.0</CNetID>
+		<Niveau_1>Culinair erfgoed, tentoonstellingen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.52.3.0.0</CNetID>
+		<Niveau_1>Diversiteit in smaken</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.52.4.0.0</CNetID>
+		<Niveau_1>Educatieve activiteiten, lezingen, studiedagen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.52.5.0.0</CNetID>
+		<Niveau_1>Land van de Smaak: Zwitserland</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.52.6.0.0</CNetID>
+		<Niveau_1>Literaire activiteiten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.52.7.0.0</CNetID>
+		<Niveau_1>Opendeur, rondleidingen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.52.8.0.0</CNetID>
+		<Niveau_1>Proeven, kooklessen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.52.9.0.0</CNetID>
+		<Niveau_1>Product in de kijker</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.52.10.0.0</CNetID>
+		<Niveau_1>Smaak op school (activiteiten onderwijs)</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.52.11.0.0</CNetID>
+		<Niveau_1>Stad van de Smaak: Hasselt</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.52.12.0.0</CNetID>
+		<Niveau_1>Uit eten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>0.52.13.0.0</CNetID>
+		<Niveau_1>Varia, andere activiteiten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>4.0.0.0.0</CNetID>
+		<Niveau_1>Openlucht</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>4.0.0.0.1</CNetID>
+		<Niveau_1>Indoor</Niveau_1>
+	</Row>
+	<!--Type of persons -->
+	<Row>
+		<CNetID>9.19.0.0.0</CNetID>
+		<Niveau_1>Andere types van persoon</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.0.0.0.0</CNetID>
+		<Niveau_1>Organisatoren</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.1.0.0.0</CNetID>
+		<Niveau_1>Reservatoren </Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.18.0.0.0</CNetID>
+		<Niveau_1>Uitvoerders</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.12.0.0.0</CNetID>
+		<Niveau_1>Acteurs </Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.20.0.0.0</CNetID>
+		<Niveau_1>Architect</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.2.0.0.0</CNetID>
+		<Niveau_1>Auteurs</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.4.0.0.0</CNetID>
+		<Niveau_1>Beeldende kunstenaars</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.8.0.0.0</CNetID>
+		<Niveau_1>Choreografen </Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.3.0.0.0</CNetID>
+		<Niveau_1>Componisten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.13.0.0.0</CNetID>
+		<Niveau_1>Curatoren</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.9.0.0.0</CNetID>
+		<Niveau_1>Dansers</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.7.0.0.0</CNetID>
+		<Niveau_1>Dirigenten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.14.0.0.0</CNetID>
+		<Niveau_1>dj</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.15.0.0.0</CNetID>
+		<Niveau_1>docent</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.11.0.0.0</CNetID>
+		<Niveau_1>Muzikanten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.16.0.0.0</CNetID>
+		<Niveau_1>Vormgever</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.5.0.0.0</CNetID>
+		<Niveau_1>Producenten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.6.0.0.0</CNetID>
+		<Niveau_1>Regisseurs</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.17.0.0.0</CNetID>
+		<Niveau_1>Spreker</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.10.0.0.0</CNetID>
+		<Niveau_1>Zangers</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.18.0.0.0</CNetID>
+		<Niveau_1>Type persoon onbepaald</Niveau_1>
+	</Row>
+	<!--Type Organisation -->
+	<Row>
+		<CNetID>8.23.0.0.0</CNetID>
+		<Niveau_1>Ambassades en Consulaten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.38.0.0.0</CNetID>
+		<Niveau_1>Andere types van organisatie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.2.0.0.0</CNetID>
+		<Niveau_1>Archieven, Documentatiecentra en Bewaarbibliotheken</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.0.0.0.0</CNetID>
+		<Niveau_1>Artistieke gezelschappen / uitvoerder</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.0.1.0.0</CNetID>
+		<Niveau_1>Band</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.0.2.0.0</CNetID>
+		<Niveau_1>instrumentaal ensemble</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.0.3.0.0</CNetID>
+		<Niveau_1>Koor</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.0.4.0.0</CNetID>
+		<Niveau_1>orkest</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.0.5.0.0</CNetID>
+		<Niveau_1>Vocaal ensemble</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.0.6.0.0</CNetID>
+		<Niveau_1>vocaal-instrumentaal ensemble</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.37.0.0.0</CNetID>
+		<Niveau_1>Beweging</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.1.0.0.0</CNetID>
+		<Niveau_1>Bibliotheken</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.1.1.0.0</CNetID>
+		<Niveau_1>Openbare bibliotheken</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.1.2.0.0</CNetID>
+		<Niveau_1>Gespecialiseerde bibliotheken</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.1.3.0.0</CNetID>
+		<Niveau_1>Wetenschappelijke bibliotheken</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.1.4.0.0</CNetID>
+		<Niveau_1>Schoolbibliotheken</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.12.0.0.0</CNetID>
+		<Niveau_1>Boekingskantoren</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.42.0.0.0</CNetID>
+		<Niveau_1>Boerderij (landbouwbedrijf)</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.7.0.0.0</CNetID>
+		<Niveau_1>Casino�s</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.8.0.0.0</CNetID>
+		<Niveau_1>Clubs en Café�s</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.6.0.0.0</CNetID>
+		<Niveau_1>Culturele- en Gemeenschapscentra</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.27.0.0.0</CNetID>
+		<Niveau_1>Diamant en Juweelnijverheid</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.32.0.0.0</CNetID>
+		<Niveau_1>Discotheken</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.26.0.0.0</CNetID>
+		<Niveau_1>Grafische industrie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.43.0.0.0</CNetID>
+		<Niveau_1>Grootwarenhuis</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.28.0.0.0</CNetID>
+		<Niveau_1>Havens</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.29.0.0.0</CNetID>
+		<Niveau_1>Hotels</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.30.0.0.0</CNetID>
+		<Niveau_1>Jeugdherbergen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.21.0.0.0</CNetID>
+		<Niveau_1>Jeugdorganisaties</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.21.1.0.0</CNetID>
+		<Niveau_1>Jeugdcentra</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.21.2.0.0</CNetID>
+		<Niveau_1>Jongereninformatiepunten (JIP�s)</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.21.3.0.0</CNetID>
+		<Niveau_1>Jeugdateliers</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.21.4.0.0</CNetID>
+		<Niveau_1>Jeugdhuizen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.21.5.0.0</CNetID>
+		<Niveau_1>Jeugddiensten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.21.6.0.0</CNetID>
+		<Niveau_1>Jeugdraden</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.21.7.0.0</CNetID>
+		<Niveau_1>Zuilgebonden Jeugdverenigingen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.21.8.0.0</CNetID>
+		<Niveau_1>Andere Jeugdverenigingen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.4.0.0.0</CNetID>
+		<Niveau_1>Kunstgalerijen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.5.0.0.0</CNetID>
+		<Niveau_1>Kunstencentra</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.5.1.0.0</CNetID>
+		<Niveau_1>Erkende kunstencentra</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.5.2.0.0</CNetID>
+		<Niveau_1>Niet-erkende kunstencentra</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.15.0.0.0</CNetID>
+		<Niveau_1>Lokatie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.16.0.0.0</CNetID>
+		<Niveau_1>Lokator</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.13.0.0.0</CNetID>
+		<Niveau_1>Managementbureau�s</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.39.0.0.0</CNetID>
+		<Niveau_1>Materialen en benodigdheden</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.19.0.0.0</CNetID>
+		<Niveau_1>Mediamaatschappijen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.3.0.0.0</CNetID>
+		<Niveau_1>Musea</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.3.1.0.0</CNetID>
+		<Niveau_1>Erkende musea</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.3.2.0.0</CNetID>
+		<Niveau_1>Niet-erkende musea</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.10.0.0.0</CNetID>
+		<Niveau_1>Onderwijsinstellingen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.10.1.0.0</CNetID>
+		<Niveau_1>Deeltijds Kunstonderwijs</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.10.2.0.0</CNetID>
+		<Niveau_1>Kleuter �en Lageronderwijs</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.10.3.0.0</CNetID>
+		<Niveau_1>Secundair Onderwijs</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.10.4.0.0</CNetID>
+		<Niveau_1>Hoger Onderwijs</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.10.5.0.0</CNetID>
+		<Niveau_1>Universitair Onderwijs</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.10.6.0.0</CNetID>
+		<Niveau_1>Volwassenenonderwijs (formeel)</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.11.0.0.0</CNetID>
+		<Niveau_1>Organisatoren van aanbod</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.22.0.0.0</CNetID>
+		<Niveau_1>Overheidsinstellingen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.22.1.0.0</CNetID>
+		<Niveau_1>Vlaams</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.22.2.0.0</CNetID>
+		<Niveau_1>Provinciaal</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.22.3.0.0</CNetID>
+		<Niveau_1>Lokaal</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.25.0.0.0</CNetID>
+		<Niveau_1>Pers</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.24.0.0.0</CNetID>
+		<Niveau_1>Politieke partijen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.17.0.0.0</CNetID>
+		<Niveau_1>Producent</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.14.0.0.0</CNetID>
+		<Niveau_1>Reservatie- en Verkooppunten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.44.0.0.0</CNetID>
+		<Niveau_1>Restaurants</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.20.0.0.0</CNetID>
+		<Niveau_1>Sociaal-Culturele Volwassenenorganisaties</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.20.1.0.0</CNetID>
+		<Niveau_1>Verenigingen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.20.2.0.0</CNetID>
+		<Niveau_1>Bewegingen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.20.3.0.0</CNetID>
+		<Niveau_1>Vormingsinstellingen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.20.3.1.0</CNetID>
+		<Niveau_1>Gespecialiseerde vormingsinstellingen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.20.3.2.0</CNetID>
+		<Niveau_1>Volkshogescholen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.20.3.3.0</CNetID>
+		<Niveau_1>Andere</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.20.4.0.0</CNetID>
+		<Niveau_1>Andere</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.34.0.0.0</CNetID>
+		<Niveau_1>Steunpunten en Koepelorganisaties</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.33.0.0.0</CNetID>
+		<Niveau_1>Thema- en Pretparken</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.18.0.0.0</CNetID>
+		<Niveau_1>Uitgeverijen en platenmaatschappijen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.31.0.0.0</CNetID>
+		<Niveau_1>Vakantie �en Kampeercentra</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.35.0.0.0</CNetID>
+		<Niveau_1>Vereniging</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.9.0.0.0</CNetID>
+		<Niveau_1>Vertoonplaatsen Film</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.9.1.0.0</CNetID>
+		<Niveau_1>Bioscopen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.9.2.0.0</CNetID>
+		<Niveau_1>Filmmusea</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.9.3.0.0</CNetID>
+		<Niveau_1>Filmzalen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.45.0.0.0</CNetID>
+		<Niveau_1>Voedingsbedrijf</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.36.0.0.0</CNetID>
+		<Niveau_1>Vormingsinstelling</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.40.0.0.0</CNetID>
+		<Niveau_1>Winkel </Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>8.41.0.0.0</CNetID>
+		<Niveau_1>Type organisatie onbepaald</Niveau_1>
+	</Row>
+	<!--Type location not wanted because it is often not accurate 
+	<Row>
+		<CNetID>4.0.0.0.0</CNetID>
+		<Niveau_1>Openlucht </Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>4.1.0.0.0</CNetID>
+		<Niveau_1>Indoor</Niveau_1>
+	</Row>
+	-->
+	<!--Type Link -->
+	<Row>
+		<CNetID>10.0.0.0.0</CNetID>
+		<Niveau_1>Gespecialiseerde startpunten, portalen en Cultuuragenda�s</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>10.2.0.0.0</CNetID>
+		<Niveau_1>Algemene Startpunten, Portalen, en Cultuuragenda�s</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>10.3.0.0.0</CNetID>
+		<Niveau_1>Virtuele tentoonstellingen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>10.4.0.0.0</CNetID>
+		<Niveau_1>Webart</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>10.5.0.0.0</CNetID>
+		<Niveau_1>Forums, Communities, Chatten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>10.6.0.0.0</CNetID>
+		<Niveau_1>Weblogs</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>10.7.0.0.0</CNetID>
+		<Niveau_1>E-commerce en Veilingsites</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>10.8.0.0.0</CNetID>
+		<Niveau_1>Nieuwsen media-sites</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>10.9.0.0.0</CNetID>
+		<Niveau_1>Multimediasites</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>10.10.0.0.0</CNetID>
+		<Niveau_1>Educatieve sites</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>10.11.0.0.0</CNetID>
+		<Niveau_1>Fansites</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>10.12.0.0.0</CNetID>
+		<Niveau_1>Officiële sites</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>10.13.0.0.0</CNetID>
+		<Niveau_1>Overheidssites</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>10.14.0.0.0</CNetID>
+		<Niveau_1>Webcatalogi</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>10.15.0.0.0</CNetID>
+		<Niveau_1>Andere types linken</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>10.16.0.0.0</CNetID>
+		<Niveau_1>Type link onbepaald</Niveau_1>
+	</Row>
+</Import>

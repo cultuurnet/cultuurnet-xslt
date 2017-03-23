@@ -1,0 +1,32 @@
+01 -> 02 : Make sure that a person who is an organisator is treated correctly.
+02 -> 03 : Make sure that a person who is an organisator is treated correctly: contact info.
+03 -> 04 : Add hyper link to the Vleig symbol in media.
+04 -> 05 : Make sure that country is always filled in. iso_3166-1_list_en.xml updated.
+04 -> 05 : Make sure that the email address is correct. domain and username in 2.3 must not contain @
+05 -> 06 : email addresses must not contain accented characters.
+05 -> 06 : only 1 longdescription allowed.
+06 -> 07 : validate email addresses using javascript.
+07 -> 08 : Add Groot-Brittannie in the country list.
+08 -> 09 : Add the koepelid and productieid that have come from the new BE XML.
+	   If the zip code of the location is 0000 then remove the event.
+09 -> 10 : Make sure the fle just contains metadata if there are no events and deletes.
+10 -> 11 : If a permanent event has no week full schema leave the tag permanent empty.
+11 -> 12 : Make sure charactrs such as é are copied from the .txt files correctly.
+12 -> 13 : Remove events that are verplaatst.
+           Only one reservarions element per event.
+	   Update metadat to http://www.cultuurdatabank.com/XMLSchema/CdbXSD/3.0/FINAL/categories/categorisation.xml
+           Add CNET_Muziekfestivals to readonly
+13 -> 14 : Check the urls
+	   Update metadat to http://www.cultuurdatabank.com/XMLSchema/CdbXSD/3.0/FINAL/categories/1.11/categorisation.xml
+	   as requested by Digipolis
+14 -> 15 : Update metadat to 
+http://www.cultuurdatabank.com/XMLSchema/CdbXSD/3.0/FINAL/categories/1.12/categorisation.xml
+15 -> 16 : Don't add productions 
+16 -> 17 : Add categories
+17 -> 18 : Get long descriptions from http://www.cultuurweb.be/CNETPortal/media/
+	   Seperate xslt for command lone no longer needed.
+18 -> 19 : Improve Calendar summary.
+	   Add reservation to mail and phone in contactinfo.
+19 -> 20 : make sure the copyrght in actors is OK.
+
+	      

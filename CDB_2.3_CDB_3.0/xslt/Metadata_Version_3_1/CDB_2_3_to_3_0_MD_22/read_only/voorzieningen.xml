@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2006 U (http://www.altova.com) by Julian Cox (Cultuurnet Vlaanderen) -->
+<Import>
+	<Row>
+		<CNetID>3.0.0.0.0</CNetID>
+		<Niveau_1>Giftshop</Niveau_1>
+		<Synoniemen>Restaurant, eetcafé</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>3.1.0.0.0</CNetID>
+		<Niveau_1>Bibliotheek</Niveau_1>
+		<Synoniemen>Uitleendienst, Uitleenfaciliteit</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>3.2.0.0.0</CNetID>
+		<Niveau_1>Archief of Documentatiecentrum</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>3.3.0.0.0</CNetID>
+		<Niveau_1>Eetgelegenheid</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>3.4.0.0.0</CNetID>
+		<Niveau_1>Drankgelegenheid</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>3.5.0.0.0</CNetID>
+		<Niveau_1>Autoparking</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>3.6.0.0.0</CNetID>
+		<Niveau_1>Busparking</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>3.7.0.0.0</CNetID>
+		<Niveau_1>Openbaar vervoer</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>3.8.0.0.0</CNetID>
+		<Niveau_1>Babyof Luierhoek</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>3.9.0.0.0</CNetID>
+		<Niveau_1>Kinderopvang</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>3.10.0.0.0</CNetID>
+		<Niveau_1>Rolstoel te huur</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>3.11.0.0.0</CNetID>
+		<Niveau_1>Toiletten voor rolstoelgebruikers</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>3.12.0.0.0</CNetID>
+		<Niveau_1>Toegangsfaciliteiten voor rolstoelgebruikers</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>3.13.0.0.0</CNetID>
+		<Niveau_1>Blindenvoorzieningen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>3.14.0.0.0</CNetID>
+		<Niveau_1>Educatieve dienstverlening</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>3.15.0.0.0</CNetID>
+		<Niveau_1>Audiogids</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>3.16.0.0.0</CNetID>
+		<Niveau_1>Gids</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>3.17.0.0.0</CNetID>
+		<Niveau_1>Faciliteiten voor Doven en Gehoorgestoorden</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>3.18.0.0.0</CNetID>
+		<Niveau_1>Multimedia</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>3.19.0.0.0</CNetID>
+		<Niveau_1>Kopieerfaciliteiten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>3.20.0.0.0</CNetID>
+		<Niveau_1>Uitleenfaciliteiten </Niveau_1>
+	</Row>
+</Import>

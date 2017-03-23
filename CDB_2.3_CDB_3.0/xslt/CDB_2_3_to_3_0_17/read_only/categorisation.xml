@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<cdbxml xmlns="http://www.cultuurdatabank.com/XMLSchema/CdbXSD/3.0/FINAL" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.cultuurdatabank.com/XMLSchema/CdbXSD/3.0/FINAL http://www.cultuurdatabank.com/XMLSchema/CdbXSD/3.0/FINAL/CdbXSD.xsd">
+<categorisation url="http://www.cultuurdatabank.com/XMLSchema/CdbXSD/3.0/FINAL/categories/1.8/categorisation.xml">
+<item catid="Type_Aanbod" label="Type_Aanbod">
+<item catid="0.43.0.0.0" label="Attracties">
+<item catid="0.32.0.0.0" label="Vliegmeetings en Vlootparades"/>
+<item catid="0.41.0.0.0" label="Thema- en Pretparken"/>
+<item catid="0.53.0.0.0" label="Recreatiedomein"/>
+</item>
+<item catid="0.1.0.0.0" label="Collecties"/>
+<item catid="0.3.0.0.0" label="Educatieve Activiteiten">
+<item catid="0.3.1.0.0" label="Cursussen en Workshops"/>
+<item catid="0.3.2.0.0" label="Lezingen"/>
+<item catid="0.3.3.0.0" label="Congressen, Debatten, Symposia, en Studiedagen"/>
+<item catid="0.3.4.0.0" label="Andere"/>
+</item>
+<item catid="0.44.0.0.0" label="Evenementen">
+<item catid="0.6.0.0.0" label="Beurzen"/>
+<item catid="0.36.0.0.0" label="Braderieën"/>
+<item catid="0.45.0.0.0" label="Happening"/>
+<item catid="0.31.0.0.0" label="Herdenkingen en Wijdingen"/>
+<item catid="0.28.0.0.0" label="Kermissen en Foren"/>
+<item catid="0.30.0.0.0" label="Klank- en Lichtspelen"/>
+<item catid="0.37.0.0.0" label="Markten"/>
+<item catid="0.9.0.0.0" label="Stoeten en Processies"/>
+<item catid="0.29.0.0.0" label="Vuurwerken"/>
+<item catid="0.19.0.0.0" label="Wedstrijden en Concours"/>
+</item>
+<item catid="0.46.0.0.0" label="Excursies">
+<item catid="0.7.0.0.0" label="Excursies, Groepsbezoeken, en Reizen"/>
+<item catid="0.35.0.0.0" label="Rondritten"/>
+<item catid="0.33.0.0.0" label="Rondvaarten"/>
+<item catid="0.34.0.0.0" label="Rondvluchten"/>
+<item catid="0.17.0.0.0" label="Routes (wandelingen, fietstochten)"/>
+</item>
+<item catid="0.8.0.0.0" label="Feesten"/>
+<item catid="0.5.0.0.0" label="Festivals"/>
+<item catid="0.47.0.0.0" label="In de media">
+<item catid="0.22.0.0.0" label="Internet"/>
+<item catid="0.23.0.0.0" label="Kranten"/>
+<item catid="0.21.0.0.0" label="Radio-uitzendingen"/>
+<item catid="0.20.0.0.0" label="Televisie-uitzendingen"/>
+<item catid="0.24.0.0.0" label="Tijdschriften"/>
+</item>
+<item catid="0.48.0.0.0" label="Monumenten en landschappen">
+<item catid="0.14.0.0.0" label="Monumenten en bouwwerken">
+<item catid="0.14.1.0.0" label="Religieuze bouwwerken"/>
+<item catid="0.14.2.0.0" label="Wereldlijke bouwwerken"/>
+<item catid="0.14.3.0.0" label="Standbeelden en gedenktekens"/>
+<item catid="0.14.4.0.0" label="Kasteel"/>
+<item catid="0.14.5.0.0" label="Fort"/>
+<item catid="0.14.6.0.0" label="Kapel"/>
+<item catid="0.14.7.0.0" label="Kerk"/>
+<item catid="0.14.8.0.0" label="Molen"/>
+<item catid="0.14.9.0.0" label="Historisch huis"/>
+<item catid="0.14.10.0.0" label="Hoeve"/>
+<item catid="0.14.11.0.0" label="Industriële site"/>
+<item catid="0.14.12.0.0" label="Prehistorische site"/>
+<item catid="0.14.13.0.0" label="Archeologische site"/>
+</item>
+<item catid="0.15.0.0.0" label="Landschappen"/>
+<item catid="0.16.0.0.0" label="Tuinen en Parken"/>
+</item>
+<item catid="0.0.0.0.0" label="Tentoonstellingen"/>
+<item catid="0.49.0.0.0" label="Uitgaan">
+<item catid="0.26.0.0.0" label="Bals, Fuiven, en Nightlife"/>
+<item catid="0.27.0.0.0" label="Kroegentochten"/>
+<item catid="0.39.0.0.0" label="Uitgaan, Eten, en Drinken"/>
+</item>
+<item catid="0.50.0.0.0" label="Varia">
+<item catid="0.50.15.0.0" label="Administratieve of bestuurlijke activiteiten">
+<item catid="0.50.15.1.0" label="Buurtraad"/>
+<item catid="0.50.15.2.0" label="Communicatieraad"/>
+<item catid="0.50.15.3.0" label="Fietsregistratie"/>
+<item catid="0.50.15.4.0" label="Gemeenteraad"/>
+<item catid="0.50.15.5.0" label="Gezondheidsraad"/>
+<item catid="0.50.15.6.0" label="Hoorzitting"/>
+<item catid="0.50.15.7.0" label="Infovergadering"/>
+<item catid="0.50.15.8.0" label="Jumelage-activiteit"/>
+<item catid="0.50.15.9.0" label="Middenstandsraad"/>
+<item catid="0.50.15.10.0" label="Mondiale raad"/>
+<item catid="0.50.15.11.0" label="OCMW-raad"/>
+<item catid="0.50.15.12.0" label="Ontvangst"/>
+<item catid="0.50.15.13.0" label="Plechtigheid"/>
+<item catid="0.50.15.14.0" label="Seniorenraad"/>
+</item>
+<item catid="0.42.0.0.0" label="Andere aanbodsvormen"/>
+<item catid="0.50.18.0.0" label="Bibliotheekweek"/>
+<item catid="0.12.0.0.0" label="Info- en Opendeurdagen"/>
+<item catid="0.50.19.0.0" label="Jeugdboekenweek"/>
+<item catid="0.50.1.0.0" label="Persconferenties"/>
+<item catid="0.18.0.0.0" label="Projecten"/>
+<item catid="0.50.17.0.0" label="Tinteltenen"/>
+<item catid="0.13.0.0.0" label="Veilingen, Kunsthandel en Kunstuitleen"/>
+<item catid="0.38.0.0.0" label="Vergaderingen"/>
+<item catid="0.40.0.0.0" label="Verhuur en Uitleen"/>
+<item catid="0.50.2.0.0" label="Viering"/>
+<item catid="0.60.0.0.0" label="CultuurStart"/>
+<item catid="0.50.16.0.0" label="Week Van De Amateurkunsten (WAK)"/>
+<item catid="0.50.20.0.0" label="CNET_Muziekfestivals"/>
+<item catid="0.50.21.0.0" label="Kwis of spel"/>
+<item catid="0.50.22.0.0" label="SuperVlieg"/>
+<item catid="0.50.23.0.0" label="Erfgoeddag"/>
+<item catid="0.50.24.0.0" label="Open Monumentendag"/>
+<item catid="0.50.25.0.0" label="Gedichtendag"/>
+<item catid="0.50.26.0.0" label="Voorleesweek"/>
+<item catid="0.50.27.0.0" label="Buitenspeeldag"/>
+<item catid="0.50.28.0.0" label="Broodje Brussel"/>
+<item catid="0.50.29.0.0" label="Grabbelpas"/>
+<item catid="0.50.30.0.0" label="Swap"/>
+</item>
+<item catid="0.2.0.0.0" label="Voorstellingen (concert, optreden, vertoning,...)">
+<item catid="0.50.3.0.0" label="Avant-première"/>
+<item catid="0.50.4.0.0" label="Concert"/>
+<item catid="0.25.0.0.0" label="Dia-voorstellingen"/>
+<item catid="0.50.5.0.0" label="Demonstratie"/>
+<item catid="0.50.6.0.0" label="Filmvoorstelling"/>
+<item catid="0.4.0.0.0" label="Literaire voordrachten"/>
+<item catid="0.50.7.0.0" label="Matinee"/>
+<item catid="0.50.8.0.0" label="Performance"/>
+<item catid="0.50.9.0.0" label="Première"/>
+<item catid="0.50.10.0.0" label="Preview"/>
+<item catid="0.50.11.0.0" label="Repetitie"/>
+<item catid="0.11.0.0.0" label="Signeersessies"/>
+<item catid="0.50.12.0.0" label="Slotvoorstelling"/>
+<item catid="0.10.0.0.0" label="Straatacts"/>
+<item catid="0.50.13.0.0" label="Vrij podium"/>
+<item catid="0.50.14.0.0" label="Work-in-progress"/>
+</item>
+<item catid="0.52.0.0.0" label="De Week van de Smaak">
+<item catid="0.52.1.0.0" label="Artistieke activiteiten "/>
+<item catid="0.52.2.0.0" label="Culinair erfgoed, tentoonstellingen"/>
+<item catid="0.52.3.0.0" label="Diversiteit in smaken"/>
+<item catid="0.52.4.0.0" label="Educatieve activiteiten, lezingen, studiedagen"/>
+<item catid="0.52.5.0.0" label="Land van de Smaak"/>
+<item catid="0.52.6.0.0" label="Literaire activiteiten"/>
+<item catid="0.52.7.0.0" label="Opendeur, rondleidingen"/>
+<item catid="0.52.8.0.0" label="Proeven, kooklessen"/>
+<item catid="0.52.9.0.0" label="Product in de kijker"/>
+<item catid="0.52.10.0.0" label="Smaak op school (activiteiten onderwijs)"/>
+<item catid="0.52.11.0.0" label="Stad van de Smaak"/>
+<item catid="0.52.12.0.0" label="Uit eten "/>
+<item catid="0.52.13.0.0" label="Varia, andere activiteiten"/>
+</item>
+</item>
+<item catid="Themas" label="Themas">
+<item catid="1.2.0.0.0" label="Architectuur en Vormgeving">
+<item catid="1.2.1.0.0" label="Architectuur">
+<item catid="1.2.1.1.0" label="Architectuur uit de oudheid"/>
+<item catid="1.2.1.2.0" label="Gotiek"/>
+<item catid="1.2.1.3.0" label="Renaissance"/>
+<item catid="1.2.1.4.0" label="Barok"/>
+<item catid="1.2.1.5.0" label="Classicisme"/>
+<item catid="1.2.1.6.0" label="Romantiek"/>
+<item catid="1.2.1.7.0" label="Realisme"/>
+<item catid="1.2.1.8.0" label="Jugendstil of Art nouveau"/>
+<item catid="1.2.1.9.0" label="Moderne en Hedendaagse Architectuur"/>
+<item catid="1.2.1.10.0" label="Niet-hedendaagse architectuur"/>
+</item>
+<item catid="1.2.2.0.0" label="Design"/>
+<item catid="1.49.0.0.0" label="Mode"/>
+</item>
+<item catid="1.1.0.0.0" label="Audiovisuele kunsten"/>
+<item catid="1.0.0.0.0" label="Beeldende kunsten">
+<item catid="1.0.7.0.0" label="Moderne en hedendaagse beeldende kunst (na 1945)"/>
+<item catid="1.0.8.0.0" label="Niet-hedendaagse beeldende kunst (voor 1945)"/>
+<item catid="1.0.1.0.0" label="Schilderkunst">
+<item catid="1.0.1.1.0" label="Schilderkunst uit de Oudheid"/>
+<item catid="1.0.1.2.0" label="Middeleeuwse schilderkunst"/>
+<item catid="1.0.1.3.0" label="Renaissance"/>
+<item catid="1.0.1.4.0" label="Barok"/>
+<item catid="1.0.1.5.0" label="Classicisme"/>
+<item catid="1.0.1.6.0" label="Romantiek"/>
+<item catid="1.0.1.7.0" label="Realisme"/>
+<item catid="1.0.1.8.0" label="Impressionisme"/>
+<item catid="1.0.1.9.0" label="Moderne schilderkunst (voor 1945)"/>
+<item catid="1.0.1.10.0" label="Moderne en hedendaagse schilderkunst (na 1945)"/>
+<item catid="1.0.1.11.0" label="Niet-Westerse schilderkunst"/>
+<item catid="1.0.1.12.0" label="Niet-hedendaagse schilderkunst"/>
+</item>
+<item catid="1.0.2.0.0" label="Beeldhouwkunst">
+<item catid="1.0.2.1.0" label="Beeldhouwkunst uit de oudheid"/>
+<item catid="1.0.2.2.0" label="Middeleeuwse beeldhouwkunst"/>
+<item catid="1.0.2.3.0" label="Renaissance"/>
+<item catid="1.0.2.4.0" label="Classicisme"/>
+<item catid="1.0.2.5.0" label="Romantiek"/>
+<item catid="1.0.2.6.0" label="Realisme"/>
+<item catid="1.0.2.7.0" label="Moderne beeldhouwkunst "/>
+<item catid="1.0.2.8.0" label="Moderne en hedendaagse beeldhouwkunst (na 1945)"/>
+<item catid="1.0.2.9.0" label="Niet-Westerse beeldhouwkunst"/>
+<item catid="1.0.2.10.0" label="Niet-hedendaagse beeldhouwkunst"/>
+</item>
+<item catid="1.0.3.0.0" label="Installatiekunst"/>
+<item catid="1.0.4.0.0" label="Grafische kunst"/>
+<item catid="1.0.5.0.0" label="Kunstambachten en decoratieve kunst"/>
+<item catid="1.0.6.0.0" label="Fotografie">
+<item catid="1.0.6.1.0" label="Primitieve fotografie"/>
+<item catid="1.0.6.2.0" label="Portretten"/>
+<item catid="1.0.6.3.0" label="Modelfotografie"/>
+<item catid="1.0.6.4.0" label="Industrie -en reclamefotografie"/>
+<item catid="1.0.6.5.0" label="Fotojournalisme en Reportagefotografie"/>
+<item catid="1.0.6.7.0" label="Surrealisme en experimentele fotografie"/>
+<item catid="1.0.6.8.0" label="Landschaps -en natuurfotografie"/>
+<item catid="1.0.6.9.0" label="Architectuurfotografie"/>
+</item>
+</item>
+<item catid="1.9.0.0.0" label="Dans">
+<item catid="1.9.1.0.0" label="Klassieke dans en Ballet"/>
+<item catid="1.9.2.0.0" label="Hedendaagse dans"/>
+<item catid="1.9.3.0.0" label="Volksdans"/>
+<item catid="1.9.4.0.0" label="Werelddans"/>
+<item catid="1.9.5.0.0" label="Stijl- en Salondansen"/>
+</item>
+<item catid="1.7.0.0.0" label="Film">
+<item catid="1.7.1.0.0" label="Reportages en Documentaires"/>
+<item catid="1.7.2.0.0" label="Actie en Avontuur"/>
+<item catid="1.7.3.0.0" label="Komedie"/>
+<item catid="1.7.4.0.0" label="Romantiek en melodrama"/>
+<item catid="1.7.5.0.0" label="Thriller en Misdaad"/>
+<item catid="1.7.6.0.0" label="Horror"/>
+<item catid="1.7.7.0.0" label="Science fiction"/>
+<item catid="1.7.8.0.0" label="Historische Films"/>
+<item catid="1.7.9.0.0" label="Sociaal geëngageerde films"/>
+<item catid="1.7.10.0.0" label="Filmmusicals"/>
+<item catid="1.7.11.0.0" label="Muziekfilms, dansfilms, en kunstfilms"/>
+<item catid="1.7.12.0.0" label="Tekenfilms"/>
+</item>
+<item catid="1.10.0.0.0" label="Literatuur">
+<item catid="1.10.1.0.0" label="Roman"/>
+<item catid="1.10.2.0.0" label="Toneelteksten"/>
+<item catid="1.10.3.0.0" label="Kortverhaal"/>
+<item catid="1.10.4.0.0" label="Essay"/>
+<item catid="1.10.5.0.0" label="Poëzie"/>
+<item catid="1.10.6.0.0" label="Cursief"/>
+<item catid="1.10.7.0.0" label="Column"/>
+<item catid="1.10.8.0.0" label="Beeldverhaal"/>
+<item catid="1.10.9.0.0" label="Wetenschappelijke boeken"/>
+<item catid="1.10.10.0.0" label="Informatieve boeken"/>
+</item>
+<item catid="1.8.0.0.0" label="Muziek">
+<item catid="1.8.1.0.0" label="Klassieke muziek">
+<item catid="1.8.1.5.0" label="Gregoriaans"/>
+<item catid="1.8.1.1.0" label="Oude muziek"/>
+<item catid="1.8.1.2.0" label="Barokmuziek"/>
+<item catid="1.8.1.6.0" label="Classicisme"/>
+<item catid="1.8.1.3.0" label="Romantische klassieke muziek"/>
+<item catid="1.8.1.4.0" label="Hedendaagse klassieke muziek"/>
+</item>
+<item catid="1.8.2.0.0" label="Jazz en blues"/>
+<item catid="1.8.3.0.0" label="Moderne muziek">
+<item catid="1.8.3.1.0" label="Pop en rock"/>
+<item catid="1.8.3.2.0" label="Rap en hip-hop"/>
+<item catid="1.8.3.3.0" label="Dance"/>
+<item catid="1.8.3.4.0" label="Chanson en kleinkunst"/>
+<item catid="1.8.3.5.0" label="Amusementsmuziek"/>
+</item>
+<item catid="1.8.4.0.0" label="Wereldmuziek"/>
+</item>
+<item catid="1.3.0.0.0" label="Theater">
+<item catid="1.3.1.0.0" label="Teksttheater"/>
+<item catid="1.3.2.0.0" label="Muziektheater"/>
+<item catid="1.3.3.0.0" label="Improvisatietheater"/>
+<item catid="1.3.4.0.0" label="Mimetheater"/>
+<item catid="1.3.5.0.0" label="Figuren- en Objectentheater"/>
+<item catid="1.3.6.0.0" label="Verteltheater en Voordracht"/>
+<item catid="1.3.7.0.0" label="Multimediatheater"/>
+<item catid="1.3.8.0.0" label="Cabaret en Variété"/>
+<item catid="1.3.9.0.0" label="Revue en Show"/>
+<item catid="1.4.0.0.0" label="Musical"/>
+<item catid="1.5.0.0.0" label="Opera"/>
+</item>
+<item catid="1.40.0.0.0" label="Cultureel erfgoed"/>
+<item catid="1.11.0.0.0" label="Geschiedenis">
+<item catid="1.11.1.0.0" label="Europese geschiedenis">
+<item catid="1.11.1.1.0" label="Prehistorie"/>
+<item catid="1.11.1.2.0" label="Klassieke oudheid"/>
+<item catid="1.11.1.3.0" label="Middeleeuwen"/>
+<item catid="1.11.1.4.0" label="Nieuwe tijden (moderne tijden)"/>
+<item catid="1.11.1.5.0" label="Nieuwste tijden (hedendaagse tijden)"/>
+<item catid="1.11.1.6.0" label="Hedendaagse tijden"/>
+</item>
+<item catid="1.11.2.0.0" label="Geschiedenis van Zuiden Midden-Amerika"/>
+<item catid="1.11.3.0.0" label="Geschiedenis van het Nabije Oosten"/>
+<item catid="1.11.4.0.0" label="Aziatische geschiedenis"/>
+<item catid="1.11.5.0.0" label="Afrikaanse geschiedenis"/>
+<item catid="1.11.6.0.0" label="Noord-Amerikaanse geschiedenis"/>
+<item catid="1.11.7.0.0" label="Geschiedenis van Oceanië"/>
+</item>
+<item catid="1.52.0.0.0" label="Mens en maatschappij">
+<item catid="1.39.0.0.0" label="Consumentenvorming"/>
+<item catid="1.33.0.0.0" label="Criminaliteit"/>
+<item catid="1.36.0.0.0" label="Gezondheid en Zorg"/>
+<item catid="1.35.0.0.0" label="Landbouw"/>
+<item catid="1.27.0.0.0" label="Maatschappij"/>
+<item catid="1.34.0.0.0" label="Milieu en natuur"/>
+<item catid="1.12.0.0.0" label="Oorlog en Vrede"/>
+<item catid="1.53.0.0.0" label="Vorming en onderwijs">
+<item catid="1.42.0.0.0" label="Creativiteit en expressie"/>
+<item catid="1.43.0.0.0" label="Interculturele vorming"/>
+<item catid="1.41.0.0.0" label="Kunsteducatie"/>
+<item catid="1.37.0.0.0" label="Opvoeding en Onderwijs"/>
+<item catid="1.45.0.0.0" label="Persoonlijkheidsvorming"/>
+<item catid="1.46.0.0.0" label="Relationele vorming"/>
+<item catid="1.47.0.0.0" label="Sociale en communicatieve vaardigheden"/>
+</item>
+<item catid="1.38.0.0.0" label="Werk en Loopbaan"/>
+<item catid="1.44.0.0.0" label="Zingeving en Religie"/>
+</item>
+<item catid="1.22.0.0.0" label="Over de media">
+<item catid="1.22.1.0.0" label="TV"/>
+<item catid="1.22.2.0.0" label="Radio"/>
+<item catid="1.22.3.0.0" label="Krant"/>
+<item catid="1.22.4.0.0" label="Tijdschriften"/>
+<item catid="1.22.5.0.0" label="Internet"/>
+</item>
+<item catid="1.25.0.0.0" label="Wetenschappen">
+<item catid="1.25.1.0.0" label="Aardrijkskunde"/>
+<item catid="1.25.2.0.0" label="Antropologie"/>
+<item catid="1.14.0.0.0" label="Archeologie">
+<item catid="1.15.3.0.0" label="Industriële Archeologie"/>
+</item>
+<item catid="1.25.3.0.0" label="Astronomie"/>
+<item catid="1.25.4.0.0" label="Biologie"/>
+<item catid="1.25.8.0.0" label="Biotechnologie"/>
+<item catid="1.28.0.0.0" label="Economie"/>
+<item catid="1.54.0.0.0" label="Filosofie"/>
+<item catid="1.25.5.0.0" label="Geneeskunde"/>
+<item catid="1.24.0.0.0" label="Informatica"/>
+<item catid="1.25.14.0.0" label="Kunstwetenschappen"/>
+<item catid="1.25.16.0.0" label="Letterkunde"/>
+<item catid="1.25.6.0.0" label="Natuurkunde"/>
+<item catid="1.29.0.0.0" label="Politiek"/>
+<item catid="1.25.10.0.0" label="Psychologie en Psychiatrie"/>
+<item catid="1.32.0.0.0" label="Recht"/>
+<item catid="1.25.7.0.0" label="Scheikunde"/>
+<item catid="1.25.11.0.0" label="Sociologie"/>
+<item catid="1.25.15.0.0" label="Taalkunde">
+<item catid="1.25.15.1.0" label="Dialectologie"/>
+</item>
+<item catid="1.25.12.0.0" label="Theologie"/>
+<item catid="1.25.9.0.0" label="Weerkunde en Klimatologie"/>
+<item catid="1.25.13.0.0" label="Wiskunde"/>
+</item>
+<item catid="1.57.0.0.0" label="Recreatie"/>
+<item catid="1.51.0.0.0" label="Sport">
+<item catid="1.51.1.0.0" label="Atletiek en loopsporten"/>
+<item catid="1.51.2.0.0" label="Balsporten"/>
+<item catid="1.51.3.0.0" label="Watersporten"/>
+<item catid="1.51.4.0.0" label="Wielersporten"/>
+<item catid="1.51.5.0.0" label="Racketsporten"/>
+<item catid="1.51.6.0.0" label="Gevechtssporten"/>
+<item catid="1.51.7.0.0" label="Wintersporten"/>
+<item catid="1.51.8.0.0" label="Autoen motorsporten"/>
+<item catid="1.51.9.0.0" label="Paardensporten"/>
+<item catid="1.51.10.0.0" label="Volkssporten"/>
+<item catid="1.51.11.0.0" label="Extreme sporten"/>
+<item catid="1.51.12.0.0" label="Andere"/>
+</item>
+<item catid="1.55.0.0.0" label="Uitgaan"/>
+<item catid="1.56.0.0.0" label="Varia">
+<item catid="1.56.1.0.0" label="Algemeen (cultuur, recreatie, sport, maatschappij,...)"/>
+<item catid="1.56.2.0.0" label="Andere thema's"/>
+<item catid="1.17.0.0.0" label="Antiek en Brocante"/>
+<item catid="1.6.0.0.0" label="Circus"/>
+<item catid="1.26.0.0.0" label="Cultuurbeleid"/>
+<item catid="1.30.0.0.0" label="Dynastie"/>
+<item catid="1.50.0.0.0" label="Gastronomie"/>
+<item catid="1.50.1.0.0" label="Streekgastronomie"/>
+<item catid="1.56.3.0.0" label="Goochelen"/>
+<item catid="1.19.0.0.0" label="Muziekinstrumenten"/>
+<item catid="1.48.0.0.0" label="Populaire cultuur en hobby"/>
+<item catid="1.31.0.0.0" label="Talen"/>
+<item catid="1.21.0.0.0" label="Techniek"/>
+<item catid="1.20.0.0.0" label="Transportmiddelen"/>
+</item>
+<item catid="1.59.0.0.0" label="Eetcultuur"/>
+<item catid="1.15.0.0.0" label="Volkscultuur">
+<item catid="1.15.1.0.0" label="Heemkunde en lokale geschiedenis"/>
+<item catid="1.15.2.0.0" label="Familiekunde en genealogie"/>
+<item catid="1.15.4.0.0" label="Volkskunde"/>
+<item catid="1.15.5.0.0" label="Volkscultuur beoefening en folklore"/>
+<item catid="1.15.6.0.0" label="Andere"/>
+</item>
+<item catid="1.60.0.0.0" label="IPE_Plattelandsbeleving">
+<item catid="1.60.1.0.0" label="IPE_Verblijfslocaties">
+<item catid="1.60.1.1.0" label="IPE_Verblijf op een actieve hoeve"/>
+<item catid="1.60.1.2.0" label="IPE_Verblijf op het platteland"/>
+<item catid="1.60.1.3.0" label="IPE_Verblijf in het dorp"/>
+</item>
+<item catid="1.60.2.0.0" label="IPE_Bezoekerslocatie/bezienswaardigheid">
+<item catid="1.60.2.1.0" label="IPE_Kijkboerderij/bezoekersboerderij"/>
+<item catid="1.60.2.2.0" label="IPE_Museum rond landbouw en platteland"/>
+<item catid="1.60.2.3.0" label="IPE_Educatief centrum rond landbouw en platteland"/>
+<item catid="1.60.2.4.0" label="IPE_Verkoopspunt hoeve- en streekproducten"/>
+<item catid="1.60.2.5.0" label="IPE_Open tuin"/>
+<item catid="1.60.2.6.0" label="IPE_Andere bezienswaardigheden"/>
+<item catid="1.60.2.7.0" label="IPE_Hoeve- en streekproducenten"/>
+</item>
+<item catid="1.60.3.0.0" label="IPE_Routes"/>
+<item catid="1.60.4.0.0" label="IPE_Arrangementen">
+<item catid="1.60.4.1.0" label="IPE_Plattelandsklas"/>
+<item catid="1.60.4.2.0" label="IPE_Schoolreis"/>
+<item catid="1.60.4.3.0" label="IPE_Groepsuitstap vereniging"/>
+<item catid="1.60.4.4.0" label="IPE_Familie-uitstap"/>
+<item catid="1.60.4.5.0" label="IPE_Bedrijfsuitstap"/>
+<item catid="1.60.4.6.0" label="IPE_Indivuele activiteit"/>
+<item catid="1.60.4.7.0" label="IPE_Andere arrangementen"/>
+</item>
+</item>
+</item>
+<item catid="Doelgroepen" label="Doelgroepen">
+<item catid="2.0.0.0.0" label="Leeftijdsklasse">
+<item catid="2.2.1.0.0" label="Vanaf kleuterleeftijd (3+)"/>
+<item catid="2.2.2.0.0" label="Vanaf lagere schoolleeftijd (6+)"/>
+<item catid="2.2.3.0.0" label="Jongeren vanaf 12 jaar (12+)"/>
+<item catid="2.2.4.0.0" label="Jongeren vanaf 15 jaar (15+)"/>
+<item catid="2.2.5.0.0" label="Volwassenen (18+)"/>
+</item>
+<item catid="2.1.0.0.0" label="Specifieke Doelgroep">
+<item catid="2.1.1.0.0" label="Gezinnen"/>
+<item catid="2.1.3.0.0" label="Scholen"/>
+<item catid="2.1.4.0.0" label="Studenten"/>
+<item catid="2.1.5.0.0" label="Senioren"/>
+<item catid="2.1.8.0.0" label="Kansarmen"/>
+<item catid="2.1.9.0.0" label="Allochtonen"/>
+<item catid="2.1.10.0.0" label="Holebi"/>
+<item catid="2.1.11.0.0" label="Personen met een handicap"/>
+<item catid="2.1.12.0.0" label="Groepen (verenigingen)"/>
+</item>
+</item>
+<item catid="Geografische_Doelgroepen" label="Geografische_Doelgroepen">
+<item catid="6.0.0.0.0" label="Wijk/buurt"/>
+<item catid="6.1.0.0.0" label="Lokaal"/>
+<item catid="6.2.0.0.0" label="Regionaal"/>
+<item catid="6.3.0.0.0" label="Nationaal"/>
+<item catid="6.4.0.0.0" label="Internationaal"/>
+</item>
+<item catid="Voorzieningen" label="Voorzieningen">
+<item catid="3.0.0.0.0" label="Giftshop"/>
+<item catid="3.1.0.0.0" label="Bibliotheek"/>
+<item catid="3.2.0.0.0" label="Archief- of Documentatiecentrum"/>
+<item catid="3.3.0.0.0" label="Eetgelegenheid"/>
+<item catid="3.4.0.0.0" label="Drankgelegenheid"/>
+<item catid="3.5.0.0.0" label="Autoparking"/>
+<item catid="3.6.0.0.0" label="Busparking"/>
+<item catid="3.7.0.0.0" label="Openbaar vervoer"/>
+<item catid="3.8.0.0.0" label="Baby- of Luierhoek"/>
+<item catid="3.9.0.0.0" label="Kinderopvang"/>
+<item catid="3.10.0.0.0" label="Rolstoel te huur"/>
+<item catid="3.11.0.0.0" label="Toiletten voor rolstoelgebruikers"/>
+<item catid="3.12.0.0.0" label="Toegangsfaciliteiten voor rolstoelgebruikers"/>
+<item catid="3.13.0.0.0" label="Blindenvoorzieningen"/>
+<item catid="3.14.0.0.0" label="Educatieve dienstverlening"/>
+<item catid="3.15.0.0.0" label="Audiogids"/>
+<item catid="3.16.0.0.0" label="Gids"/>
+<item catid="3.17.0.0.0" label="Faciliteiten voor Doven en Gehoorgestoorden"/>
+<item catid="3.18.0.0.0" label="Multimedia"/>
+<item catid="3.19.0.0.0" label="Kopieerfaciliteiten"/>
+<item catid="3.20.0.0.0" label="Uitleenfaciliteiten"/>
+<item catid="3.21.0.0.0" label="Aanvaarden van SABAM-cultuurchèques"/>
+<item catid="3.22.0.0.0" label="EETiKET, kindvriendelijk restaurant"/>
+</item>
+<item catid="Type_Locaties" label="Type_Locaties">
+<item catid="4.0.0.0.0" label="Openlucht"/>
+<item catid="4.1.0.0.0" label="Indoor"/>
+</item>
+<item catid="Toegankelijkheid" label="Toegankelijkheid">
+<item catid="5.0.0.0.0" label="Open"/>
+<item catid="5.1.0.0.0" label="Gesloten"/>
+</item>
+<item catid="Sector" label="Sector">
+<item catid="7.0.0.0.0" label="Niet-professionele sector"/>
+<item catid="7.1.0.0.0" label="Professionele sector"/>
+</item>
+<item catid="Type_Organisaties" label="Type_Organisaties">
+<item catid="8.23.0.0.0" label="Ambassades en Consulaten"/>
+<item catid="8.38.0.0.0" label="Andere types van organisatie"/>
+<item catid="8.2.0.0.0" label="Archieven, Documentatiecentra en Bewaarbibliotheken"/>
+<item catid="8.0.0.0.0" label="Artistieke gezelschappen / Uitvoerder">
+<item catid="8.0.1.0.0" label="Band"/>
+<item catid="8.0.2.0.0" label="Instrumentaal ensemble"/>
+<item catid="8.0.3.0.0" label="Koor"/>
+<item catid="8.0.4.0.0" label="orkest"/>
+<item catid="8.0.5.0.0" label="Vocaal ensemble"/>
+<item catid="8.0.6.0.0" label="Vocaal-instrumentaal ensemble"/>
+</item>
+<item catid="8.37.0.0.0" label="Beweging"/>
+<item catid="8.1.0.0.0" label="Bibliotheken">
+<item catid="8.1.1.0.0" label="Openbare bibliotheken"/>
+<item catid="8.1.2.0.0" label="Gespecialiseerde bibliotheken"/>
+<item catid="8.1.3.0.0" label="Wetenschappelijke bibliotheken"/>
+<item catid="8.1.4.0.0" label="Schoolbibliotheken"/>
+</item>
+<item catid="8.12.0.0.0" label="Boekingskantoren"/>
+<item catid="8.42.0.0.0" label="Boerderij (landbouwbedrijf)"/>
+<item catid="8.7.0.0.0" label="Casino's"/>
+<item catid="8.8.0.0.0" label="Clubs en Cafés"/>
+<item catid="8.6.0.0.0" label="Culturele- en Gemeenschapscentra"/>
+<item catid="8.27.0.0.0" label="Diamant en Juweelnijverheid"/>
+<item catid="8.32.0.0.0" label="Discotheken"/>
+<item catid="8.26.0.0.0" label="Grafische industrie"/>
+<item catid="8.43.0.0.0" label="Grootwarenhuis"/>
+<item catid="8.28.0.0.0" label="Havens"/>
+<item catid="8.29.0.0.0" label="Hotels"/>
+<item catid="8.30.0.0.0" label="Jeugdherbergen"/>
+<item catid="8.21.0.0.0" label="Jeugdorganisaties">
+<item catid="8.21.1.0.0" label="Jeugdcentra"/>
+<item catid="8.21.2.0.0" label="Jongereninformatiepunten (JIP's)"/>
+<item catid="8.21.3.0.0" label="Jeugdateliers"/>
+<item catid="8.21.4.0.0" label="Jeugdhuizen"/>
+<item catid="8.21.5.0.0" label="Jeugddiensten"/>
+<item catid="8.21.6.0.0" label="Jeugdraden"/>
+<item catid="8.21.7.0.0" label="Zuilgebonden Jeugdverenigingen"/>
+<item catid="8.21.8.0.0" label="Andere Jeugdverenigingen"/>
+</item>
+<item catid="8.4.0.0.0" label="Kunstgalerijen"/>
+<item catid="8.5.0.0.0" label="Kunstencentra">
+<item catid="8.5.1.0.0" label="Erkende kunstencentra"/>
+<item catid="8.5.2.0.0" label="Niet-erkende kunstencentra"/>
+</item>
+<item catid="8.15.0.0.0" label="Lokatie"/>
+<item catid="8.16.0.0.0" label="Lokator"/>
+<item catid="8.13.0.0.0" label="Managementbureau's"/>
+<item catid="8.39.0.0.0" label="Materialen en benodigdheden"/>
+<item catid="8.19.0.0.0" label="Mediamaatschappijen"/>
+<item catid="8.3.0.0.0" label="Musea">
+<item catid="8.3.1.0.0" label="Erkende musea"/>
+<item catid="8.3.2.0.0" label="Niet-erkende musea"/>
+</item>
+<item catid="8.10.0.0.0" label="Onderwijsinstellingen">
+<item catid="8.10.1.0.0" label="Deeltijds Kunstonderwijs"/>
+<item catid="8.10.2.0.0" label="Kleuter- en Lageronderwijs"/>
+<item catid="8.10.3.0.0" label="Secundair Onderwijs"/>
+<item catid="8.10.4.0.0" label="Hoger Onderwijs"/>
+<item catid="8.10.5.0.0" label="Universitair Onderwijs"/>
+<item catid="8.10.6.0.0" label="Volwassenenonderwijs (formeel)"/>
+</item>
+<item catid="8.11.0.0.0" label="Organisatoren van aanbod"/>
+<item catid="8.22.0.0.0" label="Overheidsinstellingen">
+<item catid="8.22.1.0.0" label="Vlaams"/>
+<item catid="8.22.2.0.0" label="Provinciaal"/>
+<item catid="8.22.3.0.0" label="Lokaal"/>
+</item>
+<item catid="8.25.0.0.0" label="Pers"/>
+<item catid="8.24.0.0.0" label="Politieke partijen"/>
+<item catid="8.17.0.0.0" label="Producent"/>
+<item catid="8.14.0.0.0" label="Reservatie- en Verkooppunten"/>
+<item catid="8.44.0.0.0" label="Restaurants"/>
+<item catid="8.20.0.0.0" label="Sociaal-Culturele Volwassenenorganisaties">
+<item catid="8.20.1.0.0" label="Verenigingen"/>
+<item catid="8.20.2.0.0" label="Bewegingen"/>
+<item catid="8.20.3.0.0" label="Vormingsinstellingen">
+<item catid="8.20.3.1.0" label="Gespecialiseerde vormingsinstellingen"/>
+<item catid="8.20.3.2.0" label="Volkshogescholen"/>
+<item catid="8.20.3.3.0" label="Andere"/>
+</item>
+<item catid="8.20.4.0.0" label="Andere"/>
+</item>
+<item catid="8.34.0.0.0" label="Steunpunten en Koepelorganisaties"/>
+<item catid="8.33.0.0.0" label="Thema- en Pretparken"/>
+<item catid="8.18.0.0.0" label="Uitgeverijen en platenmaatschappijen"/>
+<item catid="8.31.0.0.0" label="Vakantie- en Kampeercentra"/>
+<item catid="8.35.0.0.0" label="Vereniging"/>
+<item catid="8.9.0.0.0" label="Vertoonplaatsen Film">
+<item catid="8.9.1.0.0" label="Bioscopen"/>
+<item catid="8.9.2.0.0" label="Filmmusea"/>
+<item catid="8.9.3.0.0" label="Filmzalen"/>
+</item>
+<item catid="8.45.0.0.0" label="Voedingsbedrijf"/>
+<item catid="8.36.0.0.0" label="Vormingsinstelling"/>
+<item catid="8.40.0.0.0" label="Winkel"/>
+</item>
+<item catid="Type_Persoon" label="Type_Persoon">
+<item catid="9.19.0.0.0" label="Andere types van persoon"/>
+<item catid="9.0.0.0.0" label="Organisatoren"/>
+<item catid="9.1.0.0.0" label="Reservatoren"/>
+<item catid="9.18.0.0.0" label="Uitvoerders">
+<item catid="9.12.0.0.0" label="Acteurs"/>
+<item catid="9.21.0.0.0" label="Architect"/>
+<item catid="9.2.0.0.0" label="Auteurs"/>
+<item catid="9.4.0.0.0" label="Beeldende kunstenaars"/>
+<item catid="9.8.0.0.0" label="Choreografen"/>
+<item catid="9.3.0.0.0" label="Componisten"/>
+<item catid="9.13.0.0.0" label="Curatoren"/>
+<item catid="9.9.0.0.0" label="Dansers"/>
+<item catid="9.7.0.0.0" label="Dirigenten"/>
+<item catid="9.14.0.0.0" label="DJ"/>
+<item catid="9.15.0.0.0" label="Docent"/>
+<item catid="9.11.0.0.0" label="Muzikanten"/>
+<item catid="9.16.0.0.0" label="Vormgever"/>
+<item catid="9.5.0.0.0" label="Producenten"/>
+<item catid="9.6.0.0.0" label="Regisseurs"/>
+<item catid="9.17.0.0.0" label="Spreker"/>
+<item catid="9.10.0.0.0" label="Zangers"/>
+</item>
+</item>
+<item catid="Type_Link" label="Type_Link">
+<item catid="10.0.0.0.0" label="Gespecialiseerde startpunten, portalen en Cultuuragenda's"/>
+<item catid="10.2.0.0.0" label="Algemene Startpunten, Portalen, en Cultuuragenda's"/>
+<item catid="10.3.0.0.0" label="Virtuele tentoonstellingen"/>
+<item catid="10.4.0.0.0" label="Webart"/>
+<item catid="10.5.0.0.0" label="Forums, Communities, Chatten"/>
+<item catid="10.6.0.0.0" label="Weblogs"/>
+<item catid="10.7.0.0.0" label="E-commerce en Veilingsites"/>
+<item catid="10.8.0.0.0" label="Nieuws- en media-sites"/>
+<item catid="10.9.0.0.0" label="Multimediasites"/>
+<item catid="10.10.0.0.0" label="Educatieve sites"/>
+<item catid="10.11.0.0.0" label="Fansites"/>
+<item catid="10.12.0.0.0" label="Officiële sites"/>
+<item catid="10.13.0.0.0" label="Overheidssites"/>
+<item catid="10.14.0.0.0" label="Webcatalogi"/>
+</item>
+<item catid="Systeemcategorieen" label="Systeemcategorieen">
+<item catid="SysBase_component" label="SysBase_component">
+<item catid="100.0.0.0.0" label="Synoniem publieksnaam"/>
+<item catid="100.1.0.0.0" label="Juridische naam"/>
+<item catid="100.7.0.0.0" label="Vertaling juridische naam"/>
+<item catid="100.2.0.0.0" label="NIS-code"/>
+<item catid="100.3.0.0.0" label="Cnet Id categorie"/>
+<item catid="100.4.0.0.0" label="Partner Id categorie"/>
+<item catid="100.5.0.0.0" label="synoniem categorie"/>
+</item>
+<item catid="SysMedia" label="SysMedia">
+<item catid="101.0.0.0.0" label="prijsomschrijvingen en kortingen"/>
+<item catid="101.1.0.0.0" label="lange omschrijving"/>
+<item catid="101.2.0.0.0" label="wegbeschrijving"/>
+<item catid="101.3.0.0.0" label="foto"/>
+<item catid="101.3.1.0.0" label="logo"/>
+<item catid="101.3.2.0.0" label="affiche"/>
+<item catid="101.3.3.0.0" label="audio"/>
+<item catid="101.3.4.0.0" label="video"/>
+<item catid="101.3.5.0.0" label="brochure"/>
+<item catid="101.3.6.0.0" label="tekst"/>
+<item catid="101.3.7.0.0" label="andere"/>
+<item catid="101.4.0.0.0" label="toegangsvoorwaarden"/>
+<item catid="101.5.0.0.0" label="openingstijden niet-gestructureerd"/>
+</item>
+<item catid="SysOrganisatie" label="SysOrganisatie">
+<item catid="102.0.0.0.0" label="is ouder van"/>
+<item catid="102.2.0.0.0" label="heeft als sublokatie"/>
+<item catid="102.3.0.0.0" label="andere"/>
+<item catid="103.0.0.0.0" label="contact"/>
+<item catid="103.1.0.0.0" label="reservatie"/>
+<item catid="103.2.0.0.0" label="lokatie"/>
+<item catid="104.0.0.0.0" label="GIS-parking"/>
+<item catid="104.1.0.0.0" label="GIS-ingang"/>
+</item>
+<item catid="SysCity_area" label="SysCity_area">
+<item catid="105.0.0.0.0" label="wijk"/>
+<item catid="105.1.0.0.0" label="district"/>
+<item catid="105.2.0.0.0" label="deelgemeente"/>
+</item>
+<item catid="Relatiecategorieen" label="Relatiecategorieen">
+<item catid="RelOrganisatieOrganisatie" label="RelOrganisatieOrganisatie">
+<item catid="102.0.0.0.0" label="is ouder van"/>
+<item catid="102.2.0.0.0" label="heeft als sublokatie"/>
+<item catid="102.3.0.0.0" label="andere"/>
+</item>
+<item catid="RelOrganisatiePersoon" label="RelOrganisatiePersoon">
+<item catid="107.0.0.0.0" label="andere"/>
+</item>
+<item catid="RelPersoonPersoon" label="RelPersoonPersoon">
+<item catid="108.0.0.0.0" label="andere"/>
+</item>
+<item catid="RelEvent_clusterEvent_cluster" label="RelEvent_clusterEvent_cluster">
+<item catid="109.0.0.0.0" label="omvat volgend aanbod"/>
+<item catid="109.1.0.0.0" label="in het kader van"/>
+<item catid="109.2.0.0.0" label="is productie voor"/>
+<item catid="109.3.0.0.0" label="andere"/>
+</item>
+<item catid="RelEvent_clusterOrganisatie" label="RelEvent_clusterOrganisatie">
+<item catid="106.0.0.0.0" label="lokatie"/>
+<item catid="106.1.0.0.0" label="organisator"/>
+<item catid="106.2.0.0.0" label="producent"/>
+<item catid="106.3.0.0.0" label="uitvoerder"/>
+<item catid="106.4.0.0.0" label="reservator"/>
+<item catid="106.5.0.0.0" label="algemeen"/>
+<item catid="106.6.0.0.0" label="andere"/>
+<item catid="106.7.0.0.0" label="sublokatie"/>
+</item>
+<item catid="RelEvent_clusterPersoon" label="RelEvent_clusterPersoon">
+<item catid="106.1.0.0.0" label="organisator"/>
+<item catid="106.2.0.0.0" label="producent"/>
+<item catid="106.3.0.0.0" label="uitvoerder"/>
+<item catid="106.4.0.0.0" label="reservator"/>
+<item catid="106.5.0.0.0" label="algemeen"/>
+<item catid="106.6.0.0.0" label="andere"/>
+</item>
+</item>
+<item catid="DimensieOnbepaald" label="DimensieOnbepaald">
+<item catid="0.51.0.0.0" label="Type aanbod onbepaald"/>
+<item catid="1.58.0.0.0" label="Thema onbepaald"/>
+<item catid="6.5.0.0.0" label="Geografische doelgroep onbepaald"/>
+<item catid="7.2.0.0.0" label="Sector onbepaald"/>
+<item catid="8.41.0.0.0" label="Type organisatie onbepaald"/>
+<item catid="9.20.0.0.0" label="Type persoon onbepaald"/>
+<item catid="10.16.0.0.0" label="Type link onbepaald"/>
+</item>
+</item>
+</categorisation>
+</cdbxml>

@@ -1,0 +1,15 @@
+1. Save the GHGP list in T:\XSLT\CDB_2.3_CDB_3.0\xslt\VRT_XSLT
+
+2. Open it
+
+3. Delete the first two lines and save it as a CSV with name GHGP_List.csv 
+
+4. Open xml spy.
+
+5. Go to Convert/Input Text file select Convert CSV file into XML and then browse for the csv.
+
+6. Select ; for the file delimiter, choose Text enclosed in, Input file encoding : ISO88591 and check the first row contains field names box. Then hit import.
+
+7. click on the top of the empty column, seen as () then right click and delete it.
+
+8. Save as T:\XSLT\CDB_2.3_CDB_3.0\xslt\VRT_XSLT\read_only\GHGP_list.xml

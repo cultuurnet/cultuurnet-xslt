@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2006 U (http://www.altova.com) by Julian Cox (Cultuurnet Vlaanderen) -->
+<Import>
+	<Row>
+		<CNetID>10.0.0.0.0</CNetID>
+		<Niveau_1>Gespecialiseerde startpunten, portalen en Cultuuragenda�s</Niveau_1>
+		<Synoniemen>Cultuuragenda, agenda</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>10.2.0.0.0</CNetID>
+		<Niveau_1>Algemene Startpunten, Portalen, en Cultuuragenda�s</Niveau_1>
+		<Synoniemen>Startpunt, Portaal, linkenpagina</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>10.3.0.0.0</CNetID>
+		<Niveau_1>Virtuele tentoonstellingen</Niveau_1>
+		<Synoniemen>Virtuele tentoonstelling</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>10.4.0.0.0</CNetID>
+		<Niveau_1>Webart</Niveau_1>
+		<Synoniemen>Forum, community</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>10.5.0.0.0</CNetID>
+		<Niveau_1>Forums, Communities, Chatten</Niveau_1>
+		<Synoniemen>Blog, Weblog</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>10.6.0.0.0</CNetID>
+		<Niveau_1>Weblogs</Niveau_1>
+		<Synoniemen>Veilingsite</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>10.7.0.0.0</CNetID>
+		<Niveau_1>E-commerce en Veilingsites</Niveau_1>
+		<Synoniemen>Mediasite</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>10.8.0.0.0</CNetID>
+		<Niveau_1>Nieuwsen media-sites</Niveau_1>
+		<Synoniemen>Multimediasite</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>10.9.0.0.0</CNetID>
+		<Niveau_1>Multimediasites</Niveau_1>
+		<Synoniemen>Educatieve site</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>10.10.0.0.0</CNetID>
+		<Niveau_1>Educatieve sites</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>10.11.0.0.0</CNetID>
+		<Niveau_1>Fansites</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>10.12.0.0.0</CNetID>
+		<Niveau_1>Officiële sites</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>10.13.0.0.0</CNetID>
+		<Niveau_1>Overheidssites</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>10.14.0.0.0</CNetID>
+		<Niveau_1>Webcatalogi</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>10.15.0.0.0</CNetID>
+		<Niveau_1>Andere types linken</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>10.16.0.0.0</CNetID>
+		<Niveau_1>Type link onbepaald</Niveau_1>
+	</Row>
+</Import>

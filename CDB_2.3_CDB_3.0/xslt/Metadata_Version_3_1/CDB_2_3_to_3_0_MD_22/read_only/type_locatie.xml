@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2006 U (http://www.altova.com) by Julian Cox (Cultuurnet Vlaanderen) -->
+<Import>
+	<Row>
+		<CNetID>4.0.0.0.0</CNetID>
+		<Niveau_1>Openlucht </Niveau_1>
+		<Synoniemen>Outdoor, buitenlucht</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>4.1.0.0.0</CNetID>
+		<Niveau_1>Indoor</Niveau_1>
+		<Synoniemen>Overdekt</Synoniemen>
+	</Row>
+</Import>

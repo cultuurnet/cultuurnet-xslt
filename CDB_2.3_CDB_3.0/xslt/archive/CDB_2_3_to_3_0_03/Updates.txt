@@ -1,0 +1,2 @@
+01 -> 02 : Make sure that a person who is an organisator is treated correctly.
+02 -> 03 : Make sure that a person who is an organisator is treated correctly: contact info.

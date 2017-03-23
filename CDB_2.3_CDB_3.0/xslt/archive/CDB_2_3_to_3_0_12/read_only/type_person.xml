@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2006 U (http://www.altova.com) by Julian Cox (Cultuurnet Vlaanderen) -->
+<Import>
+	<Row>
+		<CNetID>9.19.0.0.0</CNetID>
+		<Niveau_1>Andere types van persoon</Niveau_1>
+		<Synoniemen>Beeldend kunstenaar, Fotograaf, schilder, beeldhouwer, graficus, tekenaar</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>9.0.0.0.0</CNetID>
+		<Niveau_1>Organisatoren</Niveau_1>
+		<Synoniemen>Directeur, Tentoonstellingsdirecteur, Beheerder,  Tentoonstellingsbeheerder, Conservator, bewaarder</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>9.1.0.0.0</CNetID>
+		<Niveau_1>Reservatoren </Niveau_1>
+		<Synoniemen>diskjockey</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>9.18.0.0.0</CNetID>
+		<Niveau_1>Uitvoerders</Niveau_1>
+		<Synoniemen>cursusleider, lesgever, begeleider</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>9.12.0.0.0</CNetID>
+		<Niveau_1>Acteurs </Niveau_1>
+		<Synoniemen>Designer, ontwerper</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>9.20.0.0.0</CNetID>
+		<Niveau_1>Architect</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.2.0.0.0</CNetID>
+		<Niveau_1>Auteurs</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.4.0.0.0</CNetID>
+		<Niveau_1>Beeldende kunstenaars</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.8.0.0.0</CNetID>
+		<Niveau_1>Choreografen </Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.3.0.0.0</CNetID>
+		<Niveau_1>Componisten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.13.0.0.0</CNetID>
+		<Niveau_1>Curatoren</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.9.0.0.0</CNetID>
+		<Niveau_1>Dansers</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.7.0.0.0</CNetID>
+		<Niveau_1>Dirigenten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.14.0.0.0</CNetID>
+		<Niveau_1>dj</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.15.0.0.0</CNetID>
+		<Niveau_1>docent</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.11.0.0.0</CNetID>
+		<Niveau_1>Muzikanten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.16.0.0.0</CNetID>
+		<Niveau_1>Vormgever</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.5.0.0.0</CNetID>
+		<Niveau_1>Producenten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.6.0.0.0</CNetID>
+		<Niveau_1>Regisseurs</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.17.0.0.0</CNetID>
+		<Niveau_1>Spreker</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.10.0.0.0</CNetID>
+		<Niveau_1>Zangers</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>9.18.0.0.0</CNetID>
+		<Niveau_1>Type persoon onbepaald</Niveau_1>
+	</Row>
+</Import>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2006 U (http://www.altova.com) by Julian Cox (Cultuurnet Vlaanderen) -->
+<Import>
+	<Row>
+		<CNetID>6.0.0.0.0</CNetID>
+		<Niveau_1>Wijk/buurt</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>6.1.0.0.0</CNetID>
+		<Niveau_1>Lokaal</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>6.2.0.0.0</CNetID>
+		<Niveau_1>Regionaal</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>6.3.0.0.0</CNetID>
+		<Niveau_1>Nationaal</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>6.4.0.0.0</CNetID>
+		<Niveau_1>Internationaal</Niveau_1>
+	</Row>
+	<!-- dont use this one 
+	<Row>
+		<CNetID>6.5.0.0.0</CNetID>
+		<Niveau_1>Geografische doelgroep onbepaald</Niveau_1>
+	</Row>
+-->
+</Import>

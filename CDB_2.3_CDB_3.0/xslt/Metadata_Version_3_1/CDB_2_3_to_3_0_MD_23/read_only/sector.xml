@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2006 U (http://www.altova.com) by Julian Cox (Cultuurnet Vlaanderen) -->
+<Import>
+	<Row>
+		<CNetID>7.0.0.0.0</CNetID>
+		<Niveau_1>Niet � professionele sector</Niveau_1>
+		<Synoniemen>Amateurkunsten, amateur</Synoniemen>
+	</Row>
+	<Row>
+		<CNetID>7.1.0.0.0</CNetID>
+		<Niveau_1>Professionele sector</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>7.2.0.0.0</CNetID>
+		<Niveau_1>Sector onbepaald</Niveau_1>
+	</Row>
+</Import>

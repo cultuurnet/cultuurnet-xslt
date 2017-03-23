@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2006 U (http://www.altova.com) by Julian Cox (Cultuurnet Vlaanderen) -->
+<!-- updated 5 March 2007 to add IPE_ categories -->
+<Import>
+	<Row>
+		<CNetID>1.2.0.0.0</CNetID>
+		<Niveau_1>Architectuur en Vormgeving</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.2.1.0.0</CNetID>
+		<Niveau_1>Architectuur</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.2.1.1.0</CNetID>
+		<Niveau_1>Architectuur uit de oudheid</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.2.1.2.0</CNetID>
+		<Niveau_1>Gotiek </Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.2.1.3.0</CNetID>
+		<Niveau_1>Renaissance</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.2.1.4.0</CNetID>
+		<Niveau_1>Barok</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.2.1.5.0</CNetID>
+		<Niveau_1>Classicisme</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.2.1.6.0</CNetID>
+		<Niveau_1>Romantiek</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.2.1.7.0</CNetID>
+		<Niveau_1>Realisme</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.2.1.8.0</CNetID>
+		<Niveau_1>Jugendstil of Art nouveau</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.2.1.9.0</CNetID>
+		<Niveau_1>Moderne en Hedendaagse Architectuur</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.2.1.10.0</CNetID>
+		<Niveau_1>Niet-hedendaagse architectuur</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.2.2.0.0</CNetID>
+		<Niveau_1>Design</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.49.0.0.0</CNetID>
+		<Niveau_1>Mode</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.1.0.0.0</CNetID>
+		<Niveau_1>Audiovisuele kunsten </Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.0.0.0</CNetID>
+		<Niveau_1>Beeldende kunsten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.1.0.0</CNetID>
+		<Niveau_1>Schilderkunst</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.1.1.0</CNetID>
+		<Niveau_1>Schilderkunst uit de Oudheid</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.1.2.0</CNetID>
+		<Niveau_1>Middeleeuwse schilderkunst</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.1.3.0</CNetID>
+		<Niveau_1>Renaissance</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.1.4.0</CNetID>
+		<Niveau_1>Barok</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.1.5.0</CNetID>
+		<Niveau_1>Classicisme</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.1.6.0</CNetID>
+		<Niveau_1>Romantiek</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.1.7.0</CNetID>
+		<Niveau_1>Realisme</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.1.8.0</CNetID>
+		<Niveau_1>Impressionisme</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.1.9.0</CNetID>
+		<Niveau_1>Moderne schilderkunst (voor 1945)</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.1.10.0</CNetID>
+		<Niveau_1>Moderne en hedendaagse schilderkunst (na 1945)</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.1.11.0</CNetID>
+		<Niveau_1>Niet-Westerse schilderkunst</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.1.12.0</CNetID>
+		<Niveau_1>Niet-hedendaagse schilderkunst</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.2.0.0</CNetID>
+		<Niveau_1>Beeldhouwkunst</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.2.1.0</CNetID>
+		<Niveau_1>Beeldhouwkunst uit de oudheid</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.2.2.0</CNetID>
+		<Niveau_1>Middeleeuwse beeldhouwkunst</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.2.3.0</CNetID>
+		<Niveau_1>Renaissance</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.2.4.0</CNetID>
+		<Niveau_1>Classicisme</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.2.5.0</CNetID>
+		<Niveau_1>Romantiek</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.2.6.0</CNetID>
+		<Niveau_1>Realisme</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.2.7.0</CNetID>
+		<Niveau_1>Moderne beeldhouwkunst </Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.2.8.0</CNetID>
+		<Niveau_1>Moderne en hedendaagse beeldhouwkunst (na 1945)</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.2.9.0</CNetID>
+		<Niveau_1>Niet-Westerse beeldhouwkunst</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.2.10.0</CNetID>
+		<Niveau_1>Niet-hedendaagse beeldhouwkunst</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.3.0.0</CNetID>
+		<Niveau_1>Installatiekunst</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.4.0.0</CNetID>
+		<Niveau_1>Grafische kunst</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.5.0.0</CNetID>
+		<Niveau_1>Kunstambachten en decoratieve kunst</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.6.0.0</CNetID>
+		<Niveau_1>Fotografie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.6.1.0</CNetID>
+		<Niveau_1>Primitieve fotografie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.6.2.0</CNetID>
+		<Niveau_1>Portretten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.6.3.0</CNetID>
+		<Niveau_1>Modelfotografie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.6.4.0</CNetID>
+		<Niveau_1>Industrie �en reclamefotografie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.6.5.0</CNetID>
+		<Niveau_1>Fotojournalisme en Reportagefotografie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.6.7.0</CNetID>
+		<Niveau_1>Surrealisme en experimentele fotografie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.6.8.0</CNetID>
+		<Niveau_1>Landschaps �en natuurfotografie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.6.9.0</CNetID>
+		<Niveau_1>Architectuurfotografie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.7.0.0</CNetID>
+		<Niveau_1>Moderne en hedendaagse beeldende kunst (na 1945)</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.0.8.0.0</CNetID>
+		<Niveau_1>Niet-hedendaagse beeldende kunst (voor 1945)</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.9.0.0.0</CNetID>
+		<Niveau_1>Dans</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.9.1.0.0</CNetID>
+		<Niveau_1>Klassieke dans en Ballet</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.9.2.0.0</CNetID>
+		<Niveau_1>Hedendaagse dans</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.9.3.0.0</CNetID>
+		<Niveau_1>Volksdans</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.9.4.0.0</CNetID>
+		<Niveau_1>Werelddans</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.9.5.0.0</CNetID>
+		<Niveau_1>Stijl- en Salondansen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.7.0.0.0</CNetID>
+		<Niveau_1>Film</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.7.1.0.0</CNetID>
+		<Niveau_1>Reportages en Documentaires</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.7.2.0.0</CNetID>
+		<Niveau_1>Actie en Avontuur</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.7.3.0.0</CNetID>
+		<Niveau_1>Komedie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.7.4.0.0</CNetID>
+		<Niveau_1>Romantiek en melodrama</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.7.5.0.0</CNetID>
+		<Niveau_1>Thriller en Misdaad</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.7.6.0.0</CNetID>
+		<Niveau_1>Horror</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.7.7.0.0</CNetID>
+		<Niveau_1>Science fiction </Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.7.8.0.0</CNetID>
+		<Niveau_1>Historische Films</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.7.9.0.0</CNetID>
+		<Niveau_1>Sociaal geëngageerde films</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.7.10.0.0</CNetID>
+		<Niveau_1>Filmmusicals</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.7.11.0.0</CNetID>
+		<Niveau_1>Muziekfilms, dansfilms, en kunstfilms</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.7.12.0.0</CNetID>
+		<Niveau_1>Tekenfilms </Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.10.0.0.0</CNetID>
+		<Niveau_1>Literatuur</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.10.1.0.0</CNetID>
+		<Niveau_1>Roman</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.10.2.0.0</CNetID>
+		<Niveau_1>Toneelteksten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.10.3.0.0</CNetID>
+		<Niveau_1>Kortverhaal</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.10.4.0.0</CNetID>
+		<Niveau_1>Essay</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.10.5.0.0</CNetID>
+		<Niveau_1>Poëzie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.10.6.0.0</CNetID>
+		<Niveau_1>Cursief</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.10.7.0.0</CNetID>
+		<Niveau_1>Column</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.10.8.0.0</CNetID>
+		<Niveau_1>Beeldverhaal</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.10.9.0.0</CNetID>
+		<Niveau_1>Wetenschappelijke boeken</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.10.10.0.0</CNetID>
+		<Niveau_1>Informatieve boeken</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.8.0.0.0</CNetID>
+		<Niveau_1>Muziek</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.8.1.0.0</CNetID>
+		<Niveau_1>Klassieke muziek</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.8.1.5.0</CNetID>
+		<Niveau_1>Gregoriaans</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.8.1.1.0</CNetID>
+		<Niveau_1>Oude muziek</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.8.1.2.0</CNetID>
+		<Niveau_1>Barokmuziek</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.8.1.6.0</CNetID>
+		<Niveau_1>Classicisme</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.8.1.3.0</CNetID>
+		<Niveau_1>Romantische klassieke muziek</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.8.1.4.0</CNetID>
+		<Niveau_1>Hedendaagse klassieke muziek</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.8.2.0.0</CNetID>
+		<Niveau_1>Jazz en blues</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.8.3.0.0</CNetID>
+		<Niveau_1>Moderne muziek</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.8.3.1.0</CNetID>
+		<Niveau_1>Pop en rock</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.8.3.2.0</CNetID>
+		<Niveau_1>Rap en hip-hop</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.8.3.3.0</CNetID>
+		<Niveau_1>Dance</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.8.3.4.0</CNetID>
+		<Niveau_1>Chanson en kleinkunst</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.8.3.5.0</CNetID>
+		<Niveau_1>Amusementsmuziek</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.8.4.0.0</CNetID>
+		<Niveau_1>Wereldmuziek</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.3.0.0.0</CNetID>
+		<Niveau_1>Theater</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.3.1.0.0</CNetID>
+		<Niveau_1>Teksttheater</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.3.2.0.0</CNetID>
+		<Niveau_1>Muziektheater</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.3.3.0.0</CNetID>
+		<Niveau_1>Improvisatietheater</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.3.4.0.0</CNetID>
+		<Niveau_1>Mimetheater</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.3.5.0.0</CNetID>
+		<Niveau_1>Figuren �en Objectentheater</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.3.6.0.0</CNetID>
+		<Niveau_1>Verteltheater en Voordracht</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.3.7.0.0</CNetID>
+		<Niveau_1>Multimediatheater</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.3.8.0.0</CNetID>
+		<Niveau_1>Cabaret en Variété</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.3.9.0.0</CNetID>
+		<Niveau_1>Revue en Show</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.4.0.0.0</CNetID>
+		<Niveau_1>Musical </Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.5.0.0.0</CNetID>
+		<Niveau_1>Opera</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.40.0.0.0</CNetID>
+		<Niveau_1>Cultureel erfgoed</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.11.0.0.0</CNetID>
+		<Niveau_1>Geschiedenis</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.11.1.0.0</CNetID>
+		<Niveau_1>Europese geschiedenis</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.11.1.1.0</CNetID>
+		<Niveau_1>Prehistorie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.11.1.2.0</CNetID>
+		<Niveau_1>Klassieke oudheid</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.11.1.3.0</CNetID>
+		<Niveau_1>Middeleeuwen </Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.11.1.4.0</CNetID>
+		<Niveau_1>Nieuwe tijden (moderne tijden)</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.11.1.5.0</CNetID>
+		<Niveau_1>Nieuwste tijden (hedendaagse tijden)</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.11.1.6.0</CNetID>
+		<Niveau_1>Hedendaagse tijden </Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.11.2.0.0</CNetID>
+		<Niveau_1>Geschiedenis van Zuiden Midden-Amerika</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.11.3.0.0</CNetID>
+		<Niveau_1>Geschiedenis van het Nabije Oosten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.11.4.0.0</CNetID>
+		<Niveau_1>Aziatische geschiedenis</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.11.5.0.0</CNetID>
+		<Niveau_1>Afrikaanse geschiedenis</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.11.6.0.0</CNetID>
+		<Niveau_1>Noord-Amerikaanse geschiedenis</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.11.7.0.0</CNetID>
+		<Niveau_1>Geschiedenis van Oceanië</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.52.0.0.0</CNetID>
+		<Niveau_1>Mens en maatschappij</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.39.0.0.0</CNetID>
+		<Niveau_1>Consumentenvorming</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.33.0.0.0</CNetID>
+		<Niveau_1>Criminaliteit</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.36.0.0.0</CNetID>
+		<Niveau_1>Gezondheid en Zorg</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.35.0.0.0</CNetID>
+		<Niveau_1>Landbouw</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.27.0.0.0</CNetID>
+		<Niveau_1>Maatschappij</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.34.0.0.0</CNetID>
+		<Niveau_1>Milieu en natuur</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.12.0.0.0</CNetID>
+		<Niveau_1>Oorlog en Vrede</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.53.0.0.0</CNetID>
+		<Niveau_1>Vorming en onderwijs</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.42.0.0.0</CNetID>
+		<Niveau_1>Creativiteit en expressie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.43.0.0.0</CNetID>
+		<Niveau_1>Interculturele vorming</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.41.0.0.0</CNetID>
+		<Niveau_1>Kunsteducatie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.37.0.0.0</CNetID>
+		<Niveau_1>Opvoeding en Onderwijs</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.45.0.0.0</CNetID>
+		<Niveau_1>Persoonlijkheidsvorming </Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.46.0.0.0</CNetID>
+		<Niveau_1>Relationele vorming</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.47.0.0.0</CNetID>
+		<Niveau_1>Sociale en communicatieve vaardigheden</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.38.0.0.0</CNetID>
+		<Niveau_1>Werk en Loopbaan</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.44.0.0.0</CNetID>
+		<Niveau_1>Zingeving en Religie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.22.0.0.0</CNetID>
+		<Niveau_1>Over de media</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.22.1.0.0</CNetID>
+		<Niveau_1>TV</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.22.2.0.0</CNetID>
+		<Niveau_1>Radio</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.22.3.0.0</CNetID>
+		<Niveau_1>Krant</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.22.4.0.0</CNetID>
+		<Niveau_1>Tijdschriften</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.22.5.0.0</CNetID>
+		<Niveau_1>Internet</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.25.0.0.0</CNetID>
+		<Niveau_1>Wetenschappen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.25.1.0.0</CNetID>
+		<Niveau_1>Aardrijkskunde</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.25.2.0.0</CNetID>
+		<Niveau_1>Antropologie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.14.0.0.0</CNetID>
+		<Niveau_1>Archeologie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.15.3.0.0</CNetID>
+		<Niveau_1>Industriële Archeologie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.25.3.0.0</CNetID>
+		<Niveau_1>Astronomie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.25.4.0.0</CNetID>
+		<Niveau_1>Biologie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.25.8.0.0</CNetID>
+		<Niveau_1>Biotechnologie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.28.0.0.0</CNetID>
+		<Niveau_1>Economie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.54.0.0.0</CNetID>
+		<Niveau_1>Filosofie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.25.5.0.0</CNetID>
+		<Niveau_1>Geneeskunde</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.24.0.0.0</CNetID>
+		<Niveau_1>Informatica</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.25.14.0.0</CNetID>
+		<Niveau_1>Kunstwetenschappen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.25.16.0.0</CNetID>
+		<Niveau_1>Letterkunde</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.25.6.0.0</CNetID>
+		<Niveau_1>Natuurkunde</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.29.0.0.0</CNetID>
+		<Niveau_1>Politiek</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.25.10.0.0</CNetID>
+		<Niveau_1>Psychologie en Psychiatrie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.32.0.0.0</CNetID>
+		<Niveau_1>Recht</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.25.7.0.0</CNetID>
+		<Niveau_1>Scheikunde</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.25.11.0.0</CNetID>
+		<Niveau_1>Sociologie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.25.15.0.0</CNetID>
+		<Niveau_1>Taalkunde</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.25.15.1.0</CNetID>
+		<Niveau_1>Dialectologie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.25.12.0.0</CNetID>
+		<Niveau_1>Theologie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.25.9.0.0</CNetID>
+		<Niveau_1>Weerkunde en Klimatologie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.25.13.0.0</CNetID>
+		<Niveau_1>Wiskunde</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.57.0.0.0</CNetID>
+		<Niveau_1>Recreatie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.51.0.0.0</CNetID>
+		<Niveau_1>Sport</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.51.1.0.0</CNetID>
+		<Niveau_1>Atletiek en loopsporten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.51.2.0.0</CNetID>
+		<Niveau_1>Balsporten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.51.3.0.0</CNetID>
+		<Niveau_1>Watersporten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.51.4.0.0</CNetID>
+		<Niveau_1>Wielersporten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.51.5.0.0</CNetID>
+		<Niveau_1>Racketsporten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.51.6.0.0</CNetID>
+		<Niveau_1>Gevechtssporten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.51.7.0.0</CNetID>
+		<Niveau_1>Wintersporten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.51.8.0.0</CNetID>
+		<Niveau_1>Autoen motorsporten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.51.9.0.0</CNetID>
+		<Niveau_1>Paardensporten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.51.10.0.0</CNetID>
+		<Niveau_1>Volkssporten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.51.11.0.0</CNetID>
+		<Niveau_1>Extreme sporten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.51.12.0.0</CNetID>
+		<Niveau_1>Andere</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.55.0.0.0</CNetID>
+		<Niveau_1>Uitgaan</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.56.0.0.0</CNetID>
+		<Niveau_1>Varia</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.56.1.0.0</CNetID>
+		<Niveau_1>Algemeen (cultuur, recreatie, sport, maatschappij,�)</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.56.2.0.0</CNetID>
+		<Niveau_1>Andere thema&apos;s</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.17.0.0.0</CNetID>
+		<Niveau_1>Antiek en Brocante</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.6.0.0.0</CNetID>
+		<Niveau_1>Circus</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.26.0.0.0</CNetID>
+		<Niveau_1>Cultuurbeleid</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.30.0.0.0</CNetID>
+		<Niveau_1>Dynastie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.50.0.0.0</CNetID>
+		<Niveau_1>Gastronomie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.50.1.0.0</CNetID>
+		<Niveau_1>Streekgastronomie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.56.3.0.0</CNetID>
+		<Niveau_1>Goochelen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.19.0.0.0</CNetID>
+		<Niveau_1>Muziekinstrumenten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.48.0.0.0</CNetID>
+		<Niveau_1>Populaire cultuur en hobby</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.31.0.0.0</CNetID>
+		<Niveau_1>Talen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.21.0.0.0</CNetID>
+		<Niveau_1>Techniek</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.20.0.0.0</CNetID>
+		<Niveau_1>Transportmiddelen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.59.0.0.0</CNetID>
+		<Niveau_1>Eetcultuur</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.15.0.0.0</CNetID>
+		<Niveau_1>Volkscultuur</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.15.1.0.0</CNetID>
+		<Niveau_1>Heemkunde en lokale geschiedenis</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.15.2.0.0</CNetID>
+		<Niveau_1>Familiekunde en genealogie</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.15.4.0.0</CNetID>
+		<Niveau_1>Volkskunde</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.15.5.0.0</CNetID>
+		<Niveau_1>volkscultuur beoefening en folklore</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.15.6.0.0</CNetID>
+		<Niveau_1>Andere</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.58.0.0.0</CNetID>
+		<Niveau_1>Thema onbepaald</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.60.0.0.0</CNetID>
+		<Niveau_1>IPE_Plattelandsbeleving</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.60.1.0.0</CNetID>
+		<Niveau_1>IPE_Verblijfslocaties</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.60.1.1.0</CNetID>
+		<Niveau_1>IPE_Verblijf op een actieve hoeve</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.60.1.2.0</CNetID>
+		<Niveau_1>IPE_Verblijf op het platteland</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.60.1.3.0</CNetID>
+		<Niveau_1>IPE_Verblijf in het dorp</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.60.2.0.0</CNetID>
+		<Niveau_1>IPE_Bezoekerslocatie/bezienswaardigheid</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.60.2.1.0</CNetID>
+		<Niveau_1>IPE_Kijkboerderij/bezoekersboerderij</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.60.2.2.0</CNetID>
+		<Niveau_1>IPE_Museum rond landbouw en platteland</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.60.2.3.0</CNetID>
+		<Niveau_1>IPE_Educatief centrum rond landbouw en platteland</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.60.2.4.0</CNetID>
+		<Niveau_1>IPE_Verkoopspunt hoeve- en streekproducten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.60.2.5.0</CNetID>
+		<Niveau_1>IPE_Open tuin</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.60.2.6.0</CNetID>
+		<Niveau_1>IPE_Andere bezienswaardigheden</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.60.2.7.0</CNetID>
+		<Niveau_1>IPE_Hoeve- en streekproducenten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.60.3.0.0</CNetID>
+		<Niveau_1>IPE_Routes</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.60.4.0.0</CNetID>
+		<Niveau_1>IPE_Arrangementen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.60.4.1.0</CNetID>
+		<Niveau_1>IPE_Plattelandsklas</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.60.4.2.0</CNetID>
+		<Niveau_1>IPE_Schoolreis</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.60.4.3.0</CNetID>
+		<Niveau_1>IPE_Groepsuitstap vereniging</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.60.4.4.0</CNetID>
+		<Niveau_1>IPE_Familie-uitstap</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.60.4.5.0</CNetID>
+		<Niveau_1>IPE_Bedrijfsuitstap</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.60.4.6.0</CNetID>
+		<Niveau_1>IPE_Indivuele activiteit</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>1.60.4.7.0</CNetID>
+		<Niveau_1>IPE_Andere arrangementen</Niveau_1>
+	</Row>
+</Import>

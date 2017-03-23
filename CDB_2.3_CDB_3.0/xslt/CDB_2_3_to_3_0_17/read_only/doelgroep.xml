@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2006 U (http://www.altova.com) by Julian Cox (Cultuurnet Vlaanderen) -->
+<Import>
+	<Row>
+		<CNetID>2.2.1.0.0</CNetID>
+		<Niveau_1>Vanaf kleuterleeftijd (3+)</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>2.2.2.0.0</CNetID>
+		<Niveau_1>Vanaf lagere schoolleeftijd (6+)</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>2.2.3.0.0</CNetID>
+		<Niveau_1>Jongeren vanaf 12 jaar (12+) </Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>2.2.4.0.0</CNetID>
+		<Niveau_1>Jongeren vanaf 15 jaar (15+)</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>2.2.5.0.0</CNetID>
+		<Niveau_1>Volwassenen (18+)</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>2.2.6.0.0</CNetID>
+		<Niveau_1>Senioren</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>2.1.9.0.0</CNetID>
+		<Niveau_1>Allochtonen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>2.1.1.0.0</CNetID>
+		<Niveau_1>Gezinnen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>2.1.10.0.0</CNetID>
+		<Niveau_1>Holebi</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>2.1.8.0.0</CNetID>
+		<Niveau_1>Kansarmen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>2.1.11.0.0</CNetID>
+		<Niveau_1>Personen met een handicap</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>2.1.3.0.0</CNetID>
+		<Niveau_1>Scholen</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>2.1.4.0.0</CNetID>
+		<Niveau_1>Studenten</Niveau_1>
+	</Row>
+	<Row>
+		<CNetID>2.1.12.0.0</CNetID>
+		<Niveau_1>Groepen (verenigingen)</Niveau_1>
+	</Row>
+</Import>

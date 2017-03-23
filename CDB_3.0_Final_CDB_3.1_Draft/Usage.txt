@@ -1,0 +1,4 @@
+Used to transform CDB XML 3.0F to 3.1 Draft
+Run in the following order
+Map_3_0_F_ToCdbXSD_3_1_D_fix_ns.xslt
+Map_3_0_F_ToCdbXSD_3_1_D_01.xslt

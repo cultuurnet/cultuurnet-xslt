@@ -1,0 +1,34 @@
+CDB_2.3_CDB_3.0  : Use the xslts to map CDB XML 2.3 to 3.0
+
+CDB_3.0_CDB_3.1 : Convert CDB XML 3.0 to 3.1
+
+CDB_3.0_Final_CDB_3.1_Draft : Used to transform CDB XML 3.0F to 3.1 Draft
+
+CDB_3.1_copy_media : Used to copy the media from various 3.1 xmls
+
+CDB_3_1_D_to_CDB_3_1_F: Used to transform CDB XML 3.1 Draft to 3.1 Final
+
+CDB_3_1_F_to_item : Convert CDB 3.1 XML detailed version to the list version
+
+CDB_3_1_to_3_2 : Transform CDB XML 3.1F to 3.2F
+
+CDB_3_2_F_to_item : Convert CDB 3.2 XML detailed version to the list version
+		    MDH-88 Add theme to list2 xslt 
+		    MDH-83 extends transform list 4 with new fields 
+		    MDH-82 Change the xslt used for mediahuis
+
+			
+CDB_3_2_to_3_1 : These xslts are used by SAPI to transform CDB XML 3.2 to CDB XML 3.1
+		 UDB-2411 fixing issues in xslt for transform=list
+		 CULTSAPI-289 Nieuwe xslt voor transformatie naar 3.1
+
+CDB_3_2_to_3_3 : Transform CDB XSD 3.2 Final to CDB XSD 3.3 Final
+		 MDH-79 xslt's for lodgon
+
+CDB_3_2_xmls : Use this on the Zap exports from the new IIS32 to remove the externalds of organisations and locations that end in :null
+
+CDB_3_3_to_3_2 : These xslts convert xml 3.3F to 3.2F and 3.3F to 3.1F
+		 MDH-73 Provide xslt to downgrade cdbxml
+		 MDH-79	xslt's for lodgon
+
+UDB_3_for_ETL : Used by R03 to transform the xml into a form used by the DWH tables

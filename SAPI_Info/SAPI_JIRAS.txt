@@ -1,0 +1,40 @@
+Jiras for sapi transpormations :
+--------------------------------
+PWK-438 Outputkanalen na exit sapi 1PWK-479 TicketURL op build.uitdatabank listview? (21/Sep/16)
+	Refers to CULTSAPI-289 Nieuwe xslt voor transformatie naar 3.1
+
+
+MDH-88 Add theme to list2 xslt (08/Aug/16)
+	Copy_3_2_F_to_CDB_3_1_F_mediahuis_07.xslt
+
+
+CULTSAPI-289 Nieuwe xslt voor transformatie naar 3.1 (19 February 2016)
+	Map_3_2_F_to_3_1_F_fix_ns.xslt
+	MapCDBXSD_3_2_ToCDB_XSD_3_1_01
+
+
+UDB-2411 fixing issues in xslt for transform=list (20/Nov/15 )
+	Map_3_2_F_to_3_1_F_fix_ns.xslt
+	MapCDBXSD_3_2_ToCDB_XSD_3_1_01	
+
+
+MDH-83 extends transform list 4 with new fields  (12/Aug/15 )
+	Copy_3_2_F_to_CDB_3_1_F_mediahuis_06.xslt
+
+
+MDH-82 Change the xslt used for mediahuis (18/May/15)
+	Copy_3_2_F_to_CDB_3_1_F_mediahuis_02.xslt
+
+
+MDH-79 xslt's for lodgon (27/Feb/15)
+	3.2 -> 3.3
+	3.3 -> list1 (wat nu Copy_3_2_F_to_CDB_3_1_F_item_01 is)
+	3.3 -> list2 (wat nu Copy_3_2_F_to_CDB_3_1_F_mediahuis_02 is)
+	See also CULTSAPI-189 Upgrade solr to cdbxml 3.3
+
+
+MDH-73 Provide xslt to downgrade cdbxml (09/Dec/14)
+	cdbxml 3.3 to 3.2
+	cdbxml 3.3 to 3.1 
+	MapToCDB_XSD_3_1_01
+	MapToCDB_XSD_3_2_01
